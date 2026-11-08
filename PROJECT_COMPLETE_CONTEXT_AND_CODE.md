@@ -3515,7 +3515,7 @@ Strictly adheres to:
 - No hardcoded numbers
 - No unsourced marketing claims
 - Exactly 2 pages
-- Explicit candidate name: Zaryab Mehmood
+- Explicit candidate name: Zeeshan Mehmood
 """
 from __future__ import annotations
 
@@ -3632,7 +3632,7 @@ def create_solution_pdf(output_path: Path = PDF_PATH) -> Path:
     # ══════════════════════════════════════════════════════════════════════
     story.append(Paragraph("KUKU FM AI GENERALIST ASSIGNMENT — SOLUTION DOCUMENT", title_style))
     story.append(Paragraph(
-        f"<b>Candidate:</b> Zaryab Mehmood | <b>Problem 1:</b> Find the Promos (Ads) | <b>Show:</b> <i>I Married a Broken Soldier. He was a Duke</i> (50 Episodes)",
+        f"<b>Candidate:</b> Zeeshan Mehmood | <b>Problem 1:</b> Find the Promos (Ads) | <b>Show:</b> <i>I Married a Broken Soldier. He was a Duke</i> (50 Episodes)",
         subtitle_style,
     ))
     story.append(HRFlowable(width="100%", thickness=1, color=c_primary, spaceBefore=0, spaceAfter=4))

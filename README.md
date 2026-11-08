@@ -1,6 +1,6 @@
 # 🎬 Kuku FM — AI Promo Discovery & Ranking Engine
 > **AI Generalist Assignment — Problem 1: Find the Promos (Ads)**  
-> **Candidate:** Zaryab Mehmood  
+> **Candidate:** Zeeshan Mehmood  
 > **Show Analyzed:** *"I Married a Broken Soldier. He was a Duke"* (50 Episodes)  
 > **Deliverables:** Working Prototype (Streamlit) | 2-Page Solution Doc (PDF) | Raw Outputs JSON | Live Script Runner
 
