@@ -1,0 +1,651 @@
+{
+  "episode_number": 8,
+  "episode_id": "episode-008-Episode 1671710",
+  "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+  "continuity_notes": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "heading": "INT. WOODLAND COTTAGE – DAY",
+      "start_time": "00:00.00",
+      "end_time": "01:18.00",
+      "start_seconds": 0.0,
+      "end_seconds": 78.0,
+      "elements": [
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:00.00",
+          "end_time": "00:03.20",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Juliana seated at a rustic wooden table beside a daylight-lit window, gently touching an aged leather-bound book.",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:00.00",
+          "end_time": "00:03.20",
+          "character": null,
+          "emotion": null,
+          "content": "Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:00.20",
+          "end_time": "00:03.20",
+          "character": "JULIANA",
+          "emotion": "Gentle, Somber",
+          "content": "Some of the pages are ruined. Careful.",
+          "start_seconds": 0.2,
+          "end_seconds": 3.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:03.20",
+          "end_time": "00:05.10",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book.",
+          "start_seconds": 3.2,
+          "end_seconds": 5.1
+        },
+        {
+          "element_type": "SOUND_FX",
+          "start_time": "00:03.40",
+          "end_time": "00:04.50",
+          "character": null,
+          "emotion": null,
+          "content": "Soft metallic click of the book clasp loosening.",
+          "start_seconds": 3.4,
+          "end_seconds": 4.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:05.10",
+          "end_time": "00:07.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages.",
+          "start_seconds": 5.1,
+          "end_seconds": 7.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:05.10",
+          "end_time": "00:07.80",
+          "character": "JULIANA",
+          "emotion": "Reflective, Reverent",
+          "content": "Mother spent years writing this.",
+          "start_seconds": 5.1,
+          "end_seconds": 7.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:07.80",
+          "end_time": "00:10.50",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.",
+          "start_seconds": 7.8,
+          "end_seconds": 10.5
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:08.50",
+          "end_time": "00:10.50",
+          "character": null,
+          "emotion": null,
+          "content": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.",
+          "start_seconds": 8.5,
+          "end_seconds": 10.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:10.50",
+          "end_time": "00:11.90",
+          "character": null,
+          "emotion": null,
+          "content": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.",
+          "start_seconds": 10.5,
+          "end_seconds": 11.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:10.50",
+          "end_time": "00:11.80",
+          "character": "JULIANA",
+          "emotion": "Curious, Recognizing",
+          "content": "Yarrow.",
+          "start_seconds": 10.5,
+          "end_seconds": 11.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:11.90",
+          "end_time": "00:15.00",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.",
+          "start_seconds": 11.9,
+          "end_seconds": 15.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:12.00",
+          "end_time": "00:14.60",
+          "character": "ALEXANDER",
+          "emotion": "Calm, Knowledgeable",
+          "content": "Good for wounds. Fever, too.",
+          "start_seconds": 12.0,
+          "end_seconds": 14.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:15.00",
+          "end_time": "00:16.30",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Juliana looking up at him with genuine curiosity.",
+          "start_seconds": 15.0,
+          "end_seconds": 16.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:15.10",
+          "end_time": "00:16.10",
+          "character": "JULIANA",
+          "emotion": "Inquiring, Soft",
+          "content": "How do you know that?",
+          "start_seconds": 15.1,
+          "end_seconds": 16.1
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:16.30",
+          "end_time": "00:19.30",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander speaking in a steady, measured tone.",
+          "start_seconds": 16.3,
+          "end_seconds": 19.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:16.30",
+          "end_time": "00:18.90",
+          "character": "ALEXANDER",
+          "emotion": "Somber, Matter-of-Fact",
+          "content": "Soldiers learn quickly which plants keep a man alive.",
+          "start_seconds": 16.3,
+          "end_seconds": 18.9
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:19.30",
+          "end_time": "00:21.50",
+          "character": null,
+          "emotion": null,
+          "content": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.",
+          "start_seconds": 19.3,
+          "end_seconds": 21.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:19.40",
+          "end_time": "00:21.80",
+          "character": "JULIANA",
+          "emotion": "Observant, Lightly Teasing",
+          "content": "You know more about healing than you let on.",
+          "start_seconds": 19.4,
+          "end_seconds": 21.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:21.50",
+          "end_time": "00:24.30",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.",
+          "start_seconds": 21.5,
+          "end_seconds": 24.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:22.80",
+          "end_time": "00:24.20",
+          "character": "ALEXANDER",
+          "emotion": "Quiet, Gritty",
+          "content": "Enough to survive.",
+          "start_seconds": 22.8,
+          "end_seconds": 24.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:24.30",
+          "end_time": "00:26.50",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.",
+          "start_seconds": 24.3,
+          "end_seconds": 26.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:25.00",
+          "end_time": "00:26.80",
+          "character": "JULIANA",
+          "emotion": "Hesitant, Soft",
+          "content": "Your hair and beard...",
+          "start_seconds": 25.0,
+          "end_seconds": 26.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:26.50",
+          "end_time": "00:28.10",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Alexander standing tall over her, looking down patiently.",
+          "start_seconds": 26.5,
+          "end_seconds": 28.1
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:28.10",
+          "end_time": "00:31.90",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.",
+          "start_seconds": 28.1,
+          "end_seconds": 31.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:30.10",
+          "end_time": "00:31.90",
+          "character": "JULIANA",
+          "emotion": "Gentle, Tender",
+          "content": "I could trim them for you.",
+          "start_seconds": 30.1,
+          "end_seconds": 31.9
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:31.90",
+          "end_time": "00:33.20",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.",
+          "start_seconds": 31.9,
+          "end_seconds": 33.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:33.20",
+          "end_time": "00:35.50",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.",
+          "start_seconds": 33.2,
+          "end_seconds": 35.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:33.20",
+          "end_time": "00:34.50",
+          "character": "ALEXANDER",
+          "emotion": "Firm, Low",
+          "content": "Not yet.",
+          "start_seconds": 33.2,
+          "end_seconds": 34.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:35.50",
+          "end_time": "00:37.30",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.",
+          "start_seconds": 35.5,
+          "end_seconds": 37.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:35.80",
+          "end_time": "00:36.90",
+          "character": "JULIANA",
+          "emotion": "Puzzled, Curious",
+          "content": "Not yet?",
+          "start_seconds": 35.8,
+          "end_seconds": 36.9
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:37.30",
+          "end_time": "00:39.60",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander, still maintaining his gentle hold on her arm.",
+          "start_seconds": 37.3,
+          "end_seconds": 39.6
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:37.70",
+          "end_time": "00:38.90",
+          "character": "ALEXANDER",
+          "emotion": "Grounded, Steady",
+          "content": "Let them grow.",
+          "start_seconds": 37.7,
+          "end_seconds": 38.9
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:39.60",
+          "end_time": "00:42.30",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana smiling with playful warmth.",
+          "start_seconds": 39.6,
+          "end_seconds": 42.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:39.90",
+          "end_time": "00:42.00",
+          "character": "JULIANA",
+          "emotion": "Playful, Amused",
+          "content": "You prefer looking like a forest hermit?",
+          "start_seconds": 39.9,
+          "end_seconds": 42.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:42.30",
+          "end_time": "00:44.90",
+          "character": null,
+          "emotion": null,
+          "content": "Intimate two-shot as Alexander slowly lowers her hand, his expression softening.",
+          "start_seconds": 42.3,
+          "end_seconds": 44.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:43.70",
+          "end_time": "00:44.90",
+          "character": "ALEXANDER",
+          "emotion": "Dry, Droll",
+          "content": "It has advantages.",
+          "start_seconds": 43.7,
+          "end_seconds": 44.9
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:44.90",
+          "end_time": "00:46.90",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Juliana chuckling quietly as she steps back toward the table.",
+          "start_seconds": 44.9,
+          "end_seconds": 46.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:45.50",
+          "end_time": "00:46.80",
+          "character": "JULIANA",
+          "emotion": "Fond, Resigned",
+          "content": "Very well.",
+          "start_seconds": 45.5,
+          "end_seconds": 46.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:46.90",
+          "end_time": "00:48.00",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander watching her with deep, affectionate attention.",
+          "start_seconds": 46.9,
+          "end_seconds": 48.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:48.00",
+          "end_time": "00:50.00",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana grinning with sparkling eyes.",
+          "start_seconds": 48.0,
+          "end_seconds": 50.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:48.10",
+          "end_time": "00:49.60",
+          "character": "JULIANA",
+          "emotion": "Teasing, Determined",
+          "content": "But one day, I am trimming that beard.",
+          "start_seconds": 48.1,
+          "end_seconds": 49.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:50.00",
+          "end_time": "00:51.30",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander lowering his head slightly with a faint smirk.",
+          "start_seconds": 50.0,
+          "end_seconds": 51.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:50.10",
+          "end_time": "00:51.20",
+          "character": "ALEXANDER",
+          "emotion": "Low, Amused",
+          "content": "We'll see.",
+          "start_seconds": 50.1,
+          "end_seconds": 51.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:51.30",
+          "end_time": "00:53.30",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot of both sitting back down at the table together, Alexander turning a brittle page of the herb book.",
+          "start_seconds": 51.3,
+          "end_seconds": 53.3
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:53.30",
+          "end_time": "00:57.10",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up insert of Alexander's weathered finger pointing directly at a delicate botanical illustration of a flowering stem.",
+          "start_seconds": 53.3,
+          "end_seconds": 57.1
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:53.30",
+          "end_time": "00:57.00",
+          "character": "ALEXANDER",
+          "emotion": "Instructional, Calm",
+          "content": "That one grows near the northern stream. Crushed leaves ease swelling.",
+          "start_seconds": 53.3,
+          "end_seconds": 57.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:57.10",
+          "end_time": "00:59.80",
+          "character": null,
+          "emotion": null,
+          "content": "Wide side-profile two-shot of Juliana and Alexander seated across from each other at the rustic table, the stone fireplace roaring warmly behind them.",
+          "start_seconds": 57.1,
+          "end_seconds": 59.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:58.70",
+          "end_time": "01:00.20",
+          "character": "JULIANA",
+          "emotion": "Soft, Nostalgic",
+          "content": "My mother wrote the same thing.",
+          "start_seconds": 58.7,
+          "end_seconds": 60.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:59.80",
+          "end_time": "01:03.00",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana looking across at his battle-marked features with empathy.",
+          "start_seconds": 59.8,
+          "end_seconds": 63.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:00.50",
+          "end_time": "01:02.80",
+          "character": "JULIANA",
+          "emotion": "Hesitant, Compassionate",
+          "content": "And the scars... were they from the war?",
+          "start_seconds": 60.5,
+          "end_seconds": 62.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:03.00",
+          "end_time": "01:04.30",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander looking downward, memories clouding his eyes.",
+          "start_seconds": 63.0,
+          "end_seconds": 64.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:03.20",
+          "end_time": "01:04.20",
+          "character": "ALEXANDER",
+          "emotion": "Quiet, Subdued",
+          "content": "Some were.",
+          "start_seconds": 63.2,
+          "end_seconds": 64.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:04.30",
+          "end_time": "01:06.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana, her eyes filled with gentle understanding.",
+          "start_seconds": 64.3,
+          "end_seconds": 66.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:04.90",
+          "end_time": "01:06.30",
+          "character": "JULIANA",
+          "emotion": "Tender, Aching",
+          "content": "It must have been terrible.",
+          "start_seconds": 64.9,
+          "end_seconds": 66.3
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:06.50",
+          "end_time": "01:08.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Alexander lifting his gaze, heavy with past battles.",
+          "start_seconds": 66.5,
+          "end_seconds": 68.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:06.70",
+          "end_time": "01:07.60",
+          "character": "ALEXANDER",
+          "emotion": "Heavy, Somber",
+          "content": "It was.",
+          "start_seconds": 66.7,
+          "end_seconds": 67.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:08.50",
+          "end_time": "01:10.90",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot of Juliana smiling tenderly at him across the open book.",
+          "start_seconds": 68.5,
+          "end_seconds": 70.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:09.00",
+          "end_time": "01:12.10",
+          "character": "JULIANA",
+          "emotion": "Reflective, Vulnerable",
+          "content": "I thought losing wealth meant losing everything.",
+          "start_seconds": 69.0,
+          "end_seconds": 72.1
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:10.90",
+          "end_time": "01:13.20",
+          "character": null,
+          "emotion": null,
+          "content": "Wide shot framing the warm silhouette of the two companions sitting peacefully beside the blazing stone hearth.",
+          "start_seconds": 70.9,
+          "end_seconds": 73.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:13.20",
+          "end_time": "01:18.00",
+          "character": null,
+          "emotion": null,
+          "content": "Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.",
+          "start_seconds": 73.2,
+          "end_seconds": 78.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:13.20",
+          "end_time": "01:15.30",
+          "character": "JULIANA",
+          "emotion": "Quiet, Transformed",
+          "content": "Perhaps I was wrong.",
+          "start_seconds": 73.2,
+          "end_seconds": 75.3
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:15.30",
+          "end_time": "01:18.00",
+          "character": null,
+          "emotion": null,
+          "content": "Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.",
+          "start_seconds": 75.3,
+          "end_seconds": 78.0
+        }
+      ]
+    }
+  ],
+  "total_duration_sec": 78.0,
+  "total_elements": 63,
+  "total_dialogue_lines": 26
+}

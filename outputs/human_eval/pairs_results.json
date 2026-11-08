@@ -1,0 +1,20 @@
+{
+  "n_pairs": 0,
+  "vs_last_30_sec": {
+    "pipeline_wins": 0,
+    "total": 0,
+    "win_rate": 0.0
+  },
+  "vs_rule_based": {
+    "pipeline_wins": 0,
+    "total": 0,
+    "win_rate": 0.0
+  },
+  "overall": {
+    "pipeline_wins": 0,
+    "total": 0,
+    "win_rate": 0.0
+  },
+  "p_value_two_sided": 1.0,
+  "caveat": "Single-rater blind evaluation with small sample size (N=0); indicates directionality, not population-wide ground truth."
+}

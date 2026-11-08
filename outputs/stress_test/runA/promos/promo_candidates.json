@@ -1,0 +1,261 @@
+[
+  {
+    "promo_id": "PR-002",
+    "promo_type": "single_episode",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "00:46.80",
+        "end_time": "01:30.80",
+        "start_seconds": 46.8,
+        "end_seconds": 90.8
+      }
+    ],
+    "total_duration_sec": 44.0,
+    "hook": "Lady Juliana cries out in rage, demanding to know why her family let her walk down the aisle under false pretenses.",
+    "cliffhanger": "Juliana drops to her knees begging her father for help, but he stony-faced refuses to look at her or utter a single word.",
+    "why_it_works": "Maximizes emotional damage by showcasing not just a cheating fiancé, but an entire family conspiring against the protagonist.",
+    "characters_in_clip": [
+      "LADY JULIANA",
+      "THE FORMER GROOM",
+      "LADY IN GOLD GOWN"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-006",
+    "promo_type": "multi_segment",
+    "episodes": [
+      3
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_time": "01:09.90",
+        "end_time": "01:28.00",
+        "start_seconds": 69.9,
+        "end_seconds": 88.0
+      },
+      {
+        "episode": 3,
+        "start_time": "02:12.70",
+        "end_time": "02:25.75",
+        "start_seconds": 132.7,
+        "end_seconds": 145.75
+      }
+    ],
+    "total_duration_sec": 31.150000000000006,
+    "hook": "A rugged bearded stranger steps into the cathedral aisle and orders the guards with a thunderous voice, Take your hands off her.",
+    "cliffhanger": "The bearded stranger kneels before Juliana in the middle of the cathedral and says, Lady Juliana... accept my hand., leaving the high-society wedding guests frozen in utter shock.",
+    "why_it_works": "It delivers an incredible power-fantasy rescue combined with an unexpected romantic proposal that flips the humiliation into a triumphant power move.",
+    "characters_in_clip": [
+      "THE BEARDED STRANGER",
+      "NOBLE MATRIARCH",
+      "ROYAL GUARD",
+      "THE FORMER GROOM"
+    ],
+    "creative_angle": "protective_romance"
+  },
+  {
+    "promo_id": "PR-007",
+    "promo_type": "cross_episode",
+    "episodes": [
+      3,
+      1
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_time": "02:12.70",
+        "end_time": "02:25.75",
+        "start_seconds": 132.7,
+        "end_seconds": 145.75
+      },
+      {
+        "episode": 1,
+        "start_time": "00:32.80",
+        "end_time": "00:41.20",
+        "start_seconds": 32.8,
+        "end_seconds": 41.2
+      },
+      {
+        "episode": 1,
+        "start_time": "01:57.00",
+        "end_time": "02:18.00",
+        "start_seconds": 117.0,
+        "end_seconds": 138.0
+      }
+    ],
+    "total_duration_sec": 42.45000000000002,
+    "hook": "The mysterious stranger drops to one knee in front of high society and proposes to Juliana.",
+    "cliffhanger": "Gerald publicly discards Lady Juliana for her plainness, but instead of breaking down, her tearful eyes harden into cold, resolute defiance as a string drone swells.",
+    "why_it_works": "Opens with an unexpected high-status proposal flash-forward, drops back to the devastating public altar betrayal, and ends on an unresolved, chilling gaze of pure vengeance that hooks the viewer instantly.",
+    "characters_in_clip": [
+      "THE BEARDED STRANGER",
+      "LADY JULIANA",
+      "LADY IN GOLD GOWN",
+      "THE FORMER GROOM"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-001",
+    "promo_type": "single_episode",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "00:09.80",
+        "end_time": "00:46.80",
+        "start_seconds": 9.8,
+        "end_seconds": 46.8
+      }
+    ],
+    "total_duration_sec": 37.0,
+    "hook": "Lady Juliana walks down the grand cathedral aisle in her mother's bridal gown, only to find her groom holding hands with another woman.",
+    "cliffhanger": "Juliana stands below the altar platform staring in sheer devastation as the Lady in Gold Gown smugly confirms she is marrying Gerald.",
+    "why_it_works": "Presents an immediate visual and emotional betrayal that hooks viewers within the first 3 seconds with the shocking altar reveal.",
+    "characters_in_clip": [
+      "MATRIARCH",
+      "LADY JULIANA",
+      "LADY IN GOLD GOWN"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-005",
+    "promo_type": "multi_segment",
+    "episodes": [
+      3
+    ],
+    "segments": [
+      {
+        "episode": 3,
+        "start_time": "00:02.10",
+        "end_time": "00:22.50",
+        "start_seconds": 2.1,
+        "end_seconds": 22.5
+      },
+      {
+        "episode": 3,
+        "start_time": "00:58.30",
+        "end_time": "01:04.50",
+        "start_seconds": 58.3,
+        "end_seconds": 64.5
+      }
+    ],
+    "total_duration_sec": 26.6,
+    "hook": "The Lady in Gold Gown smugly tells Juliana, Look at you... still clinging to that little locket as if it can make you worthy of a place here.",
+    "cliffhanger": "Juliana's hands are pulled away from the wooden pew by guards as she desperately screams, Please! Someone!",
+    "why_it_works": "This promo immediately establishes pure emotional betrayal and high-stakes cruelty from her own family, driving instant empathy for the heroine before she is forcefully dragged away.",
+    "characters_in_clip": [
+      "LADY IN GOLD GOWN",
+      "LADY JULIANA",
+      "NOBLE MATRIARCH"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-003",
+    "promo_type": "single_episode",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "01:55.20",
+        "end_time": "02:18.00",
+        "start_seconds": 115.2,
+        "end_seconds": 138.0
+      }
+    ],
+    "total_duration_sec": 22.799999999999997,
+    "hook": "Gerald looks down at Juliana with zero remorse, coldly declaring that she has nothing to offer him anymore.",
+    "cliffhanger": "Juliana's tear-filled eyes harden into cold, resolute defiance as the string drone swells to an ominous peak and cuts to black.",
+    "why_it_works": "Delivers the ultimate setup for a revenge arc by showing the exact moment the protagonist's sorrow turns into dangerous resolve.",
+    "characters_in_clip": [
+      "LADY JULIANA",
+      "THE FORMER GROOM"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-004",
+    "promo_type": "multi_segment",
+    "episodes": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:00.00",
+        "end_time": "00:12.00",
+        "start_seconds": 0.0,
+        "end_seconds": 12.0
+      },
+      {
+        "episode": 2,
+        "start_time": "01:12.80",
+        "end_time": "01:36.60",
+        "start_seconds": 72.8,
+        "end_seconds": 96.6
+      }
+    ],
+    "total_duration_sec": 35.8,
+    "hook": "In the first 3 seconds, Gerald stands at the altar steps and coldly tells Juliana, 'I cannot marry you, Juliana.'",
+    "cliffhanger": "In the final 5 seconds, Juliana looks up at Gerald with fierce conviction and tells him, 'You have shown them exactly what your word is worth.'",
+    "why_it_works": "This promo bridges the initial gut-wrenching public betrayal with Juliana's powerful turning point, showing the audience both the depths of her humiliation and the birth of her revenge.",
+    "characters_in_clip": [
+      "THE FORMER GROOM",
+      "THE FORMER GROOM (Off-screen)",
+      "LADY JULIANA",
+      "LADY JULIANA (Off-screen)"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-008",
+    "promo_type": "cross_episode",
+    "episodes": [
+      2,
+      1
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "01:26.70",
+        "end_time": "01:36.60",
+        "start_seconds": 86.7,
+        "end_seconds": 96.6
+      },
+      {
+        "episode": 1,
+        "start_time": "01:19.00",
+        "end_time": "01:30.80",
+        "start_seconds": 79.0,
+        "end_seconds": 90.8
+      },
+      {
+        "episode": 2,
+        "start_time": "01:38.20",
+        "end_time": "01:50.00",
+        "start_seconds": 98.2,
+        "end_seconds": 110.0
+      }
+    ],
+    "total_duration_sec": 33.499999999999986,
+    "hook": "Juliana powerfully rebukes Gerald, exposing the worthless nature of his vows.",
+    "cliffhanger": "Juliana stands tall with unassailable dignity as the orchestral score swells, refusing to carry any shame.",
+    "why_it_works": "Starts with the ultimate verbal takedown of the betrayer, shows the cold family betrayal that caused the pain, and finishes with an empowering, spine-tingling posture of survival.",
+    "characters_in_clip": [
+      "LADY JULIANA"
+    ],
+    "creative_angle": "betrayal_revenge"
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "episode_number": 7,
+  "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+  "moments": [
+    {
+      "episode_number": 7,
+      "moment_type": "hook_visual",
+      "intensity_score": 6,
+      "start_time": "00:00.00",
+      "end_time": "00:11.50",
+      "start_seconds": 0.0,
+      "end_seconds": 11.5,
+      "description": "Juliana is forced to kneel in the dirt outside a humble cottage as an opulent carriage arrives to mock her downfall.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 7,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:22.00",
+      "end_time": "00:32.60",
+      "start_seconds": 22.0,
+      "end_seconds": 32.6,
+      "description": "Gerald and the Aristocratic Woman arrive at the woodland cottage to taunt Juliana about her impoverished living conditions.",
+      "key_dialogue": "A fitting home for a woman who threw away everything for a penniless soldier.",
+      "characters_involved": [
+        "ARISTOCRATIC WOMAN",
+        "GERALD",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Mocking, Condescending",
+        "Arrogant, Scornful",
+        "Sharp, Unintimidated"
+      ]
+    },
+    {
+      "episode_number": 7,
+      "moment_type": "emotional_peak",
+      "intensity_score": 7,
+      "start_time": "00:41.20",
+      "end_time": "00:50.40",
+      "start_seconds": 41.2,
+      "end_seconds": 50.4,
+      "description": "Juliana stands tall with unwavering dignity, proudly declaring that she remains a lady despite her soiled gown.",
+      "key_dialogue": "And I remain one.",
+      "characters_involved": [
+        "JULIANA",
+        "GERALD"
+      ],
+      "emotion_labels": [
+        "Proud, Resolute",
+        "Biting, Condescending",
+        "Firm, Unapologetic"
+      ]
+    },
+    {
+      "episode_number": 7,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:57.80",
+      "end_time": "01:09.50",
+      "start_seconds": 57.8,
+      "end_seconds": 69.5,
+      "description": "Juliana fiercely defends her choice of husband, prompting a furious Gerald to threaten her and her missing spouse.",
+      "key_dialogue": "I have enough influence to make a beggar disappear.",
+      "characters_involved": [
+        "JULIANA",
+        "GERALD"
+      ],
+      "emotion_labels": [
+        "Passionate, Defiant",
+        "Cold, Commanding",
+        "Furious, Threatening",
+        "Spiteful, Boastful"
+      ]
+    },
+    {
+      "episode_number": 7,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "01:09.50",
+      "end_time": "01:15.50",
+      "start_seconds": 69.5,
+      "end_seconds": 75.5,
+      "description": "The imposing scarred bearded husband emerges silently from the dark forest path carrying a heavy bundle of firewood.",
+      "key_dialogue": "Where is that beggar husband?",
+      "characters_involved": [
+        "GERALD (V.O.)"
+      ],
+      "emotion_labels": [
+        "Snarl"
+      ]
+    },
+    {
+      "episode_number": 7,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:18.50",
+      "end_time": "01:31.40",
+      "start_seconds": 78.5,
+      "end_seconds": 91.4,
+      "description": "The towering scarred husband steps menacingly toward Gerald, causing his arrogant bravado to instantly vanish into sheer terror.",
+      "key_dialogue": "We are leaving.",
+      "characters_involved": [
+        "ARISTOCRATIC WOMAN (O.S.)",
+        "GERALD"
+      ],
+      "emotion_labels": [
+        "Urgent, Annoyed",
+        "Trembling, Trying to Save Face",
+        "Nervous, Hurried"
+      ]
+    }
+  ],
+  "total_duration_sec": 116.0
+}

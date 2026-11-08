@@ -1,0 +1,121 @@
+{
+  "episode_number": 44,
+  "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+  "moments": [
+    {
+      "episode_number": 44,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "00:03.30",
+      "end_time": "00:13.20",
+      "start_seconds": 3.3,
+      "end_seconds": 13.2,
+      "description": "The Police Constable confronts Lord Sterling in the ruined cathedral and places him under arrest by order of the Crown.",
+      "key_dialogue": "Lord Henry Sterling, you are under arrest by order of the Crown.",
+      "characters_involved": [
+        "POLICE CONSTABLE",
+        "LORD STERLING"
+      ],
+      "emotion_labels": [
+        "Authoritative, Stern",
+        "Snarls, Outraged",
+        "Cold, Definite"
+      ]
+    },
+    {
+      "episode_number": 44,
+      "moment_type": "confrontation",
+      "intensity_score": 6,
+      "start_time": "00:13.80",
+      "end_time": "00:19.30",
+      "start_seconds": 13.8,
+      "end_seconds": 19.3,
+      "description": "Royal redcoat guards violently force Rupert down onto his knees in the stone dust while he desperately calls out to Catherine.",
+      "key_dialogue": "Do something!",
+      "characters_involved": [
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Frantic, Shouting",
+        "Desperate, Screaming"
+      ]
+    },
+    {
+      "episode_number": 44,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:25.20",
+      "end_time": "00:34.00",
+      "start_seconds": 25.2,
+      "end_seconds": 34.0,
+      "description": "Catherine tearfully confronts Alexander, overwhelmed with emotion after believing he had been dead for three years.",
+      "key_dialogue": "Alexander... I thought you had died.",
+      "characters_involved": [
+        "CATHERINE",
+        "CATHERINE (O.S.)"
+      ],
+      "emotion_labels": [
+        "Shaken, Tearful",
+        "Choked, Weeping",
+        "Pleading",
+        "Vulnerable, Trembling"
+      ]
+    },
+    {
+      "episode_number": 44,
+      "moment_type": "betrayal",
+      "intensity_score": 9,
+      "start_time": "00:38.80",
+      "end_time": "00:46.40",
+      "start_seconds": 38.8,
+      "end_seconds": 46.4,
+      "description": "Catherine gently reaches out to touch Alexander's face, but he abruptly pulls back and rejects her affection.",
+      "key_dialogue": "I never stopped loving you.",
+      "characters_involved": [
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Whispering, Longing",
+        "Breathless, Hurt"
+      ]
+    },
+    {
+      "episode_number": 44,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:49.00",
+      "end_time": "00:55.50",
+      "start_seconds": 49.0,
+      "end_seconds": 55.5,
+      "description": "Alexander coldly denies Catherine's claim that she was meant to be his Duchess, telling her she only loved the title.",
+      "key_dialogue": "You were never my Duchess.",
+      "characters_involved": [
+        "ALEXANDER",
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Cold, Implacable",
+        "Sobbing, Pleading",
+        "Scornful, Biting"
+      ]
+    },
+    {
+      "episode_number": 44,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:05.00",
+      "end_time": "01:10.40",
+      "start_seconds": 65.0,
+      "end_seconds": 70.4,
+      "description": "Alexander turns his back on a pleading Catherine and walks past heavy iron chains toward Juliana, leaving Catherine in utter disbelief.",
+      "key_dialogue": "Her?!",
+      "characters_involved": [
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Gasping, Incredulous"
+      ]
+    }
+  ],
+  "total_duration_sec": 70.5
+}

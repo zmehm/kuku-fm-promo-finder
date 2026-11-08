@@ -1,0 +1,114 @@
+{
+  "episode_number": 5,
+  "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+  "moments": [
+    {
+      "episode_number": 5,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "00:06.80",
+      "end_time": "00:20.80",
+      "start_seconds": 6.8,
+      "end_seconds": 20.8,
+      "description": "Lord Ashcroft publicly disowns Lady Juliana on the cathedral steps, declaring she no longer carries the Ashcroft name.",
+      "key_dialogue": "You will not leave this church carrying the Ashcroft name.",
+      "characters_involved": [
+        "LORD ASHCROFT",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Cold, Condemnatory",
+        "Defiant, Steadfast",
+        "Harsh, Final"
+      ]
+    },
+    {
+      "episode_number": 5,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:21.00",
+      "end_time": "00:28.90",
+      "start_seconds": 21.0,
+      "end_seconds": 28.9,
+      "description": "Lord Ashcroft coldly revokes Juliana's dowry and inheritance, pronouncing her dead to the family.",
+      "key_dialogue": "From this moment, you are dead to the Ashcroft family.",
+      "characters_involved": [
+        "LORD ASHCROFT"
+      ],
+      "emotion_labels": [
+        "O.S. / Continues"
+      ]
+    },
+    {
+      "episode_number": 5,
+      "moment_type": "betrayal",
+      "intensity_score": 9,
+      "start_time": "00:54.00",
+      "end_time": "00:58.20",
+      "start_seconds": 54.0,
+      "end_seconds": 58.2,
+      "description": "Lady Ashcroft maliciously wrenches Juliana's treasured heirloom ledger away and flings it into the wet pavement.",
+      "key_dialogue": "Barbara, don't!",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Screaming, Desperate"
+      ]
+    },
+    {
+      "episode_number": 5,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "01:03.00",
+      "end_time": "01:09.00",
+      "start_seconds": 63.0,
+      "end_seconds": 69.0,
+      "description": "A heartbroken Lady Juliana drops straight to her knees into the mud of the courtyard to reach for her mother's book.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 5,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "01:10.50",
+      "end_time": "01:25.40",
+      "start_seconds": 70.5,
+      "end_seconds": 85.4,
+      "description": "The Mysterious Bearded Man kneels beside Juliana in the mud to gently retrieve the soiled ledger and comfort her.",
+      "key_dialogue": "They dirtied it. That is not the same thing.",
+      "characters_involved": [
+        "MYSTERIOUS BEARDED MAN",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Low, Gentle",
+        "Choked, Weeping",
+        "Calm, Grounded"
+      ]
+    },
+    {
+      "episode_number": 5,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:31.00",
+      "end_time": "01:40.80",
+      "start_seconds": 91.0,
+      "end_seconds": 100.8,
+      "description": "Gerald mocks Juliana from the steps as a beggar's wife, prompting a lethally cold warning from her new husband.",
+      "key_dialogue": "Choose your next words carefully.",
+      "characters_involved": [
+        "GERALD",
+        "MYSTERIOUS BEARDED MAN"
+      ],
+      "emotion_labels": [
+        "Mocking, Arrogant",
+        "Scornful, Spiteful",
+        "Low, Lethally Cold"
+      ]
+    }
+  ],
+  "total_duration_sec": 110.5
+}

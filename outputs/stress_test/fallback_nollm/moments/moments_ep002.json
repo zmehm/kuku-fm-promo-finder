@@ -1,0 +1,279 @@
+{
+  "episode_number": 2,
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "moments": [
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "00:00.00",
+      "end_time": "00:02.50",
+      "start_seconds": 0.0,
+      "end_seconds": 2.5,
+      "description": "THE FORMER GROOM: I cannot marry you, Juliana.",
+      "key_dialogue": "I cannot marry you, Juliana.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Cold, Callous"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:04.70",
+      "end_time": "00:06.50",
+      "start_seconds": 4.7,
+      "end_seconds": 6.5,
+      "description": "THE FORMER GROOM: You are far too plain...",
+      "key_dialogue": "You are far too plain...",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Cruel, Derisive"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:06.80",
+      "end_time": "00:09.50",
+      "start_seconds": 6.8,
+      "end_seconds": 9.5,
+      "description": "THE FORMER GROOM (Off-screen): ...far too silent...",
+      "key_dialogue": "...far too silent...",
+      "characters_involved": [
+        "THE FORMER GROOM (Off-screen)"
+      ],
+      "emotion_labels": [
+        "Dismissive"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:12.40",
+      "end_time": "00:15.50",
+      "start_seconds": 12.4,
+      "end_seconds": 15.5,
+      "description": "LADY JULIANA: Gerald... Look at me.",
+      "key_dialogue": "Gerald... Look at me.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate, Pleading"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:18.20",
+      "end_time": "00:20.60",
+      "start_seconds": 18.2,
+      "end_seconds": 20.6,
+      "description": "LADY JULIANA: You gave me your word before both our families.",
+      "key_dialogue": "You gave me your word before both our families.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Trembling, Betrayed"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "00:20.90",
+      "end_time": "00:23.70",
+      "start_seconds": 20.9,
+      "end_seconds": 23.7,
+      "description": "THE FORMER GROOM: Promises change when a better choice appears.",
+      "key_dialogue": "Promises change when a better choice appears.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Indifferent, Unapologetic"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:30.90",
+      "end_time": "00:32.40",
+      "start_seconds": 30.9,
+      "end_seconds": 32.4,
+      "description": "LADY JULIANA (Off-screen): Father...",
+      "key_dialogue": "Father...",
+      "characters_involved": [
+        "LADY JULIANA (Off-screen)"
+      ],
+      "emotion_labels": [
+        "Vulnerable, Begging"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:37.50",
+      "end_time": "00:42.30",
+      "start_seconds": 37.5,
+      "end_seconds": 42.3,
+      "description": "BLOND NOBLEMAN: Gerald has made his choice. Accept it, Juliana.",
+      "key_dialogue": "Gerald has made his choice. Accept it, Juliana.",
+      "characters_involved": [
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Stern, Cold"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:47.80",
+      "end_time": "00:51.40",
+      "start_seconds": 47.8,
+      "end_seconds": 51.4,
+      "description": "LADY IN GOLD GOWN: Why are you surprised, sister? Look at you.",
+      "key_dialogue": "Why are you surprised, sister? Look at you.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Mocking, Spiteful"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:51.60",
+      "end_time": "00:53.20",
+      "start_seconds": 51.6,
+      "end_seconds": 53.2,
+      "description": "LADY IN GOLD GOWN (Off-screen): That plain, old-fashioned gown.",
+      "key_dialogue": "That plain, old-fashioned gown.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN (Off-screen)"
+      ],
+      "emotion_labels": [
+        "Scornful"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:53.50",
+      "end_time": "00:56.70",
+      "start_seconds": 53.5,
+      "end_seconds": 56.7,
+      "description": "LADY IN GOLD GOWN: You look like a kitchen maid who wandered into the wrong wedding.",
+      "key_dialogue": "You look like a kitchen maid who wandered into the wrong wedding.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Taunting, Giggling"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:03.60",
+      "end_time": "01:05.80",
+      "start_seconds": 63.6,
+      "end_seconds": 65.8,
+      "description": "OFF-SCREEN VOICE: Oh, don't look so wounded, Juliana.",
+      "key_dialogue": "Oh, don't look so wounded, Juliana.",
+      "characters_involved": [
+        "OFF-SCREEN VOICE"
+      ],
+      "emotion_labels": [
+        "Cold, Scolding"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:06.10",
+      "end_time": "01:09.30",
+      "start_seconds": 66.1,
+      "end_seconds": 69.3,
+      "description": "OFF-SCREEN VOICE: You should be grateful you're at least allowed to attend the wedding.",
+      "key_dialogue": "You should be grateful you're at least allowed to attend the wedding.",
+      "characters_involved": [
+        "OFF-SCREEN VOICE"
+      ],
+      "emotion_labels": [
+        "Dismissive, Condescending"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:09.40",
+      "end_time": "01:12.70",
+      "start_seconds": 69.4,
+      "end_seconds": 72.7,
+      "description": "THE FORMER GROOM: Go home quietly, Juliana. At least leave this chapel with some dignity.",
+      "key_dialogue": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Impatient, Commanding"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:14.40",
+      "end_time": "01:16.40",
+      "start_seconds": 74.4,
+      "end_seconds": 76.4,
+      "description": "LADY JULIANA: Dignity?",
+      "key_dialogue": "Dignity?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Bitter, Defiant"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:43.00",
+      "end_time": "01:47.40",
+      "start_seconds": 103.0,
+      "end_seconds": 107.4,
+      "description": "LADY JULIANA: ...but I will not leave it believing I was the one who should be ashamed.",
+      "key_dialogue": "...but I will not leave it believing I was the one who should be ashamed.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Defiant, Triumphant in Spirit"
+      ]
+    }
+  ],
+  "total_duration_sec": 110.0
+}

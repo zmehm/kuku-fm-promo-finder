@@ -1,0 +1,107 @@
+{
+  "episode_number": 30,
+  "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+  "moments": [
+    {
+      "episode_number": 30,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:08.80",
+      "end_time": "00:13.30",
+      "start_seconds": 8.8,
+      "end_seconds": 13.3,
+      "description": "The Elder Nobleman corners Rupert in the hallway, warning him that the servants are discovering his secrets.",
+      "key_dialogue": "You have a rat in your cellar, Rupert. And the servants are beginning to smell it.",
+      "characters_involved": [
+        "ELDER NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Cold, Accusatory"
+      ]
+    },
+    {
+      "episode_number": 30,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "00:33.40",
+      "end_time": "00:39.80",
+      "start_seconds": 33.4,
+      "end_seconds": 39.8,
+      "description": "The Elder Nobleman physically pins Rupert against the wall with his walking stick, demanding brutal action.",
+      "key_dialogue": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+      "characters_involved": [
+        "ELDER NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Fierce, Venomous"
+      ]
+    },
+    {
+      "episode_number": 30,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "01:23.20",
+      "end_time": "01:27.80",
+      "start_seconds": 83.2,
+      "end_seconds": 87.8,
+      "description": "Catherine and the Elder Nobleman plot to twist Juliana's healing abilities into a capital witchcraft charge.",
+      "key_dialogue": "Then call it witchcraft.",
+      "characters_involved": [
+        "CATHERINE",
+        "ELDER NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Curious, Conniving",
+        "Sinister"
+      ]
+    },
+    {
+      "episode_number": 30,
+      "moment_type": "betrayal",
+      "intensity_score": 9,
+      "start_time": "01:34.50",
+      "end_time": "01:41.90",
+      "start_seconds": 94.5,
+      "end_seconds": 101.9,
+      "description": "The Elder Nobleman outlines the full conspiracy to fabricate evidence, buy the jury, and sentence Juliana to death.",
+      "key_dialogue": "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.",
+      "characters_involved": [
+        "ELDER NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Authoritative, Command"
+      ]
+    },
+    {
+      "episode_number": 30,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "02:05.50",
+      "end_time": "02:13.00",
+      "start_seconds": 125.5,
+      "end_seconds": 133.0,
+      "description": "Catherine relishes the cruel fate awaiting Juliana as the town prepares to watch her hang.",
+      "key_dialogue": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+      "characters_involved": [
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Cruel, Exultant"
+      ]
+    },
+    {
+      "episode_number": 30,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "02:24.50",
+      "end_time": "02:31.21",
+      "start_seconds": 144.5,
+      "end_seconds": 151.21,
+      "description": "Juliana is shown shivering and chained in the dark, flooded subterranean cell, completely unaware of the plot to execute her.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    }
+  ],
+  "total_duration_sec": 151.21
+}

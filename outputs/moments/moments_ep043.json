@@ -1,0 +1,127 @@
+{
+  "episode_number": 43,
+  "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+  "moments": [
+    {
+      "episode_number": 43,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "00:00.00",
+      "end_time": "00:15.80",
+      "start_seconds": 0.0,
+      "end_seconds": 15.8,
+      "description": "Rupert frantically orders the royal guards to arrest Alexander, but the Guard Captain defiantly refuses.",
+      "key_dialogue": "We will not.",
+      "characters_involved": [
+        "BLOND NOBLEMAN",
+        "ROYAL GUARD"
+      ],
+      "emotion_labels": [
+        "Hysterical, Panicked",
+        "Shrieking, Frantic",
+        "Enraged, Screaming",
+        "Firm, Defiant"
+      ]
+    },
+    {
+      "episode_number": 43,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:16.20",
+      "end_time": "00:21.50",
+      "start_seconds": 16.2,
+      "end_seconds": 21.5,
+      "description": "The Royal Guard Captain rejects Rupert's claims and snaps a crisp salute to Alexander as the true Duke.",
+      "key_dialogue": "No. He is your Duke.",
+      "characters_involved": [
+        "BLOND NOBLEMAN",
+        "ROYAL GUARD"
+      ],
+      "emotion_labels": [
+        "Outraged, Stunned",
+        "Desperate",
+        "Calm, Resolute"
+      ]
+    },
+    {
+      "episode_number": 43,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "00:37.80",
+      "end_time": "00:54.80",
+      "start_seconds": 37.8,
+      "end_seconds": 54.8,
+      "description": "The Crown Official reads the military intelligence report exposing how Alexander's unit was deliberately ambushed.",
+      "key_dialogue": "The report identifies the leak as deliberate.",
+      "characters_involved": [
+        "CROWN OFFICIAL"
+      ],
+      "emotion_labels": [
+        "Clear, Formal",
+        "Solemn, Objective",
+        "Accusing, Measured",
+        "Voice Continuing"
+      ]
+    },
+    {
+      "episode_number": 43,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "00:57.00",
+      "end_time": "01:06.00",
+      "start_seconds": 57.0,
+      "end_seconds": 66.0,
+      "description": "Alexander demands the names be read aloud, exposing Rupert Ashburn and Lord Henry Sterling.",
+      "key_dialogue": "Lord Henry Sterling.",
+      "characters_involved": [
+        "ALEXANDER",
+        "CROWN OFFICIAL"
+      ],
+      "emotion_labels": [
+        "Cold, Implacable",
+        "Deliberate, Damning",
+        "Continuing"
+      ]
+    },
+    {
+      "episode_number": 43,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "01:33.20",
+      "end_time": "01:43.40",
+      "start_seconds": 93.2,
+      "end_seconds": 103.4,
+      "description": "A cornered Rupert desperately cracks under pressure and betrays his co-conspirator by pointing the finger at Lord Sterling.",
+      "key_dialogue": "Sterling handled the report!",
+      "characters_involved": [
+        "BLOND NOBLEMAN",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Screaming, Desperate",
+        "Cold, Penetrating",
+        "Frantic, Betraying"
+      ]
+    },
+    {
+      "episode_number": 43,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:43.40",
+      "end_time": "01:54.96",
+      "start_seconds": 103.4,
+      "end_seconds": 114.96,
+      "description": "Lord Sterling attempts to flee out the side exit of the cathedral, only to find his escape blocked by a police constable.",
+      "key_dialogue": "Going somewhere, Lord Sterling?",
+      "characters_involved": [
+        "CATHERINE",
+        "POLICE CONSTABLE"
+      ],
+      "emotion_labels": [
+        "Shocked, Murmuring",
+        "Firm, Sardonic"
+      ]
+    }
+  ],
+  "total_duration_sec": 114.96
+}

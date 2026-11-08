@@ -1,0 +1,29 @@
+# Environment & Secrets
+.env
+.env.*
+*.env
+!*.example
+!.env.example
+
+# Python bytecode & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Local cache & backups
+outputs/llm_cache/
+outputs_3ep_backup/
+
+# Confidential Screenplay Files
+*-script/
+*.txt
+!requirements.txt
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

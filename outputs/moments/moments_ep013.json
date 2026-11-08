@@ -1,0 +1,116 @@
+{
+  "episode_number": 13,
+  "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+  "moments": [
+    {
+      "episode_number": 13,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "00:05.10",
+      "end_time": "00:17.30",
+      "start_seconds": 5.1,
+      "end_seconds": 17.3,
+      "description": "Alexander desperately tries to stop Juliana from entering the deadly blackthorn garden.",
+      "key_dialogue": "Juliana, look at those thorns. You cannot do this.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Pleading, Agonized",
+        "Quiet, Unwavering",
+        "Terrified for Her"
+      ]
+    },
+    {
+      "episode_number": 13,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:24.20",
+      "end_time": "00:35.80",
+      "start_seconds": 24.2,
+      "end_seconds": 35.8,
+      "description": "Alexander vows he would rather face the gallows than watch Juliana hurt herself, while she expresses her absolute devotion.",
+      "key_dialogue": "You stood beside me when everyone else abandoned me. I will not abandon you now.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate, Fierce",
+        "Emotional, Devoted"
+      ]
+    },
+    {
+      "episode_number": 13,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:37.00",
+      "end_time": "00:45.50",
+      "start_seconds": 37.0,
+      "end_seconds": 45.5,
+      "description": "Clarissa and Gerald mock Juliana from the terrace as she prepares to enter the terrifying briar thicket.",
+      "key_dialogue": "That garden has swallowed better women than you.",
+      "characters_involved": [
+        "CLARISSA (O.S.)",
+        "CLARISSA",
+        "GERALD"
+      ],
+      "emotion_labels": [
+        "Mocking, Vindictive",
+        "Cruel, Sarcastic",
+        "Condescending, Arrogant"
+      ]
+    },
+    {
+      "episode_number": 13,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "00:54.00",
+      "end_time": "01:07.00",
+      "start_seconds": 54.0,
+      "end_seconds": 67.0,
+      "description": "Sharp blackthorn spines viciously shred Juliana's bare hands as Gerald and Clarissa cruelly taunt her from above.",
+      "key_dialogue": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden.",
+      "characters_involved": [
+        "JULIANA",
+        "CLARISSA (O.S.)",
+        "CLARISSA",
+        "GERALD"
+      ],
+      "emotion_labels": [
+        "Gasping in Pain",
+        "Gleeful, Derisive",
+        "Mocking, Spiteful",
+        "Taunting, Cruel"
+      ]
+    },
+    {
+      "episode_number": 13,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "01:43.00",
+      "end_time": "01:53.00",
+      "start_seconds": 103.0,
+      "end_seconds": 113.0,
+      "description": "Juliana's bloodied finger finally brushes against the lost antique emerald signet ring buried in the frozen dirt.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 13,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:53.00",
+      "end_time": "01:58.88",
+      "start_seconds": 113.0,
+      "end_seconds": 118.88,
+      "description": "Juliana grips the blood-soaked emerald ring amidst blinding pain as Alexander watches in terror and the episode cuts to black.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    }
+  ],
+  "total_duration_sec": 118.88
+}

@@ -1,0 +1,50 @@
+{
+  "mode": "llm",
+  "model": "gemini-flash-lite-latest",
+  "judge_model": "gemini-flash-lite-latest",
+  "prompt_version": "v2-id-anchored",
+  "episodes_processed": [
+    1,
+    2,
+    3
+  ],
+  "n_episodes": 3,
+  "fallback_to_heuristic": {
+    "moments": [],
+    "construction": [],
+    "scoring": []
+  },
+  "scoring_failures": [],
+  "candidates_generated": 8,
+  "critique_failures": [],
+  "dropped_in_selection": {
+    "hard_fail": [],
+    "duration": [],
+    "overlap": [
+      "PR-003"
+    ],
+    "episode_quota": [
+      "PR-005"
+    ],
+    "ad_policy_hard": []
+  },
+  "ad_policy": {
+    "hard_trimmed": 0,
+    "hard_excluded": 0,
+    "soft_kept_flagged": 0
+  },
+  "candidates_scored": 8,
+  "shortlist_size": 6,
+  "client_stats": {
+    "cross_rejected_duration": 1
+  },
+  "cost": {
+    "total_input_tokens": 52348,
+    "total_output_tokens": 5558,
+    "total_api_calls": 23,
+    "total_retries": 1,
+    "estimated_cost_usd": 0.007459
+  },
+  "cache_hits": 0,
+  "wall_seconds": 66.3
+}

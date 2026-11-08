@@ -1,0 +1,120 @@
+{
+  "episode_number": 2,
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "moments": [
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:00.00",
+      "end_time": "00:02.80",
+      "start_seconds": 0.0,
+      "end_seconds": 2.8,
+      "description": "Gerald publicly and coldly rejects Juliana at the altar in front of everyone.",
+      "key_dialogue": "I cannot marry you, Juliana.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Cold, Callous"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "betrayal",
+      "intensity_score": 7,
+      "start_time": "00:30.60",
+      "end_time": "00:44.70",
+      "start_seconds": 30.6,
+      "end_seconds": 44.7,
+      "description": "Juliana's father heartlessly tells her to accept Gerald's rejection and not disgrace the family.",
+      "key_dialogue": "Gerald has made his choice. Accept it, Juliana.",
+      "characters_involved": [
+        "LADY JULIANA (Off-screen)",
+        "LADY JULIANA",
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Vulnerable, Begging",
+        "Choked with Tears",
+        "Stern, Cold",
+        "Severely, Harsh"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:47.60",
+      "end_time": "00:56.70",
+      "start_seconds": 47.6,
+      "end_seconds": 56.7,
+      "description": "Clarissa mocks Juliana's plain appearance and compares her to a kitchen maid.",
+      "key_dialogue": "You look like a kitchen maid who wandered into the wrong wedding.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN",
+        "LADY IN GOLD GOWN (Off-screen)"
+      ],
+      "emotion_labels": [
+        "Mocking, Spiteful",
+        "Scornful",
+        "Taunting, Giggling"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "01:12.80",
+      "end_time": "01:19.00",
+      "start_seconds": 72.8,
+      "end_seconds": 79.0,
+      "description": "Juliana stops weeping and transforms her pain into a sudden, defiant smile.",
+      "key_dialogue": "You abandoned a woman who trusted you...",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Bitter, Defiant",
+        "Clear, Accusing"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "01:26.70",
+      "end_time": "01:36.60",
+      "start_seconds": 86.7,
+      "end_seconds": 96.6,
+      "description": "Juliana powerfully rebukes Gerald, exposing the worthless nature of his vows.",
+      "key_dialogue": "You have shown them exactly what your word is worth.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Powerful, Unyielding",
+        "Decisive, Scathing"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:38.20",
+      "end_time": "01:50.00",
+      "start_seconds": 98.2,
+      "end_seconds": 110.0,
+      "description": "Juliana stands tall with unassailable dignity as the orchestral score swells, refusing to carry any shame.",
+      "key_dialogue": "...but I will not leave it believing I was the one who should be ashamed.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Resolute, Proud",
+        "Defiant, Triumphant in Spirit"
+      ]
+    }
+  ],
+  "total_duration_sec": 110.0
+}

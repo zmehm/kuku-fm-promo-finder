@@ -1,0 +1,116 @@
+{
+  "episode_number": 46,
+  "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+  "moments": [
+    {
+      "episode_number": 46,
+      "moment_type": "hook_visual",
+      "intensity_score": 8,
+      "start_time": "00:07.10",
+      "end_time": "00:16.80",
+      "start_seconds": 7.1,
+      "end_seconds": 16.8,
+      "description": "The High Priest aggressively marches down the chapel aisle with armed guards to place the sanctuary under Crown seizure.",
+      "key_dialogue": "By Royal command, this sanctuary is placed under immediate Crown scesion.",
+      "characters_involved": [
+        "HIGH PRIEST"
+      ],
+      "emotion_labels": [
+        "Booming, Authoritative"
+      ]
+    },
+    {
+      "episode_number": 46,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:22.80",
+      "end_time": "00:31.80",
+      "start_seconds": 22.8,
+      "end_seconds": 31.8,
+      "description": "The High Priest publicly invalidates Alexander and Juliana's marriage, claiming her past as a beggar means she cannot rise with his new title.",
+      "key_dialogue": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.",
+      "characters_involved": [
+        "HIGH PRIEST"
+      ],
+      "emotion_labels": [
+        "Scornful, Harsh",
+        "Resonant, Dismissive"
+      ]
+    },
+    {
+      "episode_number": 46,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:58.20",
+      "end_time": "01:05.50",
+      "start_seconds": 58.2,
+      "end_seconds": 65.5,
+      "description": "Juliana bravely fights back against the High Priest's accusations, declaring her refusal to ask the church for permission to love.",
+      "key_dialogue": "I won't ask it for permission to love.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Fierce, Defiant",
+        "Passionate, Resolute"
+      ]
+    },
+    {
+      "episode_number": 46,
+      "moment_type": "betrayal",
+      "intensity_score": 7,
+      "start_time": "01:25.80",
+      "end_time": "01:29.20",
+      "start_seconds": 85.8,
+      "end_seconds": 89.2,
+      "description": "Catherine watches the humiliation unfold from the stone archway, whispering a malicious taunt to Juliana.",
+      "key_dialogue": "Careful, healer. The floor isn't finished with you.",
+      "characters_involved": [
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Malicious, Taunting"
+      ]
+    },
+    {
+      "episode_number": 46,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "01:41.80",
+      "end_time": "01:58.20",
+      "start_seconds": 101.8,
+      "end_seconds": 118.2,
+      "description": "Alexander fiercely confronts the High Priest face-to-face and demands a ten-day ecclesiastical trial to prove his marriage.",
+      "key_dialogue": "Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.",
+      "characters_involved": [
+        "ALEXANDER",
+        "HIGH PRIEST"
+      ],
+      "emotion_labels": [
+        "Cold, Resolute",
+        "Stern, Unflinching",
+        "Defiant, Commanding"
+      ]
+    },
+    {
+      "episode_number": 46,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "02:14.20",
+      "end_time": "02:23.80",
+      "start_seconds": 134.2,
+      "end_seconds": 143.8,
+      "description": "The High Priest exits after setting the ten-day deadline, leaving Catherine to flash a wicked smile as she plots their destruction.",
+      "key_dialogue": "Ten days is plenty of time.",
+      "characters_involved": [
+        "HIGH PRIEST",
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Ominous, Warning",
+        "Whispering, Malicious"
+      ]
+    }
+  ],
+  "total_duration_sec": 143.88
+}

@@ -1,0 +1,1464 @@
+[
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-001",
+      "promo_type": "single_episode",
+      "episodes": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_time": "00:36.50",
+          "end_time": "01:01.80",
+          "start_seconds": 36.5,
+          "end_seconds": 61.8
+        }
+      ],
+      "total_duration_sec": 25.299999999999997,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 6.95
+    },
+    "composite": 6.95
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-002",
+      "promo_type": "single_episode",
+      "episodes": [
+        2
+      ],
+      "segments": [
+        {
+          "episode": 2,
+          "start_time": "00:34.30",
+          "end_time": "01:16.50",
+          "start_seconds": 34.3,
+          "end_seconds": 76.5
+        }
+      ],
+      "total_duration_sec": 42.2,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 8,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 6.75
+    },
+    "composite": 6.75
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-003",
+      "promo_type": "single_episode",
+      "episodes": [
+        3
+      ],
+      "segments": [
+        {
+          "episode": 3,
+          "start_time": "00:13.60",
+          "end_time": "00:58.20",
+          "start_seconds": 13.6,
+          "end_seconds": 58.2
+        }
+      ],
+      "total_duration_sec": 44.6,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 6.45
+    },
+    "composite": 6.45
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-004",
+      "promo_type": "single_episode",
+      "episodes": [
+        4
+      ],
+      "segments": [
+        {
+          "episode": 4,
+          "start_time": "00:15.00",
+          "end_time": "00:41.50",
+          "start_seconds": 15.0,
+          "end_seconds": 41.5
+        }
+      ],
+      "total_duration_sec": 26.5,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 4,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 5,
+      "emotional_impact": 5,
+      "duration_fitness": 10,
+      "composite": 5.2
+    },
+    "composite": 5.2
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-005",
+      "promo_type": "single_episode",
+      "episodes": [
+        5
+      ],
+      "segments": [
+        {
+          "episode": 5,
+          "start_time": "00:20.80",
+          "end_time": "00:56.80",
+          "start_seconds": 20.8,
+          "end_seconds": 56.8
+        }
+      ],
+      "total_duration_sec": 36.0,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 8.05
+    },
+    "composite": 8.05
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-007",
+      "promo_type": "single_episode",
+      "episodes": [
+        7
+      ],
+      "segments": [
+        {
+          "episode": 7,
+          "start_time": "00:25.00",
+          "end_time": "01:11.20",
+          "start_seconds": 25.0,
+          "end_seconds": 71.2
+        }
+      ],
+      "total_duration_sec": 46.2,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 8,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 7.05
+    },
+    "composite": 7.05
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-008",
+      "promo_type": "single_episode",
+      "episodes": [
+        8
+      ],
+      "segments": [
+        {
+          "episode": 8,
+          "start_time": "00:19.40",
+          "end_time": "01:10.90",
+          "start_seconds": 19.4,
+          "end_seconds": 70.9
+        }
+      ],
+      "total_duration_sec": 51.50000000000001,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 3,
+      "cliffhanger_quality": 1,
+      "standalone_coherence": 6,
+      "emotional_impact": 2,
+      "duration_fitness": 8,
+      "composite": 3.45
+    },
+    "composite": 3.45
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-009",
+      "promo_type": "single_episode",
+      "episodes": [
+        9
+      ],
+      "segments": [
+        {
+          "episode": 9,
+          "start_time": "01:11.00",
+          "end_time": "01:43.60",
+          "start_seconds": 71.0,
+          "end_seconds": 103.6
+        }
+      ],
+      "total_duration_sec": 32.599999999999994,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 4,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 7,
+      "emotional_impact": 5,
+      "duration_fitness": 10,
+      "composite": 5.85
+    },
+    "composite": 5.85
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-010",
+      "promo_type": "single_episode",
+      "episodes": [
+        10
+      ],
+      "segments": [
+        {
+          "episode": 10,
+          "start_time": "00:04.20",
+          "end_time": "01:00.00",
+          "start_seconds": 4.2,
+          "end_seconds": 60.0
+        }
+      ],
+      "total_duration_sec": 55.8,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 3,
+      "standalone_coherence": 8,
+      "emotional_impact": 5,
+      "duration_fitness": 7,
+      "composite": 5.6
+    },
+    "composite": 5.6
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-011",
+      "promo_type": "single_episode",
+      "episodes": [
+        11
+      ],
+      "segments": [
+        {
+          "episode": 11,
+          "start_time": "00:19.00",
+          "end_time": "01:16.80",
+          "start_seconds": 19.0,
+          "end_seconds": 76.8
+        }
+      ],
+      "total_duration_sec": 57.8,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 7,
+      "composite": 6.35
+    },
+    "composite": 6.35
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-012",
+      "promo_type": "single_episode",
+      "episodes": [
+        12
+      ],
+      "segments": [
+        {
+          "episode": 12,
+          "start_time": "00:46.70",
+          "end_time": "01:27.21",
+          "start_seconds": 46.7,
+          "end_seconds": 87.21
+        }
+      ],
+      "total_duration_sec": 40.50999999999999,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 4,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 8,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 6.45
+    },
+    "composite": 6.45
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-013",
+      "promo_type": "single_episode",
+      "episodes": [
+        13
+      ],
+      "segments": [
+        {
+          "episode": 13,
+          "start_time": "00:04.20",
+          "end_time": "01:01.80",
+          "start_seconds": 4.2,
+          "end_seconds": 61.8
+        }
+      ],
+      "total_duration_sec": 57.599999999999994,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 7,
+      "composite": 6.9
+    },
+    "composite": 6.9
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-014",
+      "promo_type": "single_episode",
+      "episodes": [
+        14
+      ],
+      "segments": [
+        {
+          "episode": 14,
+          "start_time": "00:12.50",
+          "end_time": "00:37.00",
+          "start_seconds": 12.5,
+          "end_seconds": 37.0
+        }
+      ],
+      "total_duration_sec": 24.5,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 3,
+      "standalone_coherence": 6,
+      "emotional_impact": 5,
+      "duration_fitness": 10,
+      "composite": 5.5
+    },
+    "composite": 5.5
+  },
+  {
+    "source": "random_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RAND-015",
+      "promo_type": "single_episode",
+      "episodes": [
+        15
+      ],
+      "segments": [
+        {
+          "episode": 15,
+          "start_time": "00:41.00",
+          "end_time": "01:12.60",
+          "start_seconds": 41.0,
+          "end_seconds": 72.6
+        }
+      ],
+      "total_duration_sec": 31.599999999999994,
+      "hook": "(Random baseline — no hook selection)",
+      "cliffhanger": "(Random baseline — no cliffhanger selection)",
+      "why_it_works": "(Random baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.2
+    },
+    "composite": 7.2
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-001",
+      "promo_type": "single_episode",
+      "episodes": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_time": "01:47.50",
+          "end_time": "02:18.00",
+          "start_seconds": 107.5,
+          "end_seconds": 138.0
+        }
+      ],
+      "total_duration_sec": 30.5,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 9,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 7.9
+    },
+    "composite": 7.9
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-002",
+      "promo_type": "single_episode",
+      "episodes": [
+        2
+      ],
+      "segments": [
+        {
+          "episode": 2,
+          "start_time": "01:19.20",
+          "end_time": "01:50.00",
+          "start_seconds": 79.2,
+          "end_seconds": 110.0
+        }
+      ],
+      "total_duration_sec": 30.799999999999997,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.05
+    },
+    "composite": 7.05
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-003",
+      "promo_type": "single_episode",
+      "episodes": [
+        3
+      ],
+      "segments": [
+        {
+          "episode": 3,
+          "start_time": "01:56.00",
+          "end_time": "02:25.75",
+          "start_seconds": 116.0,
+          "end_seconds": 145.75
+        }
+      ],
+      "total_duration_sec": 29.75,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 8,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 6.25
+    },
+    "composite": 6.25
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-004",
+      "promo_type": "single_episode",
+      "episodes": [
+        4
+      ],
+      "segments": [
+        {
+          "episode": 4,
+          "start_time": "02:00.50",
+          "end_time": "02:31.40",
+          "start_seconds": 120.5,
+          "end_seconds": 151.4
+        }
+      ],
+      "total_duration_sec": 30.900000000000006,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 3,
+      "standalone_coherence": 8,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 6.65
+    },
+    "composite": 6.65
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-005",
+      "promo_type": "single_episode",
+      "episodes": [
+        5
+      ],
+      "segments": [
+        {
+          "episode": 5,
+          "start_time": "01:20.50",
+          "end_time": "01:50.50",
+          "start_seconds": 80.5,
+          "end_seconds": 110.5
+        }
+      ],
+      "total_duration_sec": 30.0,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 3,
+      "standalone_coherence": 7,
+      "emotional_impact": 5,
+      "duration_fitness": 10,
+      "composite": 5.4
+    },
+    "composite": 5.4
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-007",
+      "promo_type": "single_episode",
+      "episodes": [
+        7
+      ],
+      "segments": [
+        {
+          "episode": 7,
+          "start_time": "01:26.50",
+          "end_time": "01:56.00",
+          "start_seconds": 86.5,
+          "end_seconds": 116.0
+        }
+      ],
+      "total_duration_sec": 29.5,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 2,
+      "standalone_coherence": 6,
+      "emotional_impact": 4,
+      "duration_fitness": 10,
+      "composite": 4.8
+    },
+    "composite": 4.8
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-008",
+      "promo_type": "single_episode",
+      "episodes": [
+        8
+      ],
+      "segments": [
+        {
+          "episode": 8,
+          "start_time": "00:48.00",
+          "end_time": "01:18.00",
+          "start_seconds": 48.0,
+          "end_seconds": 78.0
+        }
+      ],
+      "total_duration_sec": 30.0,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 3,
+      "cliffhanger_quality": 1,
+      "standalone_coherence": 7,
+      "emotional_impact": 3,
+      "duration_fitness": 10,
+      "composite": 4.0
+    },
+    "composite": 4.0
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-009",
+      "promo_type": "single_episode",
+      "episodes": [
+        9
+      ],
+      "segments": [
+        {
+          "episode": 9,
+          "start_time": "01:26.50",
+          "end_time": "01:55.50",
+          "start_seconds": 86.5,
+          "end_seconds": 115.5
+        }
+      ],
+      "total_duration_sec": 29.0,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 4,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 7,
+      "emotional_impact": 5,
+      "duration_fitness": 10,
+      "composite": 5.85
+    },
+    "composite": 5.85
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-010",
+      "promo_type": "single_episode",
+      "episodes": [
+        10
+      ],
+      "segments": [
+        {
+          "episode": 10,
+          "start_time": "01:03.90",
+          "end_time": "01:34.00",
+          "start_seconds": 63.9,
+          "end_seconds": 94.0
+        }
+      ],
+      "total_duration_sec": 30.1,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 3,
+      "cliffhanger_quality": 2,
+      "standalone_coherence": 4,
+      "emotional_impact": 3,
+      "duration_fitness": 10,
+      "composite": 3.65
+    },
+    "composite": 3.65
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-011",
+      "promo_type": "single_episode",
+      "episodes": [
+        11
+      ],
+      "segments": [
+        {
+          "episode": 11,
+          "start_time": "01:21.30",
+          "end_time": "01:52.75",
+          "start_seconds": 81.3,
+          "end_seconds": 112.75
+        }
+      ],
+      "total_duration_sec": 31.450000000000003,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.25
+    },
+    "composite": 7.25
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-012",
+      "promo_type": "single_episode",
+      "episodes": [
+        12
+      ],
+      "segments": [
+        {
+          "episode": 12,
+          "start_time": "00:57.30",
+          "end_time": "01:27.21",
+          "start_seconds": 57.3,
+          "end_seconds": 87.21
+        }
+      ],
+      "total_duration_sec": 29.909999999999997,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 9,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 9,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 8.7
+    },
+    "composite": 8.7
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-013",
+      "promo_type": "single_episode",
+      "episodes": [
+        13
+      ],
+      "segments": [
+        {
+          "episode": 13,
+          "start_time": "01:29.00",
+          "end_time": "01:58.88",
+          "start_seconds": 89.0,
+          "end_seconds": 118.88
+        }
+      ],
+      "total_duration_sec": 29.879999999999995,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 6,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 6.9
+    },
+    "composite": 6.9
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-014",
+      "promo_type": "single_episode",
+      "episodes": [
+        14
+      ],
+      "segments": [
+        {
+          "episode": 14,
+          "start_time": "00:58.50",
+          "end_time": "01:27.63",
+          "start_seconds": 58.5,
+          "end_seconds": 87.63
+        }
+      ],
+      "total_duration_sec": 29.129999999999995,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 3,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 4,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 5.35
+    },
+    "composite": 5.35
+  },
+  {
+    "source": "last_30_sec_baseline",
+    "promo": {
+      "promo_id": "BASELINE-LAST30-015",
+      "promo_type": "single_episode",
+      "episodes": [
+        15
+      ],
+      "segments": [
+        {
+          "episode": 15,
+          "start_time": "00:56.50",
+          "end_time": "01:26.00",
+          "start_seconds": 56.5,
+          "end_seconds": 86.0
+        }
+      ],
+      "total_duration_sec": 29.5,
+      "hook": "(Last-30s baseline — no hook selection)",
+      "cliffhanger": "(Last-30s baseline — no cliffhanger selection)",
+      "why_it_works": "(Last-30s baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.75
+    },
+    "composite": 7.75
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-001",
+      "promo_type": "single_episode",
+      "episodes": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_time": "00:39.00",
+          "end_time": "01:38.20",
+          "start_seconds": 39.0,
+          "end_seconds": 98.2
+        }
+      ],
+      "total_duration_sec": 59.2,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 9,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 9,
+      "emotional_impact": 8,
+      "duration_fitness": 6,
+      "composite": 8.3
+    },
+    "composite": 8.3
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-002",
+      "promo_type": "single_episode",
+      "episodes": [
+        2
+      ],
+      "segments": [
+        {
+          "episode": 2,
+          "start_time": "00:00.00",
+          "end_time": "00:56.70",
+          "start_seconds": 0.0,
+          "end_seconds": 56.7
+        }
+      ],
+      "total_duration_sec": 56.7,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 9,
+      "emotional_impact": 6,
+      "duration_fitness": 7,
+      "composite": 7.05
+    },
+    "composite": 7.05
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-003",
+      "promo_type": "single_episode",
+      "episodes": [
+        3
+      ],
+      "segments": [
+        {
+          "episode": 3,
+          "start_time": "00:08.50",
+          "end_time": "01:08.10",
+          "start_seconds": 8.5,
+          "end_seconds": 68.1
+        }
+      ],
+      "total_duration_sec": 59.599999999999994,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 9,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 9,
+      "emotional_impact": 8,
+      "duration_fitness": 6,
+      "composite": 8.3
+    },
+    "composite": 8.3
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-004",
+      "promo_type": "single_episode",
+      "episodes": [
+        4
+      ],
+      "segments": [
+        {
+          "episode": 4,
+          "start_time": "00:00.00",
+          "end_time": "00:58.80",
+          "start_seconds": 0.0,
+          "end_seconds": 58.8
+        }
+      ],
+      "total_duration_sec": 58.8,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 7,
+      "emotional_impact": 5,
+      "duration_fitness": 6,
+      "composite": 5.25
+    },
+    "composite": 5.25
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-005",
+      "promo_type": "single_episode",
+      "episodes": [
+        5
+      ],
+      "segments": [
+        {
+          "episode": 5,
+          "start_time": "00:41.50",
+          "end_time": "01:40.80",
+          "start_seconds": 41.5,
+          "end_seconds": 100.8
+        }
+      ],
+      "total_duration_sec": 59.3,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 6,
+      "composite": 7.35
+    },
+    "composite": 7.35
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-006",
+      "promo_type": "single_episode",
+      "episodes": [
+        6
+      ],
+      "segments": [
+        {
+          "episode": 6,
+          "start_time": "00:24.00",
+          "end_time": "01:23.80",
+          "start_seconds": 24.0,
+          "end_seconds": 83.8
+        }
+      ],
+      "total_duration_sec": 59.8,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 3,
+      "cliffhanger_quality": 3,
+      "standalone_coherence": 6,
+      "emotional_impact": 5,
+      "duration_fitness": 6,
+      "composite": 4.2
+    },
+    "composite": 4.2
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-007",
+      "promo_type": "single_episode",
+      "episodes": [
+        7
+      ],
+      "segments": [
+        {
+          "episode": 7,
+          "start_time": "00:37.80",
+          "end_time": "01:36.00",
+          "start_seconds": 37.8,
+          "end_seconds": 96.0
+        }
+      ],
+      "total_duration_sec": 58.2,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 5,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 7,
+      "emotional_impact": 6,
+      "duration_fitness": 6,
+      "composite": 5.4
+    },
+    "composite": 5.4
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-008",
+      "promo_type": "single_episode",
+      "episodes": [
+        8
+      ],
+      "segments": [
+        {
+          "episode": 8,
+          "start_time": "00:00.00",
+          "end_time": "00:21.50",
+          "start_seconds": 0.0,
+          "end_seconds": 21.5
+        }
+      ],
+      "total_duration_sec": 21.5,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 2,
+      "cliffhanger_quality": 2,
+      "standalone_coherence": 6,
+      "emotional_impact": 2,
+      "duration_fitness": 7,
+      "composite": 3.3
+    },
+    "composite": 3.3
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-009",
+      "promo_type": "single_episode",
+      "episodes": [
+        9
+      ],
+      "segments": [
+        {
+          "episode": 9,
+          "start_time": "00:38.00",
+          "end_time": "01:37.30",
+          "start_seconds": 38.0,
+          "end_seconds": 97.3
+        }
+      ],
+      "total_duration_sec": 59.3,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 4,
+      "cliffhanger_quality": 3,
+      "standalone_coherence": 6,
+      "emotional_impact": 3,
+      "duration_fitness": 6,
+      "composite": 4.2
+    },
+    "composite": 4.2
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-010",
+      "promo_type": "single_episode",
+      "episodes": [
+        10
+      ],
+      "segments": [
+        {
+          "episode": 10,
+          "start_time": "00:00.00",
+          "end_time": "00:24.90",
+          "start_seconds": 0.0,
+          "end_seconds": 24.9
+        }
+      ],
+      "total_duration_sec": 24.9,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 4,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 7,
+      "emotional_impact": 5,
+      "duration_fitness": 10,
+      "composite": 5.35
+    },
+    "composite": 5.35
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-011",
+      "promo_type": "single_episode",
+      "episodes": [
+        11
+      ],
+      "segments": [
+        {
+          "episode": 11,
+          "start_time": "00:13.00",
+          "end_time": "01:11.60",
+          "start_seconds": 13.0,
+          "end_seconds": 71.6
+        }
+      ],
+      "total_duration_sec": 58.599999999999994,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 6,
+      "composite": 6.6
+    },
+    "composite": 6.6
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-012",
+      "promo_type": "single_episode",
+      "episodes": [
+        12
+      ],
+      "segments": [
+        {
+          "episode": 12,
+          "start_time": "00:23.70",
+          "end_time": "01:23.00",
+          "start_seconds": 23.7,
+          "end_seconds": 83.0
+        }
+      ],
+      "total_duration_sec": 59.3,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 6,
+      "composite": 6.3
+    },
+    "composite": 6.3
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-013",
+      "promo_type": "single_episode",
+      "episodes": [
+        13
+      ],
+      "segments": [
+        {
+          "episode": 13,
+          "start_time": "00:37.00",
+          "end_time": "01:36.40",
+          "start_seconds": 37.0,
+          "end_seconds": 96.4
+        }
+      ],
+      "total_duration_sec": 59.400000000000006,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 6,
+      "composite": 6.05
+    },
+    "composite": 6.05
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-014",
+      "promo_type": "single_episode",
+      "episodes": [
+        14
+      ],
+      "segments": [
+        {
+          "episode": 14,
+          "start_time": "00:00.00",
+          "end_time": "00:47.50",
+          "start_seconds": 0.0,
+          "end_seconds": 47.5
+        }
+      ],
+      "total_duration_sec": 47.5,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 2,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 9,
+      "composite": 5.85
+    },
+    "composite": 5.85
+  },
+  {
+    "source": "rule_based_baseline",
+    "promo": {
+      "promo_id": "BASELINE-RULE-015",
+      "promo_type": "single_episode",
+      "episodes": [
+        15
+      ],
+      "segments": [
+        {
+          "episode": 15,
+          "start_time": "00:03.50",
+          "end_time": "01:01.00",
+          "start_seconds": 3.5,
+          "end_seconds": 61.0
+        }
+      ],
+      "total_duration_sec": 57.5,
+      "hook": "(Rule-based baseline — no hook selection)",
+      "cliffhanger": "(Rule-based baseline — no cliffhanger selection)",
+      "why_it_works": "(Rule-based baseline for comparison only)",
+      "characters_in_clip": [],
+      "creative_angle": null
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 4,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 7,
+      "composite": 6.45
+    },
+    "composite": 6.45
+  }
+]

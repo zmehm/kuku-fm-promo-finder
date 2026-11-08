@@ -1,0 +1,118 @@
+{
+  "episode_number": 22,
+  "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+  "moments": [
+    {
+      "episode_number": 22,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "00:06.50",
+      "end_time": "00:21.00",
+      "start_seconds": 6.5,
+      "end_seconds": 21.0,
+      "description": "Prudence urgently warns Lady Juliana about the dangers of Ashbury Manor, but Juliana remains defiantly focused on saving the dying Duchess.",
+      "key_dialogue": "Keep your head down. If anyone recognizes you, everything is over.",
+      "characters_involved": [
+        "PRUDENCE",
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Urgent, Whispering",
+        "Resolute, Quiet",
+        "Nervous, Warning",
+        "Determined"
+      ]
+    },
+    {
+      "episode_number": 22,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:43.00",
+      "end_time": "00:54.80",
+      "start_seconds": 43.0,
+      "end_seconds": 54.8,
+      "description": "The formidable Housekeeper intercepts Prudence and interrogates disguised Lady Juliana, suspicious of her soft appearance.",
+      "key_dialogue": "Who is this?",
+      "characters_involved": [
+        "HOUSEKEEPER",
+        "PRUDENCE",
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Sharp, Stern, O.S.",
+        "Suspicious",
+        "Submissive",
+        "Cold, Skeptical",
+        "Humble, Steady"
+      ]
+    },
+    {
+      "episode_number": 22,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "01:04.20",
+      "end_time": "01:17.50",
+      "start_seconds": 64.2,
+      "end_seconds": 77.5,
+      "description": "The Housekeeper steps menacingly into Lady Juliana's face, threatening her to keep her eyes and ears where they belong.",
+      "key_dialogue": "And can you keep your eyes and ears where they belong?",
+      "characters_involved": [
+        "HOUSEKEEPER",
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Menacing, Threatening",
+        "Subdued, Steady",
+        "Stern, Dismissive"
+      ]
+    },
+    {
+      "episode_number": 22,
+      "moment_type": "reveal",
+      "intensity_score": 7,
+      "start_time": "01:42.00",
+      "end_time": "01:54.00",
+      "start_seconds": 102.0,
+      "end_seconds": 114.0,
+      "description": "Lady Juliana successfully sneaks into the forbidden West Wing and discovers the frail Dowager Duchess struggling to breathe in a shadowy bedchamber.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 22,
+      "moment_type": "betrayal",
+      "intensity_score": 9,
+      "start_time": "02:00.80",
+      "end_time": "02:05.80",
+      "start_seconds": 120.8,
+      "end_seconds": 125.8,
+      "description": "Lady Juliana checks the Duchess's pulse and is struck by the horrifying realization that her condition is caused by foul play rather than natural fever.",
+      "key_dialogue": "This isn't ordinary fever.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Shocked, Murmuring"
+      ]
+    },
+    {
+      "episode_number": 22,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "02:05.80",
+      "end_time": "02:11.00",
+      "start_seconds": 125.8,
+      "end_seconds": 131.0,
+      "description": "The Dowager Duchess convulses violently as Lady Juliana desperately demands to know who has been treating her, ending on a suspenseful note.",
+      "key_dialogue": "Who has been treating you?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Urgent, Alarmed"
+      ]
+    }
+  ],
+  "total_duration_sec": 131.0
+}

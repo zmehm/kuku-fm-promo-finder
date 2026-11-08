@@ -1,0 +1,108 @@
+{
+  "episode_number": 14,
+  "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+  "moments": [
+    {
+      "episode_number": 14,
+      "moment_type": "hook_visual",
+      "intensity_score": 8,
+      "start_time": "00:00.00",
+      "end_time": "00:05.60",
+      "start_seconds": 0.0,
+      "end_seconds": 5.6,
+      "description": "Juliana's blood-streaked hand uncurls amidst sharp blackthorn branches to reveal the emerald signet ring.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 14,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:05.60",
+      "end_time": "00:13.50",
+      "start_seconds": 5.6,
+      "end_seconds": 13.5,
+      "description": "An exhausted and scratched Juliana confronts the Police Constable, demanding her husband's release.",
+      "key_dialogue": "Now release my husband.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Exhausted, Resolute",
+        "Firm, Commanding"
+      ]
+    },
+    {
+      "episode_number": 14,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:15.60",
+      "end_time": "00:23.00",
+      "start_seconds": 15.6,
+      "end_seconds": 23.0,
+      "description": "Alexander immediately rushes to Juliana, turning over her bloodied and lacerated hands with immense care.",
+      "key_dialogue": "Juliana.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Gasping, Urgent"
+      ]
+    },
+    {
+      "episode_number": 14,
+      "moment_type": "emotional_peak",
+      "intensity_score": 7,
+      "start_time": "00:32.50",
+      "end_time": "00:40.50",
+      "start_seconds": 32.5,
+      "end_seconds": 40.5,
+      "description": "Alexander scoops Juliana into his arms bridal-style, expressing deep sorrow that she had to bleed for him.",
+      "key_dialogue": "You should never have had to bleed for me.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Deep, Sorrowful"
+      ]
+    },
+    {
+      "episode_number": 14,
+      "moment_type": "emotional_peak",
+      "intensity_score": 7,
+      "start_time": "00:43.50",
+      "end_time": "00:54.00",
+      "start_seconds": 43.5,
+      "end_seconds": 54.0,
+      "description": "Alexander kneels before the fireplace to bandage Juliana's torn wrists while they share a tender exchange.",
+      "key_dialogue": "You could have lost your hands.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Hoarse, Stricken",
+        "Whispered, Emotional"
+      ]
+    },
+    {
+      "episode_number": 14,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:16.00",
+      "end_time": "01:27.63",
+      "start_seconds": 76.0,
+      "end_seconds": 87.63,
+      "description": "Alexander makes a dark vow to protect Juliana forever as his hand clenches into an iron fist of vengeance over a bucket of blood-soaked water.",
+      "key_dialogue": "No one will ever hurt you for protecting me again.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Dark, Solemn Vow"
+      ]
+    }
+  ],
+  "total_duration_sec": 87.63
+}

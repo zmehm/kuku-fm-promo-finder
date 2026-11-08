@@ -1,0 +1,136 @@
+{
+  "parser": {
+    "cases": [
+      {
+        "case": "empty_file",
+        "result": "PASS",
+        "note": "raised ValueError: No script elements parsed from episode-001-Episode 1671703.txt: check the timestamp/format"
+      },
+      {
+        "case": "header_only",
+        "result": "PASS",
+        "note": "raised ValueError: No script elements parsed from episode-001-Episode 1671703.txt: check the timestamp/format"
+      },
+      {
+        "case": "truncated_half",
+        "result": "PASS",
+        "note": "parsed 44 elements"
+      },
+      {
+        "case": "duplicated_content",
+        "result": "PASS",
+        "note": "parsed 190 elements"
+      },
+      {
+        "case": "shuffled_lines",
+        "result": "PASS",
+        "note": "parsed 1 elements"
+      },
+      {
+        "case": "renamed_characters",
+        "result": "PASS",
+        "note": "parsed 95 elements"
+      },
+      {
+        "case": "timestamp_trailing_zero_dropped",
+        "result": "PASS",
+        "note": "parsed 95 elements"
+      },
+      {
+        "case": "timestamp_comma_decimal",
+        "result": "PASS",
+        "note": "parsed 95 elements"
+      },
+      {
+        "case": "latin1_encoding",
+        "result": "PASS",
+        "note": "raised UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 52: invalid continuation byte"
+      }
+    ],
+    "passed": 9,
+    "total": 9
+  },
+  "integrity": {
+    "promos_checked": 107,
+    "valid": 107,
+    "violations": [],
+    "micro_segments": 1
+  },
+  "adversarial": {
+    "caught": 3,
+    "expected": 4,
+    "cases": [
+      {
+        "case": "slow_hook",
+        "expected": "flag weak_hook",
+        "found": [
+          "weak_hook"
+        ],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "hallucinated_claim",
+        "expected": "flag hallucinated_claim",
+        "found": [
+          "hallucinated_claim",
+          "weak_hook"
+        ],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "strong_hook",
+        "expected": "NO weak_hook",
+        "found": [],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "resolved_cliffhanger",
+        "expected": "flag resolved_cliffhanger",
+        "found": [
+          "weak_hook"
+        ],
+        "result": "FAIL",
+        "errors": []
+      },
+      {
+        "case": "ad_policy",
+        "expected": "flag ad_policy_risk",
+        "found": [
+          "ad_policy_risk"
+        ],
+        "result": "PASS",
+        "errors": []
+      }
+    ],
+    "could_not_build": []
+  },
+  "fallback": {
+    "no_llm": true,
+    "bad_model": true
+  },
+  "recall": {
+    "mine": 0,
+    "caught": 0,
+    "recall": null,
+    "unconfirmed_flags": 11
+  },
+  "judge": {
+    "model": "gemini-flash-lite-latest",
+    "temperature": 0.0,
+    "repeats": 2,
+    "max_spread": 0.5499999999999998,
+    "mean_spread": 0.2666666666666666,
+    "good_mean": 8.516666666666667,
+    "flat_mean": 7.279999999999999,
+    "gap": 1.2366666666666681,
+    "discrimination_pass": true
+  },
+  "stability": {
+    "episodes": "1,2,3",
+    "stable": 2,
+    "total": 3
+  }
+}

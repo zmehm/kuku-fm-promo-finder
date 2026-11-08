@@ -1,0 +1,123 @@
+{
+  "episode_number": 12,
+  "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+  "moments": [
+    {
+      "episode_number": 12,
+      "moment_type": "hook_visual",
+      "intensity_score": 7,
+      "start_time": "00:00.00",
+      "end_time": "00:08.80",
+      "start_seconds": 0.0,
+      "end_seconds": 8.8,
+      "description": "The Constable attempts to arrest Alexander for theft, but Juliana instantly jumps in front of him to defend her husband.",
+      "key_dialogue": "No! That watch was not in his coat!",
+      "characters_involved": [
+        "CONSTABLE",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Authoritative, Stern",
+        "Furious, Defiant"
+      ]
+    },
+    {
+      "episode_number": 12,
+      "moment_type": "confrontation",
+      "intensity_score": 6,
+      "start_time": "00:13.90",
+      "end_time": "00:27.90",
+      "start_seconds": 13.9,
+      "end_seconds": 27.9,
+      "description": "Gerald gloats about the planted evidence while Juliana furiously accuses him of framing Alexander.",
+      "key_dialogue": "You planted it!",
+      "characters_involved": [
+        "GERALD",
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Smug, Condescending",
+        "Low, Steady, Dangerous",
+        "Mocking, Malicious",
+        "Enraged, Shouting"
+      ]
+    },
+    {
+      "episode_number": 12,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "00:28.00",
+      "end_time": "00:32.40",
+      "start_seconds": 28.0,
+      "end_seconds": 32.4,
+      "description": "Clarissa glides into the room with a venomous smile, mocking Juliana for defending a broken man.",
+      "key_dialogue": "...still defending your broken scrap of a man?",
+      "characters_involved": [
+        "CLARISSA",
+        "CLARISSA (O.S.)"
+      ],
+      "emotion_labels": [
+        "Purring, Taunting",
+        "Continuing taunt"
+      ]
+    },
+    {
+      "episode_number": 12,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "00:44.00",
+      "end_time": "01:00.60",
+      "start_seconds": 44.0,
+      "end_seconds": 60.6,
+      "description": "Clarissa delivers her sadistic demand that Juliana retrieve an emerald ring from frozen, razor-sharp blackthorn briars with her bare hands.",
+      "key_dialogue": "You will retrieve it with your bare hands before the magistrate arrives.",
+      "characters_involved": [
+        "CLARISSA"
+      ],
+      "emotion_labels": [
+        "Cruel, Savoring",
+        "Theatrical, Vindictive",
+        "Chilling, Sarcastic",
+        "Demanding, Brutal"
+      ]
+    },
+    {
+      "episode_number": 12,
+      "moment_type": "emotional_peak",
+      "intensity_score": 9,
+      "start_time": "01:09.50",
+      "end_time": "01:18.20",
+      "start_seconds": 69.5,
+      "end_seconds": 78.2,
+      "description": "Alexander desperately begs Juliana not to sacrifice her hands for him, but she tearfully refuses to let them take him.",
+      "key_dialogue": "I am not letting them take you.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate, Protective, Urgent",
+        "Fierce, Emotional, Sacrificial"
+      ]
+    },
+    {
+      "episode_number": 12,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:21.50",
+      "end_time": "01:27.21",
+      "start_seconds": 81.5,
+      "end_seconds": 87.21,
+      "description": "Juliana steels her expression and demands to know where the garden is, locking eyes with Clarissa in a brave act of sacrificial defiance.",
+      "key_dialogue": "Tell me where the garden is.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Steely, Resolute"
+      ]
+    }
+  ],
+  "total_duration_sec": 87.21
+}

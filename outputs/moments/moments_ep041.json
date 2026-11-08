@@ -1,0 +1,102 @@
+{
+  "episode_number": 41,
+  "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+  "moments": [
+    {
+      "episode_number": 41,
+      "moment_type": "hook_visual",
+      "intensity_score": 9,
+      "start_time": "00:15.50",
+      "end_time": "00:26.00",
+      "start_seconds": 15.5,
+      "end_seconds": 26.0,
+      "description": "The heavy cathedral doors swing open to reveal Juliana marched in chains like a criminal.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 41,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:30.00",
+      "end_time": "00:39.80",
+      "start_seconds": 30.0,
+      "end_seconds": 39.8,
+      "description": "Aristocratic guests mock and sneer at Juliana's humiliating public disgrace.",
+      "key_dialogue": "Not as a bride this time.",
+      "characters_involved": [
+        "NOBLEWOMAN",
+        "NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Gleeful, Whispering",
+        "Mocking, Chuckling",
+        "Scornful, Smug"
+      ]
+    },
+    {
+      "episode_number": 41,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:52.80",
+      "end_time": "01:00.50",
+      "start_seconds": 52.8,
+      "end_seconds": 60.5,
+      "description": "Despite being chained and bruised, Juliana stares down Catherine with fierce defiance.",
+      "key_dialogue": "You needed an entire chapel to feel powerful over one chained woman?",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Defiant, Unbowed"
+      ]
+    },
+    {
+      "episode_number": 41,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "01:08.50",
+      "end_time": "01:17.00",
+      "start_seconds": 68.5,
+      "end_seconds": 77.0,
+      "description": "Catherine and Rupert clasp hands at the altar, celebrating their ruthless takeover of the Ashburgh title.",
+      "key_dialogue": "Soon, there will be nothing left between us and the Ashburgh title.",
+      "characters_involved": [
+        "CATHERINE",
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Intimate, Ambitious",
+        "Quietly Triumphant"
+      ]
+    },
+    {
+      "episode_number": 41,
+      "moment_type": "hook_visual",
+      "intensity_score": 10,
+      "start_time": "01:20.50",
+      "end_time": "01:24.50",
+      "start_seconds": 80.5,
+      "end_seconds": 84.5,
+      "description": "A deafening explosion shatters the cathedral entrance, blowing the massive doors into splintered shrapnel.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 41,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:24.50",
+      "end_time": "01:36.09",
+      "start_seconds": 84.5,
+      "end_seconds": 96.09,
+      "description": "As armed figures emerge through the smoke and rubble, Juliana's face shifts into awe and sudden hope.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    }
+  ],
+  "total_duration_sec": 96.09
+}

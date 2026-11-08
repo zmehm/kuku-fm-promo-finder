@@ -1,0 +1,167 @@
+[
+  {
+    "promo_id": "PR-001",
+    "promo_type": "single_episode",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "00:15.50",
+        "end_time": "00:50.00",
+        "start_seconds": 15.5,
+        "end_seconds": 50.0
+      }
+    ],
+    "total_duration_sec": 34.5,
+    "hook": "Opens on: LADY JULIANA (Desperate, Unbelieving): \"Gerald is waiting for me.\"",
+    "cliffhanger": "Ends on: LADY JULIANA (Outraged, Accusing): \"You knew this before I walked through those doors!\"",
+    "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+    "characters_in_clip": [
+      "LADY JULIANA",
+      "MATRIARCH",
+      "LADY IN GOLD GOWN"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-002",
+    "promo_type": "single_episode",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "01:20.10",
+        "end_time": "01:53.00",
+        "start_seconds": 80.1,
+        "end_seconds": 113.0
+      }
+    ],
+    "total_duration_sec": 32.900000000000006,
+    "hook": "Opens on: LADY JULIANA (Desperate): \"Father...\"",
+    "cliffhanger": "Ends on: LADY IN GOLD GOWN (Gloating): \"I am the daughter they choose.\"",
+    "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+    "characters_in_clip": [
+      "LADY JULIANA",
+      "MATRIARCH",
+      "LADY IN GOLD GOWN"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-003",
+    "promo_type": "single_episode",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "01:57.00",
+        "end_time": "02:17.50",
+        "start_seconds": 117.0,
+        "end_seconds": 137.5
+      }
+    ],
+    "total_duration_sec": 20.5,
+    "hook": "Opens on: LADY JULIANA (Trembling, Dignified): \"So that is what I was worth to you?\"",
+    "cliffhanger": "Ends on: ACTION: Juliana breathes through the agony, refusing to break down further in front of the congregation.",
+    "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+    "characters_in_clip": [
+      "LADY JULIANA",
+      "THE FORMER GROOM"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-004",
+    "promo_type": "single_episode",
+    "episodes": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:12.40",
+        "end_time": "00:51.40",
+        "start_seconds": 12.4,
+        "end_seconds": 51.4
+      }
+    ],
+    "total_duration_sec": 39.0,
+    "hook": "Opens on: LADY JULIANA (Desperate, Pleading): \"Gerald... Look at me.\"",
+    "cliffhanger": "Ends on: LADY IN GOLD GOWN (Mocking, Spiteful): \"Why are you surprised, sister? Look at you.\"",
+    "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+    "characters_in_clip": [
+      "LADY JULIANA",
+      "THE FORMER GROOM",
+      "LADY JULIANA (Off-screen)",
+      "BLOND NOBLEMAN",
+      "LADY IN GOLD GOWN"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-006",
+    "promo_type": "multi_segment",
+    "episodes": [
+      1
+    ],
+    "segments": [
+      {
+        "episode": 1,
+        "start_time": "00:15.50",
+        "end_time": "00:17.50",
+        "start_seconds": 15.5,
+        "end_seconds": 17.5
+      },
+      {
+        "episode": 1,
+        "start_time": "00:41.70",
+        "end_time": "01:00.00",
+        "start_seconds": 41.7,
+        "end_seconds": 60.0
+      }
+    ],
+    "total_duration_sec": 20.299999999999997,
+    "hook": "Flash-forward opens on Ep 1: LADY JULIANA: Gerald is waiting for me.",
+    "cliffhanger": "Flashback cut to Ep 1: LADY JULIANA: No...",
+    "why_it_works": "Heuristic cross-episode hook: in media res climax stitched with origin betrayal.",
+    "characters_in_clip": [
+      "LADY JULIANA"
+    ],
+    "creative_angle": "betrayal_revenge"
+  },
+  {
+    "promo_id": "PR-005",
+    "promo_type": "single_episode",
+    "episodes": [
+      2
+    ],
+    "segments": [
+      {
+        "episode": 2,
+        "start_time": "00:51.60",
+        "end_time": "01:26.70",
+        "start_seconds": 51.6,
+        "end_seconds": 86.7
+      }
+    ],
+    "total_duration_sec": 35.1,
+    "hook": "Opens on: LADY IN GOLD GOWN (Off-screen) (Scornful): \"That plain, old-fashioned gown.\"",
+    "cliffhanger": "Ends on: LADY JULIANA (Steely, Resolute): \"Do not mistake my heartbreak for your victory, Gerald.\"",
+    "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+    "characters_in_clip": [
+      "LADY IN GOLD GOWN (Off-screen)",
+      "LADY IN GOLD GOWN",
+      "OFF-SCREEN VOICE",
+      "THE FORMER GROOM",
+      "LADY JULIANA",
+      "LADY JULIANA (Off-screen)"
+    ],
+    "creative_angle": "betrayal_revenge"
+  }
+]

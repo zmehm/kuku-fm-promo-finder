@@ -1,0 +1,220 @@
+[
+  {
+    "rank": 1,
+    "promo": {
+      "promo_id": "PR-001",
+      "promo_type": "single_episode",
+      "episodes": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_time": "00:11.00",
+          "end_time": "00:46.80",
+          "start_seconds": 11.0,
+          "end_seconds": 46.8
+        }
+      ],
+      "total_duration_sec": 35.8,
+      "hook": "Lady Juliana stops midway down the aisle in her mother's vintage bridal gown as a haughty matriarch chillingly blocks her path and tells her, 'You should turn around, Juliana.'",
+      "cliffhanger": "Juliana stands below the altar looking up in absolute horror as her sister, the Lady in Gold Gown, smugly announces, 'Because he is marrying me,' leaving Juliana gasping 'No...'",
+      "why_it_works": "The immediate confrontation at the altar instantly establishes the cruel love triangle and betrayal within the first 10 seconds, hooking viewers with high stakes and emotional devastation.",
+      "characters_in_clip": [
+        "MATRIARCH",
+        "LADY JULIANA",
+        "LADY IN GOLD GOWN"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 7.9
+    },
+    "score_reasoning": "The clip opens with a confrontational matriarch blocking Juliana at the altar, establishing an immediate sense of tension and a solid hook by the three-second mark. The standalone coherence is strong because the dialogue and visual cues quickly establish the stakes of a jilted bride betrayed at her own wedding. The emotional impact is high, driven by Juliana's visible devastation and the cruel gloating of the rival. Finally, the cliffhanger is effective as it cuts off right at the peak of the confrontation without resolving the aftermath of the betrayal.",
+    "posting_rationale": "Primary creative — angle: betrayal_revenge. Editor to confirm cut points (±1-2s)."
+  },
+  {
+    "rank": 2,
+    "promo": {
+      "promo_id": "PR-007",
+      "promo_type": "cross_episode",
+      "episodes": [
+        3,
+        1
+      ],
+      "segments": [
+        {
+          "episode": 3,
+          "start_time": "01:06.00",
+          "end_time": "01:12.10",
+          "start_seconds": 66.0,
+          "end_seconds": 72.1
+        },
+        {
+          "episode": 1,
+          "start_time": "00:32.80",
+          "end_time": "00:41.20",
+          "start_seconds": 32.8,
+          "end_seconds": 41.2
+        },
+        {
+          "episode": 3,
+          "start_time": "02:12.70",
+          "end_time": "02:25.75",
+          "start_seconds": 132.7,
+          "end_seconds": 145.75
+        }
+      ],
+      "total_duration_sec": 27.55000000000001,
+      "hook": "A rugged bearded stranger steps into the cathedral aisle and orders the guards to let Juliana go.",
+      "cliffhanger": "The Bearded Stranger drops to one knee in the cathedral aisle to propose to Lady Juliana as high society watches in shock, asking her to accept his hand.",
+      "why_it_works": "Teases the mysterious savior right away, loops back to the painful rejection by her fiancé, and closes on a high-stakes romantic proposal that completely flips the power dynamic.",
+      "characters_in_clip": [
+        "THE BEARDED STRANGER",
+        "LADY JULIANA",
+        "LADY IN GOLD GOWN"
+      ],
+      "creative_angle": "protective_romance"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.55
+    },
+    "score_reasoning": "The clip opens with a strong visual and audio hook as a rugged stranger interrupts a wedding scene, shouting 'Take your hands off her' within the first 3 seconds. The narrative coherence is reasonably clear, showing Juliana being betrayed at the altar by Gerald before the stranger steps in to offer her a ring. However, the ending resolves into a somewhat sentimental close-up rather than a sharp, high-tension cliffhanger. Overall, it delivers a clear emotional arc of betrayal and sudden rescue.",
+    "posting_rationale": "Primary creative — angle: protective_romance. Editor to confirm cut points (±1-2s)."
+  },
+  {
+    "rank": 3,
+    "promo": {
+      "promo_id": "PR-004",
+      "promo_type": "multi_segment",
+      "episodes": [
+        2
+      ],
+      "segments": [
+        {
+          "episode": 2,
+          "start_time": "00:00.00",
+          "end_time": "00:12.00",
+          "start_seconds": 0.0,
+          "end_seconds": 12.0
+        },
+        {
+          "episode": 2,
+          "start_time": "01:12.80",
+          "end_time": "01:36.60",
+          "start_seconds": 72.8,
+          "end_seconds": 96.6
+        }
+      ],
+      "total_duration_sec": 35.8,
+      "hook": "In the opening seconds, Gerald looks down dismissively from the altar and tells Juliana, 'I cannot marry you, Juliana.'",
+      "cliffhanger": "Juliana looks up at Gerald with fierce conviction and delivers a scathing indictment, stating, 'You have shown them exactly what your word is worth.'",
+      "why_it_works": "It pairs the shocking public altar betrayal directly with Juliana's empowering verbal retaliation, creating an emotional loop of humiliation and swift revenge.",
+      "characters_in_clip": [
+        "THE FORMER GROOM",
+        "THE FORMER GROOM (Off-screen)",
+        "LADY JULIANA",
+        "LADY JULIANA (Off-screen)"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.3
+    },
+    "score_reasoning": "The clip immediately opens with a classic public wedding rejection at the altar, giving it an instantly recognizable and effective hook. The standalone coherence is strong because the dialogue clearly establishes the betrayal and the character dynamics between Gerald, Clarissa, and Juliana. However, the emotional impact and cliffhanger quality are somewhat softened by the fact that Juliana immediately recovers and delivers a lengthy, empowering takedown, resolving the initial vulnerability rather than leaving the viewer on a tense, unresolved note of panic.",
+    "posting_rationale": "Primary creative — angle: betrayal_revenge. Editor to confirm cut points (±1-2s)."
+  },
+  {
+    "rank": 4,
+    "promo": {
+      "promo_id": "PR-005",
+      "promo_type": "single_episode",
+      "episodes": [
+        3
+      ],
+      "segments": [
+        {
+          "episode": 3,
+          "start_time": "00:00.00",
+          "end_time": "00:58.20",
+          "start_seconds": 0.0,
+          "end_seconds": 58.2
+        }
+      ],
+      "total_duration_sec": 58.2,
+      "hook": "The Lady in Gold Gown smiles smugly and mocks Juliana by telling her that still clinging to that little locket will never make her worthy.",
+      "cliffhanger": "The Noble Matriarch looks down her nose in disdain and delivers the ultimate cruel verdict to the discarded daughter: Wherever a discarded daughter belongs.",
+      "why_it_works": "Focuses purely on the emotional devastation and betrayal, letting the viewer feel the unbearable cruelty of the family before any rescue occurs.",
+      "characters_in_clip": [
+        "LADY IN GOLD GOWN",
+        "LADY JULIANA",
+        "NOBLE MATRIARCH"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 5,
+      "standalone_coherence": 9,
+      "emotional_impact": 8,
+      "duration_fitness": 6,
+      "composite": 7.25
+    },
+    "score_reasoning": "The clip begins with an abandoned bride at the altar and mocking dialogue, which provides an immediate visual hook of public humiliation. The standalone coherence is exceptionally clear: we instantly understand that Lady Juliana has been betrayed by her sister and groom, and is being cast out by a harsh matriarch. The emotional impact is strong due to the sheer cruelty directed at the protagonist, eliciting immediate sympathy and outrage. However, the cliffhanger is a bit weak because the matriarch's final line just reaffirms her exile rather than cutting on a shocking twist or unanswered action.",
+    "posting_rationale": "Rotation creative (swap in when primaries fatigue) — angle: betrayal_revenge. Editor to confirm cut points (±1-2s). REVIEW: context_dependency (medium)"
+  },
+  {
+    "rank": 5,
+    "promo": {
+      "promo_id": "PR-002",
+      "promo_type": "single_episode",
+      "episodes": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_time": "00:46.80",
+          "end_time": "01:18.50",
+          "start_seconds": 46.8,
+          "end_seconds": 78.5
+        }
+      ],
+      "total_duration_sec": 31.700000000000003,
+      "hook": "Juliana clutches her chest in burning outrage and cries out, 'You knew this before I walked through those doors!'",
+      "cliffhanger": "The Lady in Gold Gown looks down with cruel poise and delivers the final blow: 'Long enough to know he was never going to marry you,' cutting off right before Juliana seeks help from her family.",
+      "why_it_works": "Focuses purely on the agonizing verbal betrayal and conspiracy between the groom and the sister, pulling the audience deep into Juliana's pain and desire for payback.",
+      "characters_in_clip": [
+        "LADY JULIANA",
+        "THE FORMER GROOM",
+        "LADY IN GOLD GOWN"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.25
+    },
+    "score_reasoning": "The clip immediately opens with high emotional stakes as Lady Juliana accuses Gerald at the altar or wedding venue for deceiving her, with the opening line 'You knew this before I walked through those doors!' acting as a decent hook. Standalone coherence is quite clear, as the dialogue and visual cues quickly establish a cruel betrayal involving a groom, his new lover ( Juliana's sister), and a mocked wedding dress. The emotional impact is driven by Juliana's intense weeping and betrayal, though the dramatic tropes are somewhat conventional. Finally, the cliffhanger ending leaves the immediate reaction to the sister's cruel confirmation unresolved, prompting viewers to wonder what Juliana will do next.",
+    "posting_rationale": "Rotation creative (swap in when primaries fatigue) — angle: betrayal_revenge. Editor to confirm cut points (±1-2s). REVIEW: context_dependency (medium)"
+  }
+]

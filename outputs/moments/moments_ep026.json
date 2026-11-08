@@ -1,0 +1,106 @@
+{
+  "episode_number": 26,
+  "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+  "moments": [
+    {
+      "episode_number": 26,
+      "moment_type": "hook_visual",
+      "intensity_score": 7,
+      "start_time": "00:00.00",
+      "end_time": "00:09.00",
+      "start_seconds": 0.0,
+      "end_seconds": 9.0,
+      "description": "Juliana prepares to secretly administer medicine to the ailing Dowager Duchess in a dark bedchamber.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 26,
+      "moment_type": "reveal",
+      "intensity_score": 6,
+      "start_time": "00:30.80",
+      "end_time": "00:39.80",
+      "start_seconds": 30.8,
+      "end_seconds": 39.8,
+      "description": "The Dowager Duchess recognizes that Juliana is no common servant after she took a whip for her.",
+      "key_dialogue": "You... you are no common servant. You took Catherine's whip for me the other day.",
+      "characters_involved": [
+        "DOWAGER DUCHESS",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Faint, Discerning",
+        "Humble, Sincere"
+      ]
+    },
+    {
+      "episode_number": 26,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "00:50.80",
+      "end_time": "01:02.00",
+      "start_seconds": 50.8,
+      "end_seconds": 62.0,
+      "description": "The Dowager Duchess realizes with horror that her own family members are slowly poisoning her.",
+      "key_dialogue": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+      "characters_involved": [
+        "DOWAGER DUCHESS"
+      ],
+      "emotion_labels": [
+        "Trembling, Heartbroken"
+      ]
+    },
+    {
+      "episode_number": 26,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "01:11.80",
+      "end_time": "01:25.80",
+      "start_seconds": 71.8,
+      "end_seconds": 85.8,
+      "description": "The Duchess questions Juliana's noble bearing, prompting Juliana to reveal she was cast out by her family.",
+      "key_dialogue": "Because my family cast me out to rot. I have nothing left in this world but my honor.",
+      "characters_involved": [
+        "DOWAGER DUCHESS",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Curious, Searching",
+        "Painful, Proud"
+      ]
+    },
+    {
+      "episode_number": 26,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "01:26.50",
+      "end_time": "01:35.00",
+      "start_seconds": 86.5,
+      "end_seconds": 95.0,
+      "description": "The Duchess spots a distinctive family signet ring on Juliana's finger, sending her into a state of profound shock.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 26,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:49.00",
+      "end_time": "02:00.88",
+      "start_seconds": 109.0,
+      "end_seconds": 120.88,
+      "description": "The Dowager Duchess fiercely grabs Juliana's hand and desperately demands to know where she got the ring.",
+      "key_dialogue": "Where... where... Where did you get this ring? Speak to me!",
+      "characters_involved": [
+        "DOWAGER DUCHESS"
+      ],
+      "emotion_labels": [
+        "Stern, Desperate",
+        "Intense, Demanding"
+      ]
+    }
+  ],
+  "total_duration_sec": 120.88
+}

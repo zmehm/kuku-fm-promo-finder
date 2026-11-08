@@ -1,0 +1,118 @@
+{
+  "episode_number": 40,
+  "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+  "moments": [
+    {
+      "episode_number": 40,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:23.00",
+      "end_time": "00:29.90",
+      "start_seconds": 23.0,
+      "end_seconds": 29.9,
+      "description": "Lady Harrington tauntingly asks about Juliana, prompting Lord Harrington to coldly confirm she will soon be disposed of.",
+      "key_dialogue": "She won't be seeing anything for long.",
+      "characters_involved": [
+        "LADY HARRINGTON",
+        "LORD HARRINGTON"
+      ],
+      "emotion_labels": [
+        "Malicious, Taunting",
+        "Sinister, Dismissive",
+        "Pleased, Cold"
+      ]
+    },
+    {
+      "episode_number": 40,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:34.20",
+      "end_time": "00:48.30",
+      "start_seconds": 34.2,
+      "end_seconds": 48.3,
+      "description": "Lord and Lady Harrington settle into their pew, gloating smugly about the dark fate awaiting Juliana beneath God's watch.",
+      "key_dialogue": "And everything that comes after it.",
+      "characters_involved": [
+        "LADY HARRINGTON",
+        "LORD HARRINGTON"
+      ],
+      "emotion_labels": [
+        "Vindictive, Pious",
+        "Anticipatory, Eager",
+        "Inquiring, Subdued",
+        "Chilling, Sarcastic"
+      ]
+    },
+    {
+      "episode_number": 40,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:55.80",
+      "end_time": "01:09.30",
+      "start_seconds": 55.8,
+      "end_seconds": 69.3,
+      "description": "An elder nobleman on the balcony confirms with a royal guard that every single exit of the cathedral is sealed.",
+      "key_dialogue": "All entrances are covered?",
+      "characters_involved": [
+        "ELDER NOBLEMAN",
+        "ROYAL GUARD"
+      ],
+      "emotion_labels": [
+        "Stern, Scheming",
+        "Obedient, Firm",
+        "Calculating"
+      ]
+    },
+    {
+      "episode_number": 40,
+      "moment_type": "betrayal",
+      "intensity_score": 9,
+      "start_time": "01:09.50",
+      "end_time": "01:17.40",
+      "start_seconds": 69.5,
+      "end_seconds": 77.4,
+      "description": "The elder nobleman smiles sinisterly as he plots the execution of Juliana by sunset under the guise of the royal wedding.",
+      "key_dialogue": "And its witch will be dead.",
+      "characters_involved": [
+        "ELDER NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Ruthless, Victorious",
+        "Deadly, Uncompromising"
+      ]
+    },
+    {
+      "episode_number": 40,
+      "moment_type": "hook_visual",
+      "intensity_score": 8,
+      "start_time": "01:18.50",
+      "end_time": "01:30.80",
+      "start_seconds": 78.5,
+      "end_seconds": 90.8,
+      "description": "Massive wooden cathedral doors swing open with swelling organ music, revealing Catherine in a breathtaking imperial bridal gown.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 40,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:37.50",
+      "end_time": "01:50.08",
+      "start_seconds": 97.5,
+      "end_seconds": 110.08,
+      "description": "Rupert and Catherine exchange arrogant, triumphant smiles at the altar, basking in their wicked rise to power before the scene cuts to black.",
+      "key_dialogue": "And you look better in silk than you ever did as an ignored cousin.",
+      "characters_involved": [
+        "BLOND NOBLEMAN",
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Enamored, Flattering",
+        "Smug, Coquettish"
+      ]
+    }
+  ],
+  "total_duration_sec": 110.08
+}

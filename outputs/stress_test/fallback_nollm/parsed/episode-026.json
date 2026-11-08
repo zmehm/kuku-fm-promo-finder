@@ -1,0 +1,531 @@
+{
+  "episode_number": 26,
+  "episode_id": "episode-026-Episode 1678579",
+  "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+  "continuity_notes": "Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – NIGHT",
+      "start_time": "00:00.00",
+      "end_time": "02:00.88",
+      "start_seconds": 0.0,
+      "end_seconds": 120.88,
+      "elements": [
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:00.00",
+          "end_time": "00:05.80",
+          "character": null,
+          "emotion": null,
+          "content": "Wide shot framed through heavy bed curtains in a dark, candlelit bedchamber. Juliana in her maid's apron sits vigilantly beside the canopied bed where the frail Dowager Duchess lies.",
+          "start_seconds": 0.0,
+          "end_seconds": 5.8
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:00.00",
+          "end_time": "00:05.50",
+          "character": null,
+          "emotion": null,
+          "content": "Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.",
+          "start_seconds": 0.0,
+          "end_seconds": 5.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:05.80",
+          "end_time": "00:10.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana's hands unscrewing the glass dropper from a small amber medicine bottle filled with dark medicinal liquid.",
+          "start_seconds": 5.8,
+          "end_seconds": 10.5
+        },
+        {
+          "element_type": "SOUND_FX",
+          "start_time": "00:06.50",
+          "end_time": "00:09.00",
+          "character": null,
+          "emotion": null,
+          "content": "Tense, atmospheric orchestral score builds softly in the background.",
+          "start_seconds": 6.5,
+          "end_seconds": 9.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:10.50",
+          "end_time": "00:14.20",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of the Dowager Duchess resting against pale pillows as her heavy eyelids slowly open, her gaze weak and disoriented.",
+          "start_seconds": 10.5,
+          "end_seconds": 14.2
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:11.00",
+          "end_time": "00:14.00",
+          "character": null,
+          "emotion": null,
+          "content": "The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana.",
+          "start_seconds": 11.0,
+          "end_seconds": 14.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:14.20",
+          "end_time": "00:20.50",
+          "character": null,
+          "emotion": null,
+          "content": "Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed.",
+          "start_seconds": 14.2,
+          "end_seconds": 20.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:14.20",
+          "end_time": "00:20.20",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Weak, Raspy",
+          "content": "Who are you? Speak to me. I have not seen your face before.",
+          "start_seconds": 14.2,
+          "end_seconds": 20.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:20.50",
+          "end_time": "00:25.80",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender.",
+          "start_seconds": 20.5,
+          "end_seconds": 25.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:20.60",
+          "end_time": "00:25.40",
+          "character": "JULIANA",
+          "emotion": "Urgent, Reassuring",
+          "content": "Please, Your Grace. Drink the last of this antidote. Drink it slowly.",
+          "start_seconds": 20.6,
+          "end_seconds": 25.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:25.80",
+          "end_time": "00:28.50",
+          "character": null,
+          "emotion": null,
+          "content": "Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips.",
+          "start_seconds": 25.8,
+          "end_seconds": 28.5
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:25.80",
+          "end_time": "00:28.40",
+          "character": null,
+          "emotion": null,
+          "content": "The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle.",
+          "start_seconds": 25.8,
+          "end_seconds": 28.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:28.50",
+          "end_time": "00:30.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp.",
+          "start_seconds": 28.5,
+          "end_seconds": 30.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:30.80",
+          "end_time": "00:35.80",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion.",
+          "start_seconds": 30.8,
+          "end_seconds": 35.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:30.80",
+          "end_time": "00:35.50",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Faint, Discerning",
+          "content": "You... you are no common servant. You took Catherine's whip for me the other day.",
+          "start_seconds": 30.8,
+          "end_seconds": 35.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:35.80",
+          "end_time": "00:40.20",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana, her eyes reflecting quiet resolve and pain.",
+          "start_seconds": 35.8,
+          "end_seconds": 40.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:36.00",
+          "end_time": "00:39.80",
+          "character": "JULIANA",
+          "emotion": "Humble, Sincere",
+          "content": "I did what I had to. It does not change my duty.",
+          "start_seconds": 36.0,
+          "end_seconds": 39.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:40.20",
+          "end_time": "00:43.20",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess.",
+          "start_seconds": 40.2,
+          "end_seconds": 43.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:40.30",
+          "end_time": "00:43.00",
+          "character": "JULIANA",
+          "emotion": "Gentle, Calming",
+          "content": "Rest now, Your Grace. You are safe tonight.",
+          "start_seconds": 40.3,
+          "end_seconds": 43.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:43.20",
+          "end_time": "00:47.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper.",
+          "start_seconds": 43.2,
+          "end_seconds": 47.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:43.50",
+          "end_time": "00:47.00",
+          "character": "JULIANA",
+          "emotion": "Hushed, Tense Whisper",
+          "content": "If the guards hear us, we are both dead.",
+          "start_seconds": 43.5,
+          "end_seconds": 47.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:47.50",
+          "end_time": "00:50.80",
+          "character": null,
+          "emotion": null,
+          "content": "Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.",
+          "start_seconds": 47.5,
+          "end_seconds": 50.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:50.80",
+          "end_time": "00:55.80",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face.",
+          "start_seconds": 50.8,
+          "end_seconds": 55.8
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:52.50",
+          "end_time": "00:55.50",
+          "character": null,
+          "emotion": null,
+          "content": "The Duchess clutches the blanket against her chest, her breathing quickening with dismay.",
+          "start_seconds": 52.5,
+          "end_seconds": 55.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:55.80",
+          "end_time": "01:02.50",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty.",
+          "start_seconds": 55.8,
+          "end_seconds": 62.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:56.00",
+          "end_time": "01:02.00",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Trembling, Heartbroken",
+          "content": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+          "start_seconds": 56.0,
+          "end_seconds": 62.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:02.50",
+          "end_time": "01:07.00",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.",
+          "start_seconds": 62.5,
+          "end_seconds": 67.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:02.60",
+          "end_time": "01:06.70",
+          "character": "JULIANA",
+          "emotion": "Reassuring, Steadfast",
+          "content": "Yes. But the charcoal is fighting the poison. You are safe now.",
+          "start_seconds": 62.6,
+          "end_seconds": 66.7
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:07.00",
+          "end_time": "01:11.80",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.",
+          "start_seconds": 67.0,
+          "end_seconds": 71.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:11.80",
+          "end_time": "01:19.60",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.",
+          "start_seconds": 71.8,
+          "end_seconds": 79.6
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:13.80",
+          "end_time": "01:19.40",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Curious, Searching",
+          "content": "Then tell me... why is a girl of such noble spirit working as a common maid?",
+          "start_seconds": 73.8,
+          "end_seconds": 79.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:19.60",
+          "end_time": "01:26.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.",
+          "start_seconds": 79.6,
+          "end_seconds": 86.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:20.00",
+          "end_time": "01:25.80",
+          "character": "JULIANA",
+          "emotion": "Painful, Proud",
+          "content": "Because my family cast me out to rot. I have nothing left in this world but my honor.",
+          "start_seconds": 80.0,
+          "end_seconds": 85.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:26.50",
+          "end_time": "01:30.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.",
+          "start_seconds": 86.5,
+          "end_seconds": 90.8
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:27.00",
+          "end_time": "01:30.50",
+          "character": null,
+          "emotion": null,
+          "content": "Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.",
+          "start_seconds": 87.0,
+          "end_seconds": 90.5
+        },
+        {
+          "element_type": "SOUND_FX",
+          "start_time": "01:30.20",
+          "end_time": "01:32.00",
+          "character": null,
+          "emotion": null,
+          "content": "A sharp, stunned gasp.",
+          "start_seconds": 90.2,
+          "end_seconds": 92.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:30.80",
+          "end_time": "01:35.00",
+          "character": null,
+          "emotion": null,
+          "content": "Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face.",
+          "start_seconds": 90.8,
+          "end_seconds": 95.0
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:30.80",
+          "end_time": "01:35.00",
+          "character": null,
+          "emotion": null,
+          "content": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+          "start_seconds": 90.8,
+          "end_seconds": 95.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:35.00",
+          "end_time": "01:40.00",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand.",
+          "start_seconds": 95.0,
+          "end_seconds": 100.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:36.00",
+          "end_time": "01:39.80",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Breathless, Shaken",
+          "content": "Your hand... Let me see your hand.",
+          "start_seconds": 96.0,
+          "end_seconds": 99.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:40.00",
+          "end_time": "01:45.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy.",
+          "start_seconds": 100.0,
+          "end_seconds": 105.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:40.50",
+          "end_time": "01:45.00",
+          "character": "JULIANA",
+          "emotion": "Confused, Alarmed",
+          "content": "Your Grace? What is wrong? You look as though you've seen a ghost.",
+          "start_seconds": 100.5,
+          "end_seconds": 105.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:45.50",
+          "end_time": "01:49.00",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm.",
+          "start_seconds": 105.5,
+          "end_seconds": 109.0
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:46.00",
+          "end_time": "01:49.00",
+          "character": null,
+          "emotion": null,
+          "content": "The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.",
+          "start_seconds": 106.0,
+          "end_seconds": 109.0
+        },
+        {
+          "element_type": "SOUND_FX",
+          "start_time": "01:48.80",
+          "end_time": "01:50.00",
+          "character": null,
+          "emotion": null,
+          "content": "A sudden sharp rustle of fabric as her fingers snap tight.",
+          "start_seconds": 108.8,
+          "end_seconds": 110.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:49.00",
+          "end_time": "01:50.80",
+          "character": null,
+          "emotion": null,
+          "content": "Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.",
+          "start_seconds": 109.0,
+          "end_seconds": 110.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:49.20",
+          "end_time": "01:50.60",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Stern, Desperate",
+          "content": "Do not move!",
+          "start_seconds": 109.2,
+          "end_seconds": 110.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:50.80",
+          "end_time": "01:55.80",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.",
+          "start_seconds": 110.8,
+          "end_seconds": 115.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:51.00",
+          "end_time": "01:55.50",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Intense, Demanding",
+          "content": "Where... where... Where did you get this ring? Speak to me!",
+          "start_seconds": 111.0,
+          "end_seconds": 115.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:55.80",
+          "end_time": "01:59.50",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room.",
+          "start_seconds": 115.8,
+          "end_seconds": 119.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:59.50",
+          "end_time": "02:00.88",
+          "character": null,
+          "emotion": null,
+          "content": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.",
+          "start_seconds": 119.5,
+          "end_seconds": 120.88
+        }
+      ]
+    }
+  ],
+  "total_duration_sec": 120.88,
+  "total_elements": 51,
+  "total_dialogue_lines": 14
+}

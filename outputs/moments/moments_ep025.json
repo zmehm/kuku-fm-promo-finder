@@ -1,0 +1,118 @@
+{
+  "episode_number": 25,
+  "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+  "moments": [
+    {
+      "episode_number": 25,
+      "moment_type": "hook_visual",
+      "intensity_score": 9,
+      "start_time": "00:13.20",
+      "end_time": "00:16.10",
+      "start_seconds": 13.2,
+      "end_seconds": 16.1,
+      "description": "Alexander reaches out and grasps Juliana's shoulder, causing her to wince in pain as he discovers she is injured.",
+      "key_dialogue": "You're hurt.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Sharp, Alarmed"
+      ]
+    },
+    {
+      "episode_number": 25,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:18.80",
+      "end_time": "00:25.50",
+      "start_seconds": 18.8,
+      "end_seconds": 25.5,
+      "description": "Alexander pulls back the fabric of Juliana's cloak to reveal a raw, bloody welt, asking who did this.",
+      "key_dialogue": "Who did this?",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Seething, Dangerous"
+      ]
+    },
+    {
+      "episode_number": 25,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:32.80",
+      "end_time": "00:37.80",
+      "start_seconds": 32.8,
+      "end_seconds": 37.8,
+      "description": "Alexander demands to know who caused her injuries, and Juliana whispers the name of Lady Catherine.",
+      "key_dialogue": "Lady Catherine.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Demanding, Stern",
+        "Quiet, Apprehensive"
+      ]
+    },
+    {
+      "episode_number": 25,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "01:17.40",
+      "end_time": "01:25.00",
+      "start_seconds": 77.4,
+      "end_seconds": 85.0,
+      "description": "Juliana reveals the horrifying truth that the Dowager Duchess is being systematically poisoned with arsenic.",
+      "key_dialogue": "Arsenic.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Grim, Low",
+        "Hushed, Horrified",
+        "Sober"
+      ]
+    },
+    {
+      "episode_number": 25,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "02:08.00",
+      "end_time": "02:22.40",
+      "start_seconds": 128.0,
+      "end_seconds": 142.4,
+      "description": "Alexander speaks through clenched teeth, expressing his fierce protective fury that she walked into a house where someone is poisoning people.",
+      "key_dialogue": "Worry? They struck you. They could have killed you.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Fierce, Reproachful",
+        "Vulnerable",
+        "Furious, Tormented"
+      ]
+    },
+    {
+      "episode_number": 25,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "02:33.80",
+      "end_time": "02:39.20",
+      "start_seconds": 153.8,
+      "end_seconds": 159.2,
+      "description": "Alexander yields to Juliana's unshakeable conviction and demands that she tell him every single detail of what she saw.",
+      "key_dialogue": "Everything you saw.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Resigned, Steely",
+        "Low, Uncompromising"
+      ]
+    }
+  ],
+  "total_duration_sec": 168.0
+}

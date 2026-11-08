@@ -1,0 +1,121 @@
+{
+  "episode_number": 27,
+  "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+  "moments": [
+    {
+      "episode_number": 27,
+      "moment_type": "hook_visual",
+      "intensity_score": 8,
+      "start_time": "00:00.00",
+      "end_time": "00:05.80",
+      "start_seconds": 0.0,
+      "end_seconds": 5.8,
+      "description": "The Dowager Duchess clutches Juliana's hand in shock and urgently demands to know the origin of her wedding ring.",
+      "key_dialogue": "Look at me, girl. Who gave this to you?",
+      "characters_involved": [
+        "DOWAGER DUCHESS"
+      ],
+      "emotion_labels": [
+        "Shaken, Breathless",
+        "Urgent, Demanding"
+      ]
+    },
+    {
+      "episode_number": 27,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "00:16.80",
+      "end_time": "00:31.40",
+      "start_seconds": 16.8,
+      "end_seconds": 31.4,
+      "description": "The Dowager Duchess gasps in recognition, weeping as she reveals that Juliana's ring bears the Ashbourne crest of her lost son.",
+      "key_dialogue": "That is no ordinary band. It bears the Ashbourne crest.",
+      "characters_involved": [
+        "DOWAGER DUCHESS",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Trembling, Revelatory",
+        "Confused, Gentle",
+        "Emotionally Strained, Weeping"
+      ]
+    },
+    {
+      "episode_number": 27,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:46.40",
+      "end_time": "00:55.60",
+      "start_seconds": 46.4,
+      "end_seconds": 55.6,
+      "description": "Amidst the secret conversation, heavy pounding interrupts them as Rupert, Lady Catherine, and a royal guard storm the bedchamber.",
+      "key_dialogue": "What is that maid doing in Her Grace's private chamber?",
+      "characters_involved": [
+        "LADY CATHERINE"
+      ],
+      "emotion_labels": [
+        "Sharp, Accusatory"
+      ]
+    },
+    {
+      "episode_number": 27,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "01:52.50",
+      "end_time": "02:02.60",
+      "start_seconds": 112.5,
+      "end_seconds": 122.6,
+      "description": "Juliana bravely confesses that she holds an antidote for the poison, falling straight into the trap.",
+      "key_dialogue": "Someone has been poisoning Her Grace.",
+      "characters_involved": [
+        "BLOND NOBLEMAN (O.S.)",
+        "JULIANA",
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Stern, Barked",
+        "Unyielding, Resolute",
+        "Whispering, Dangerous",
+        "Urgent"
+      ]
+    },
+    {
+      "episode_number": 27,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "02:02.80",
+      "end_time": "02:10.80",
+      "start_seconds": 122.8,
+      "end_seconds": 130.8,
+      "description": "Lady Catherine maliciously twists Juliana's words to accuse her of administering poison in secret.",
+      "key_dialogue": "She admits she has been giving the Duchess poison in secret!",
+      "characters_involved": [
+        "LADY CATHERINE",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Shrieking, Feigning Horror",
+        "Venomous, Accusing",
+        "Desperate, Outraged"
+      ]
+    },
+    {
+      "episode_number": 27,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "02:24.00",
+      "end_time": "02:30.50",
+      "start_seconds": 144.0,
+      "end_seconds": 150.5,
+      "description": "The Blond Nobleman orders Juliana's arrest, and she is dragged away by the guard while casting a terrified glance at the Duchess.",
+      "key_dialogue": "Take her.",
+      "characters_involved": [
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "To Guard, Stern"
+      ]
+    }
+  ],
+  "total_duration_sec": 150.5
+}

@@ -1,0 +1,127 @@
+{
+  "episode_number": 35,
+  "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+  "moments": [
+    {
+      "episode_number": 35,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "00:00.00",
+      "end_time": "00:08.50",
+      "start_seconds": 0.0,
+      "end_seconds": 8.5,
+      "description": "Alexander's elderly mother flees her captivity through a subterranean stone tunnel.",
+      "key_dialogue": "I will not die in that house.",
+      "characters_involved": [
+        "ALEXANDER'S MOTHER"
+      ],
+      "emotion_labels": [
+        "Determined, Breathless"
+      ]
+    },
+    {
+      "episode_number": 35,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:27.50",
+      "end_time": "00:44.20",
+      "start_seconds": 27.5,
+      "end_seconds": 44.2,
+      "description": "Alexander's mother tracks him down to a secluded cabin, discovering her presumed-dead son is alive.",
+      "key_dialogue": "Alexander?",
+      "characters_involved": [
+        "ALEXANDER'S MOTHER",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Sobbing, Stunned",
+        "Breathless, In Disbelief"
+      ]
+    },
+    {
+      "episode_number": 35,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:44.20",
+      "end_time": "00:55.00",
+      "start_seconds": 44.2,
+      "end_seconds": 55.0,
+      "description": "The mother breaks down in tears, hugging her son and revealing she buried him.",
+      "key_dialogue": "I buried you.",
+      "characters_involved": [
+        "ALEXANDER'S MOTHER",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Weeping, Overwhelmed",
+        "Gentle, Choked Up",
+        "Tearful, Heartbroken"
+      ]
+    },
+    {
+      "episode_number": 35,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:56.50",
+      "end_time": "01:17.50",
+      "start_seconds": 56.5,
+      "end_seconds": 77.5,
+      "description": "Alexander recounts how his entire regiment was destroyed and how he was never supposed to survive.",
+      "key_dialogue": "I wasn't supposed to.",
+      "characters_involved": [
+        "ALEXANDER",
+        "ALEXANDER'S MOTHER"
+      ],
+      "emotion_labels": [
+        "Soft, Somber",
+        "Anguished, Accusing",
+        "Dark, Resigned",
+        "Searching, Desperate",
+        "Grim, Quiet"
+      ]
+    },
+    {
+      "episode_number": 35,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "02:02.00",
+      "end_time": "02:10.50",
+      "start_seconds": 122.0,
+      "end_seconds": 130.5,
+      "description": "The mother learns the chilling truth that someone intentionally kept her in the dark about his survival.",
+      "key_dialogue": "Because someone wanted you to believe I was dead.",
+      "characters_involved": [
+        "ALEXANDER'S MOTHER",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Aghast, Stunned",
+        "Ominous, Deliberate",
+        "Breathless"
+      ]
+    },
+    {
+      "episode_number": 35,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "02:14.00",
+      "end_time": "02:37.50",
+      "start_seconds": 134.0,
+      "end_seconds": 157.5,
+      "description": "Alexander reveals that the men who ordered his assassination are currently ruling Ashwood.",
+      "key_dialogue": "The men behind it... are the same men ruling Ashwood now.",
+      "characters_involved": [
+        "ALEXANDER",
+        "ALEXANDER'S MOTHER"
+      ],
+      "emotion_labels": [
+        "Fierce, Resolute",
+        "Vehement, Enraged",
+        "Darkly Intimating",
+        "Gasping, Terrified",
+        "Deadly, Chilling"
+      ]
+    }
+  ],
+  "total_duration_sec": 157.5
+}

@@ -1,0 +1,117 @@
+{
+  "episode_number": 37,
+  "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+  "moments": [
+    {
+      "episode_number": 37,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:15.60",
+      "end_time": "00:26.40",
+      "start_seconds": 15.6,
+      "end_seconds": 26.4,
+      "description": "Catherine gloats over the wedding invitations and drops the shocking news that Juliana's public execution will follow.",
+      "key_dialogue": "Juliana's execution comes after the wedding.",
+      "characters_involved": [
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Gloating",
+        "Venomous Satisfaction"
+      ]
+    },
+    {
+      "episode_number": 37,
+      "moment_type": "reveal",
+      "intensity_score": 7,
+      "start_time": "00:56.80",
+      "end_time": "01:05.50",
+      "start_seconds": 56.8,
+      "end_seconds": 65.5,
+      "description": "Lady Clarissa's husband discovers the horrific execution decree attached to the wedding invitation.",
+      "key_dialogue": "They want the families to witness it.",
+      "characters_involved": [
+        "NOBLEMAN",
+        "LADY CLARISSA"
+      ],
+      "emotion_labels": [
+        "Reading in Awe",
+        "Gloating, Mocking"
+      ]
+    },
+    {
+      "episode_number": 37,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "01:15.50",
+      "end_time": "01:27.50",
+      "start_seconds": 75.5,
+      "end_seconds": 87.5,
+      "description": "Lady Clarissa delivers a contemptuous decree against women who try to rise above their station.",
+      "key_dialogue": "Juliana's ruin will be a lesson. And we will be there to watch.",
+      "characters_involved": [
+        "LADY CLARISSA"
+      ],
+      "emotion_labels": [
+        "Contemptuous, Scornful",
+        "Smug Triumph"
+      ]
+    },
+    {
+      "episode_number": 37,
+      "moment_type": "emotional_peak",
+      "intensity_score": 9,
+      "start_time": "01:32.00",
+      "end_time": "01:43.20",
+      "start_seconds": 92.0,
+      "end_seconds": 103.2,
+      "description": "Starving in the dungeon, Juliana defiantly refuses the foul sustenance and vows not to surrender.",
+      "key_dialogue": "They think fear will make me beg.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Weak, Whispering through Tears",
+        "Fierce Resolve"
+      ]
+    },
+    {
+      "episode_number": 37,
+      "moment_type": "emotional_peak",
+      "intensity_score": 9,
+      "start_time": "01:43.50",
+      "end_time": "01:56.20",
+      "start_seconds": 103.5,
+      "end_seconds": 116.2,
+      "description": "Juliana drags herself up from the wet stone floor in chains, proclaiming her indomitable spirit.",
+      "key_dialogue": "They cannot take who I am!",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Straining, Defiant Gasps",
+        "Passionate Defiance",
+        "Indomitable Spirit"
+      ]
+    },
+    {
+      "episode_number": 37,
+      "moment_type": "cliffhanger",
+      "intensity_score": 8,
+      "start_time": "02:14.00",
+      "end_time": "02:36.47",
+      "start_seconds": 134.0,
+      "end_seconds": 156.47,
+      "description": "Lady Clarissa relishes the impending public execution over wine as an ominous cello rumble builds to a tense close.",
+      "key_dialogue": "Let them see what happens when a woman forgets her place.",
+      "characters_involved": [
+        "LADY CLARISSA"
+      ],
+      "emotion_labels": [
+        "Venomous Monologue",
+        "Chilling Proclamation"
+      ]
+    }
+  ],
+  "total_duration_sec": 156.47
+}

@@ -1,0 +1,122 @@
+{
+  "episode_number": 17,
+  "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+  "moments": [
+    {
+      "episode_number": 17,
+      "moment_type": "hook_visual",
+      "intensity_score": 6,
+      "start_time": "00:00.00",
+      "end_time": "00:11.30",
+      "start_seconds": 0.0,
+      "end_seconds": 11.3,
+      "description": "Juliana inspects her devastated medicinal garden amidst broken planters and mud, finding a single surviving white daisy.",
+      "key_dialogue": "Some of them survived.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Soft, Emotional"
+      ]
+    },
+    {
+      "episode_number": 17,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:16.20",
+      "end_time": "00:23.00",
+      "start_seconds": 16.2,
+      "end_seconds": 23.0,
+      "description": "Juliana thanks Alexander for shielding her from attackers, and he fiercely swears he would protect her again.",
+      "key_dialogue": "I would do it again.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Gruff, Low",
+        "Trembling, Heartfelt",
+        "Unwavering, Firm"
+      ]
+    },
+    {
+      "episode_number": 17,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:26.00",
+      "end_time": "00:39.00",
+      "start_seconds": 26.0,
+      "end_seconds": 39.0,
+      "description": "Alexander kneels before Juliana and makes an absolute, unwavering vow that no one will ever hurt her again.",
+      "key_dialogue": "...no one will hurt you again.",
+      "characters_involved": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Deep, Resolute",
+        "Gentle, Vowing",
+        "Choked Up, Pained",
+        "Quiet, Absolute"
+      ]
+    },
+    {
+      "episode_number": 17,
+      "moment_type": "reveal",
+      "intensity_score": 7,
+      "start_time": "00:54.00",
+      "end_time": "01:02.20",
+      "start_seconds": 54.0,
+      "end_seconds": 62.2,
+      "description": "Juliana tends to Alexander's wounds by the hearth and confesses her greatest fear during the attack.",
+      "key_dialogue": "Of losing you.",
+      "characters_involved": [
+        "JULIANA",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Vulnerable, Sincere",
+        "Questioning",
+        "Whispering, Earnest"
+      ]
+    },
+    {
+      "episode_number": 17,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "01:06.00",
+      "end_time": "01:22.50",
+      "start_seconds": 66.0,
+      "end_seconds": 82.5,
+      "description": "Alexander pulls Juliana into a warm embrace against his chest, sharing a tender moment as they listen to each other's racing hearts.",
+      "key_dialogue": "So is yours.",
+      "characters_involved": [
+        "JULIANA",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Soft, Playful",
+        "Warm, Whispering"
+      ]
+    },
+    {
+      "episode_number": 17,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:47.00",
+      "end_time": "01:58.88",
+      "start_seconds": 107.0,
+      "end_seconds": 118.88,
+      "description": "Juliana reflects in voiceover on how little she knows about her mysterious husband as they hold each other by the roaring fire.",
+      "key_dialogue": "I know almost nothing about the man I married.",
+      "characters_involved": [
+        "JULIANA (V.O.)"
+      ],
+      "emotion_labels": [
+        "Reflective, Resonant",
+        "Deeply Moved, Loving"
+      ]
+    }
+  ],
+  "total_duration_sec": 118.88
+}

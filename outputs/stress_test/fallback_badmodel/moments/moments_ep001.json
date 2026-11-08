@@ -1,0 +1,441 @@
+{
+  "episode_number": 1,
+  "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+  "moments": [
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:11.30",
+      "end_time": "00:13.10",
+      "start_seconds": 11.3,
+      "end_seconds": 13.1,
+      "description": "MATRIARCH: You should turn around, Juliana.",
+      "key_dialogue": "You should turn around, Juliana.",
+      "characters_involved": [
+        "MATRIARCH"
+      ],
+      "emotion_labels": [
+        "Cold, Commanding"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:15.50",
+      "end_time": "00:17.50",
+      "start_seconds": 15.5,
+      "end_seconds": 17.5,
+      "description": "LADY JULIANA: Gerald is waiting for me.",
+      "key_dialogue": "Gerald is waiting for me.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate, Unbelieving"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:21.80",
+      "end_time": "00:23.50",
+      "start_seconds": 21.8,
+      "end_seconds": 23.5,
+      "description": "LADY JULIANA: What do you mean?",
+      "key_dialogue": "What do you mean?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Trembling, Pleading"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:23.80",
+      "end_time": "00:25.50",
+      "start_seconds": 23.8,
+      "end_seconds": 25.5,
+      "description": "MATRIARCH: Look for yourself.",
+      "key_dialogue": "Look for yourself.",
+      "characters_involved": [
+        "MATRIARCH"
+      ],
+      "emotion_labels": [
+        "Dismissive"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:35.40",
+      "end_time": "00:37.70",
+      "start_seconds": 35.4,
+      "end_seconds": 37.7,
+      "description": "LADY JULIANA: Why are you holding her hand?",
+      "key_dialogue": "Why are you holding her hand?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Heartbroken"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "00:39.10",
+      "end_time": "00:41.20",
+      "start_seconds": 39.1,
+      "end_seconds": 41.2,
+      "description": "LADY IN GOLD GOWN: Because he is marrying me.",
+      "key_dialogue": "Because he is marrying me.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Gloating, Smug"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:41.70",
+      "end_time": "00:43.10",
+      "start_seconds": 41.7,
+      "end_seconds": 43.1,
+      "description": "LADY JULIANA: No...",
+      "key_dialogue": "No...",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Gasping, Devastated"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:46.80",
+      "end_time": "00:50.00",
+      "start_seconds": 46.8,
+      "end_seconds": 50.0,
+      "description": "LADY JULIANA: You knew this before I walked through those doors!",
+      "key_dialogue": "You knew this before I walked through those doors!",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Outraged, Accusing"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "00:52.80",
+      "end_time": "00:54.60",
+      "start_seconds": 52.8,
+      "end_seconds": 54.6,
+      "description": "LADY JULIANA: You let me come here...",
+      "key_dialogue": "You let me come here...",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Choking on Tears"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "01:00.10",
+      "end_time": "01:01.80",
+      "start_seconds": 60.1,
+      "end_seconds": 61.8,
+      "description": "THE FORMER GROOM: I changed my mind.",
+      "key_dialogue": "I changed my mind.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Cold, Callous"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:03.40",
+      "end_time": "01:05.60",
+      "start_seconds": 63.4,
+      "end_seconds": 65.6,
+      "description": "LADY JULIANA: You swore you loved me!",
+      "key_dialogue": "You swore you loved me!",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Betrayed, Piercing"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:06.50",
+      "end_time": "01:08.80",
+      "start_seconds": 66.5,
+      "end_seconds": 68.8,
+      "description": "LADY IN GOLD GOWN: People change their minds, sister.",
+      "key_dialogue": "People change their minds, sister.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Mocking"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:09.10",
+      "end_time": "01:10.40",
+      "start_seconds": 69.1,
+      "end_seconds": 70.4,
+      "description": "LADY JULIANA: And you knew?",
+      "key_dialogue": "And you knew?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Horrified"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:13.10",
+      "end_time": "01:14.30",
+      "start_seconds": 73.1,
+      "end_seconds": 74.3,
+      "description": "LADY JULIANA: How long?",
+      "key_dialogue": "How long?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Trembling"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:15.00",
+      "end_time": "01:18.50",
+      "start_seconds": 75.0,
+      "end_seconds": 78.5,
+      "description": "LADY IN GOLD GOWN: Long enough to know he was never going to marry you.",
+      "key_dialogue": "Long enough to know he was never going to marry you.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Cruel, Poised"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "01:20.10",
+      "end_time": "01:21.20",
+      "start_seconds": 80.1,
+      "end_seconds": 81.2,
+      "description": "LADY JULIANA: Father...",
+      "key_dialogue": "Father...",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:21.40",
+      "end_time": "01:23.60",
+      "start_seconds": 81.4,
+      "end_seconds": 83.6,
+      "description": "LADY JULIANA: Tell them this is a mistake.",
+      "key_dialogue": "Tell them this is a mistake.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Begging"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:26.00",
+      "end_time": "01:28.90",
+      "start_seconds": 86.0,
+      "end_seconds": 88.9,
+      "description": "LADY JULIANA: Father... please look at me.",
+      "key_dialogue": "Father... please look at me.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Choking, Broken"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:30.90",
+      "end_time": "01:31.90",
+      "start_seconds": 90.9,
+      "end_seconds": 91.9,
+      "description": "MATRIARCH: Enough!",
+      "key_dialogue": "Enough!",
+      "characters_involved": [
+        "MATRIARCH"
+      ],
+      "emotion_labels": [
+        "Stern, Resolute"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:36.20",
+      "end_time": "01:38.20",
+      "start_seconds": 96.2,
+      "end_seconds": 98.2,
+      "description": "LADY JULIANA: Embarrassed you?",
+      "key_dialogue": "Embarrassed you?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Incredulous"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:51.10",
+      "end_time": "01:53.00",
+      "start_seconds": 111.1,
+      "end_seconds": 113.0,
+      "description": "LADY IN GOLD GOWN: I am the daughter they choose.",
+      "key_dialogue": "I am the daughter they choose.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Gloating"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 6,
+      "start_time": "01:57.00",
+      "end_time": "01:59.00",
+      "start_seconds": 117.0,
+      "end_seconds": 119.0,
+      "description": "LADY JULIANA: So that is what I was worth to you?",
+      "key_dialogue": "So that is what I was worth to you?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Trembling, Dignified"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 8,
+      "start_time": "01:59.80",
+      "end_time": "02:02.30",
+      "start_seconds": 119.8,
+      "end_seconds": 122.3,
+      "description": "THE FORMER GROOM: You have nothing to offer me anymore.",
+      "key_dialogue": "You have nothing to offer me anymore.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Scornful, Hard"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 7,
+      "start_time": "02:04.20",
+      "end_time": "02:07.50",
+      "start_seconds": 124.2,
+      "end_seconds": 127.5,
+      "description": "THE FORMER GROOM: I cannot marry a woman of such plainness and low value...",
+      "key_dialogue": "I cannot marry a woman of such plainness and low value...",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Arrogant, Dismissive"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "hook_visual",
+      "intensity_score": 8,
+      "start_time": "02:11.30",
+      "end_time": "02:13.80",
+      "start_seconds": 131.3,
+      "end_seconds": 133.8,
+      "description": "Action: Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "cliffhanger",
+      "intensity_score": 7,
+      "start_time": "02:15.00",
+      "end_time": "02:17.50",
+      "start_seconds": 135.0,
+      "end_seconds": 137.5,
+      "description": "Action: Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    }
+  ],
+  "total_duration_sec": 138.0
+}

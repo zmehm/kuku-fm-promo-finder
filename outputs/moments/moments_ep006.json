@@ -1,0 +1,96 @@
+{
+  "episode_number": 6,
+  "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+  "moments": [
+    {
+      "episode_number": 6,
+      "moment_type": "hook_visual",
+      "intensity_score": 7,
+      "start_time": "00:00.00",
+      "end_time": "00:06.50",
+      "start_seconds": 0.0,
+      "end_seconds": 6.5,
+      "description": "Juliana trudges through a muddy, rain-soaked forest in her white wedding gown while holding her shivering cloak.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 6,
+      "moment_type": "confrontation",
+      "intensity_score": 6,
+      "start_time": "00:07.10",
+      "end_time": "00:14.60",
+      "start_seconds": 7.1,
+      "end_seconds": 14.6,
+      "description": "The Mysterious Bearded Man expresses regret to Juliana about the harsh journey, and she quietly admits the bitter reality of her situation.",
+      "key_dialogue": "I know this is not the life you came from.",
+      "characters_involved": [
+        "MYSTERIOUS BEARDED MAN",
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Solemn, Gentle",
+        "Quiet, Melancholic",
+        "Resigned, Soft"
+      ]
+    },
+    {
+      "episode_number": 6,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:24.00",
+      "end_time": "00:33.70",
+      "start_seconds": 24.0,
+      "end_seconds": 33.7,
+      "description": "Juliana arrives at a tiny, rustic stone cottage in the middle of the dark woods and reacts with stunned disbelief.",
+      "key_dialogue": "At least no one there will be waiting to humiliate me.",
+      "characters_involved": [
+        "JULIANA",
+        "MYSTERIOUS BEARDED MAN"
+      ],
+      "emotion_labels": [
+        "Surprised, Hesitant",
+        "Low",
+        "Determined, Defiant"
+      ]
+    },
+    {
+      "episode_number": 6,
+      "moment_type": "emotional_peak",
+      "intensity_score": 7,
+      "start_time": "01:07.80",
+      "end_time": "01:16.80",
+      "start_seconds": 67.8,
+      "end_seconds": 76.8,
+      "description": "Juliana vigorously scrubs the wooden table to keep her mind off everything she lost, while the Mysterious Bearded Man silently kneels to help.",
+      "key_dialogue": "If I stop now, I will think about everything I lost.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Vulnerable, Trembling"
+      ]
+    },
+    {
+      "episode_number": 6,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:35.80",
+      "end_time": "01:55.00",
+      "start_seconds": 95.8,
+      "end_seconds": 115.0,
+      "description": "As the warm hearth fire crackles between them, Juliana reflects in voiceover on losing her family and finding unexpected safety beside her new husband.",
+      "key_dialogue": "Sitting here with him, I don't feel afraid.",
+      "characters_involved": [
+        "JULIANA (V.O.)"
+      ],
+      "emotion_labels": [
+        "Reflective, Vulnerable",
+        "Gentle, Surprised",
+        "Tender, Safe"
+      ]
+    }
+  ],
+  "total_duration_sec": 0.0
+}

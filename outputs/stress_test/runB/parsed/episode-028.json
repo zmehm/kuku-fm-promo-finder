@@ -1,0 +1,981 @@
+{
+  "episode_number": 28,
+  "episode_id": "episode-028-Episode 1678581",
+  "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+  "continuity_notes": "Picks up directly from Episode 27 as Rupert orders the guard to seize Juliana, ignoring the waking Duchess.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "heading": "INT. DUCHESS'S BEDCHAMBER – DAY",
+      "start_time": "00:00.00",
+      "end_time": "02:18.50",
+      "start_seconds": 0.0,
+      "end_seconds": 138.5,
+      "elements": [
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:00.00",
+          "end_time": "00:02.30",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot as the guard drags Juliana toward the doorway, wrestling her backward.",
+          "start_seconds": 0.0,
+          "end_seconds": 2.3
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:00.00",
+          "end_time": "00:02.10",
+          "character": null,
+          "emotion": null,
+          "content": "Juliana struggles against the guard's grip; the leather-bound herbarium slips from her apron pocket and falls to the stone floor.",
+          "start_seconds": 0.0,
+          "end_seconds": 2.1
+        },
+        {
+          "element_type": "SOUND_FX",
+          "start_time": "00:01.80",
+          "end_time": "00:03.20",
+          "character": null,
+          "emotion": null,
+          "content": "Heavy thud of the leather journal hitting the polished floor.",
+          "start_seconds": 1.8,
+          "end_seconds": 3.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:02.30",
+          "end_time": "00:04.70",
+          "character": null,
+          "emotion": null,
+          "content": "Low-angle close-up of the leather-bound herbarium on the floor as Catherine's silk slipper steps down hard upon its embossed cover.",
+          "start_seconds": 2.3,
+          "end_seconds": 4.7
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:03.20",
+          "end_time": "00:04.60",
+          "character": null,
+          "emotion": null,
+          "content": "Catherine plants her embroidered shoe deliberately atop the fallen book.",
+          "start_seconds": 3.2,
+          "end_seconds": 4.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:04.70",
+          "end_time": "00:10.00",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot tracking Catherine as she strides gracefully across the chamber toward Juliana, Rupert standing stoically behind her near the bed.",
+          "start_seconds": 4.7,
+          "end_seconds": 10.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:04.90",
+          "end_time": "00:06.30",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Cruel",
+          "content": "Look at her, Rupert.",
+          "start_seconds": 4.9,
+          "end_seconds": 6.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:06.60",
+          "end_time": "00:08.10",
+          "character": "CATHERINE",
+          "emotion": "Scoffing",
+          "content": "Soot on her face...",
+          "start_seconds": 6.6,
+          "end_seconds": 8.1
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:08.20",
+          "end_time": "00:12.60",
+          "character": null,
+          "emotion": null,
+          "content": "Over-the-shoulder shot from behind Catherine as she faces Juliana, who is pinned in the doorway by the guard.",
+          "start_seconds": 8.2,
+          "end_seconds": 12.6
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:08.40",
+          "end_time": "00:10.00",
+          "character": "CATHERINE",
+          "emotion": "Accusing, Smug",
+          "content": "...herbs in her pockets...",
+          "start_seconds": 8.4,
+          "end_seconds": 10.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:10.20",
+          "end_time": "00:12.30",
+          "character": "CATHERINE",
+          "emotion": "Cold",
+          "content": "...a secret medicine in her hand.",
+          "start_seconds": 10.2,
+          "end_seconds": 12.3
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:12.60",
+          "end_time": "00:15.20",
+          "character": null,
+          "emotion": null,
+          "content": "Tight close-up of Catherine's smiling face, her eyes gleaming with vindictive pleasure.",
+          "start_seconds": 12.6,
+          "end_seconds": 15.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:12.70",
+          "end_time": "00:15.00",
+          "character": "CATHERINE",
+          "emotion": "Venomous",
+          "content": "She looks exactly like a poisoner.",
+          "start_seconds": 12.7,
+          "end_seconds": 15.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:15.20",
+          "end_time": "00:18.50",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana glaring back in fierce indignation, breathing heavily as she resists the guard's arm across her shoulder.",
+          "start_seconds": 15.2,
+          "end_seconds": 18.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:15.30",
+          "end_time": "00:18.40",
+          "character": "JULIANA",
+          "emotion": "Furious, Defiant",
+          "content": "I did not poison her! Look at her eyes, the fever has broken!",
+          "start_seconds": 15.3,
+          "end_seconds": 18.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:18.50",
+          "end_time": "00:22.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.",
+          "start_seconds": 18.5,
+          "end_seconds": 22.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:18.90",
+          "end_time": "00:20.30",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Sardonic, Chilling",
+          "content": "A clever story, girl.",
+          "start_seconds": 18.9,
+          "end_seconds": 20.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:20.40",
+          "end_time": "00:22.70",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Threatening",
+          "content": "But the guards know how to extract the truth.",
+          "start_seconds": 20.4,
+          "end_seconds": 22.7
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:22.80",
+          "end_time": "00:26.70",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.",
+          "start_seconds": 22.8,
+          "end_seconds": 26.7
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:24.80",
+          "end_time": "00:26.50",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Weak, Straining",
+          "content": "Rupert...",
+          "start_seconds": 24.8,
+          "end_seconds": 26.5
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:26.70",
+          "end_time": "00:28.40",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.",
+          "start_seconds": 26.7,
+          "end_seconds": 28.4
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:26.70",
+          "end_time": "00:28.20",
+          "character": "DOWAGER DUCHESS (O.S.)",
+          "emotion": "Commanding",
+          "content": "Stop this!",
+          "start_seconds": 26.7,
+          "end_seconds": 28.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:28.40",
+          "end_time": "00:32.80",
+          "character": null,
+          "emotion": null,
+          "content": "Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.",
+          "start_seconds": 28.4,
+          "end_seconds": 32.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:28.80",
+          "end_time": "00:30.30",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Desperate, Firm",
+          "content": "She is innocent.",
+          "start_seconds": 28.8,
+          "end_seconds": 30.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:30.80",
+          "end_time": "00:32.40",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Adamant",
+          "content": "She saved me!",
+          "start_seconds": 30.8,
+          "end_seconds": 32.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:32.80",
+          "end_time": "00:34.90",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana, tears of relief welling in her eyes.",
+          "start_seconds": 32.8,
+          "end_seconds": 34.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:33.20",
+          "end_time": "00:34.60",
+          "character": "JULIANA",
+          "emotion": "Breathless, Relieved",
+          "content": "Your Grace...",
+          "start_seconds": 33.2,
+          "end_seconds": 34.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:34.90",
+          "end_time": "00:37.70",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.",
+          "start_seconds": 34.9,
+          "end_seconds": 37.7
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:35.00",
+          "end_time": "00:37.40",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Trembling, Shouting",
+          "content": "I know what happened to me!",
+          "start_seconds": 35.0,
+          "end_seconds": 37.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:37.70",
+          "end_time": "00:43.00",
+          "character": null,
+          "emotion": null,
+          "content": "Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.",
+          "start_seconds": 37.7,
+          "end_seconds": 43.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:38.20",
+          "end_time": "00:40.00",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Fierce, Condemning",
+          "content": "I was poisoned!",
+          "start_seconds": 38.2,
+          "end_seconds": 40.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:40.30",
+          "end_time": "00:42.20",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Accusing",
+          "content": "And you... you knew!",
+          "start_seconds": 40.3,
+          "end_seconds": 42.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:43.00",
+          "end_time": "00:47.40",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.",
+          "start_seconds": 43.0,
+          "end_seconds": 47.4
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:43.60",
+          "end_time": "00:45.30",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Choking, Weakening",
+          "content": "Catherine knew!",
+          "start_seconds": 43.6,
+          "end_seconds": 45.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:45.60",
+          "end_time": "00:47.00",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Gasping",
+          "content": "They have been—",
+          "start_seconds": 45.6,
+          "end_seconds": 47.0
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "00:46.80",
+          "end_time": "00:48.00",
+          "character": null,
+          "emotion": null,
+          "content": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest.",
+          "start_seconds": 46.8,
+          "end_seconds": 48.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:47.40",
+          "end_time": "00:52.20",
+          "character": null,
+          "emotion": null,
+          "content": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.",
+          "start_seconds": 47.4,
+          "end_seconds": 52.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:48.20",
+          "end_time": "00:49.70",
+          "character": "JULIANA",
+          "emotion": "Panicked, Screaming",
+          "content": "Let me help her!",
+          "start_seconds": 48.2,
+          "end_seconds": 49.7
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:49.50",
+          "end_time": "00:52.10",
+          "character": "JULIANA",
+          "emotion": "Desperate",
+          "content": "She's still weak, you cannot leave her like this!",
+          "start_seconds": 49.5,
+          "end_seconds": 52.1
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:52.20",
+          "end_time": "00:56.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.",
+          "start_seconds": 52.2,
+          "end_seconds": 56.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:52.80",
+          "end_time": "00:53.60",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Smooth, Feigning Concern",
+          "content": "You see?",
+          "start_seconds": 52.8,
+          "end_seconds": 53.6
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:54.00",
+          "end_time": "00:56.60",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Sinister",
+          "content": "The poison has clearly damaged her mind.",
+          "start_seconds": 54.0,
+          "end_seconds": 56.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "00:56.80",
+          "end_time": "01:01.30",
+          "character": null,
+          "emotion": null,
+          "content": "Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.",
+          "start_seconds": 56.8,
+          "end_seconds": 61.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:57.00",
+          "end_time": "00:58.70",
+          "character": "DOWAGER DUCHESS",
+          "emotion": "Hoarse, Straining",
+          "content": "I am not delusional!",
+          "start_seconds": 57.0,
+          "end_seconds": 58.7
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "00:58.60",
+          "end_time": "01:00.00",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Condescending, Whispering",
+          "content": "Of course you are not.",
+          "start_seconds": 58.6,
+          "end_seconds": 60.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:00.10",
+          "end_time": "01:01.20",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Dismissive",
+          "content": "You are merely confused.",
+          "start_seconds": 60.1,
+          "end_seconds": 61.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:01.30",
+          "end_time": "01:06.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.",
+          "start_seconds": 61.3,
+          "end_seconds": 66.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:01.60",
+          "end_time": "01:04.80",
+          "character": "CATHERINE",
+          "emotion": "Amused, Mocking",
+          "content": "How convenient that the only person who can prove the poison exists...",
+          "start_seconds": 61.6,
+          "end_seconds": 64.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:04.90",
+          "end_time": "01:06.80",
+          "character": "CATHERINE",
+          "emotion": "Smug",
+          "content": "...is the maid who claims to have discovered it.",
+          "start_seconds": 64.9,
+          "end_seconds": 66.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:06.80",
+          "end_time": "01:10.50",
+          "character": null,
+          "emotion": null,
+          "content": "Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.",
+          "start_seconds": 66.8,
+          "end_seconds": 70.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:07.20",
+          "end_time": "01:10.20",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Commanding, Resolute",
+          "content": "Take her away before she poisons the rest of this house.",
+          "start_seconds": 67.2,
+          "end_seconds": 70.2
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:10.50",
+          "end_time": "01:12.00",
+          "character": null,
+          "emotion": null,
+          "content": "Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.",
+          "start_seconds": 70.5,
+          "end_seconds": 72.0
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:10.80",
+          "end_time": "01:12.00",
+          "character": null,
+          "emotion": null,
+          "content": "Catherine ruthlessly yanks the silver locket off Juliana's neck.",
+          "start_seconds": 70.8,
+          "end_seconds": 72.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:11.20",
+          "end_time": "01:12.00",
+          "character": "JULIANA",
+          "emotion": "Crying Out",
+          "content": "No!",
+          "start_seconds": 71.2,
+          "end_seconds": 72.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:12.00",
+          "end_time": "01:15.30",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain.",
+          "start_seconds": 72.0,
+          "end_seconds": 75.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:12.20",
+          "end_time": "01:15.10",
+          "character": "CATHERINE",
+          "emotion": "Insolent, Sneering",
+          "content": "Where did a gutter rat like you find a silver locket?",
+          "start_seconds": 72.2,
+          "end_seconds": 75.1
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:15.30",
+          "end_time": "01:18.90",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip.",
+          "start_seconds": 75.3,
+          "end_seconds": 78.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:15.40",
+          "end_time": "01:16.40",
+          "character": "JULIANA",
+          "emotion": "Screaming, Weeping",
+          "content": "Give it back!",
+          "start_seconds": 75.4,
+          "end_seconds": 76.4
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:16.80",
+          "end_time": "01:18.60",
+          "character": "JULIANA",
+          "emotion": "Anguished",
+          "content": "It belonged to my mother!",
+          "start_seconds": 76.8,
+          "end_seconds": 78.6
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:18.90",
+          "end_time": "01:22.30",
+          "character": null,
+          "emotion": null,
+          "content": "Low-angle shot tracking the silver locket as Catherine casually flings it across the stone corridor floor.",
+          "start_seconds": 78.9,
+          "end_seconds": 82.3
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:19.00",
+          "end_time": "01:21.90",
+          "character": "CATHERINE (O.S.)",
+          "emotion": "Cruel",
+          "content": "A witch has no need for family heirlooms in the gallows.",
+          "start_seconds": 79.0,
+          "end_seconds": 81.9
+        },
+        {
+          "element_type": "SOUND_FX",
+          "start_time": "01:21.00",
+          "end_time": "01:22.40",
+          "character": null,
+          "emotion": null,
+          "content": "Metallic clatter as the silver pendant bounces against the wooden baseboard.",
+          "start_seconds": 81.0,
+          "end_seconds": 82.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:22.30",
+          "end_time": "01:26.50",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Juliana being dragged further into the doorway, staring helplessly toward her discarded locket.",
+          "start_seconds": 82.3,
+          "end_seconds": 86.5
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:22.50",
+          "end_time": "01:24.40",
+          "character": "JULIANA",
+          "emotion": "Heartbroken",
+          "content": "My mother's locket!",
+          "start_seconds": 82.5,
+          "end_seconds": 84.4
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:26.50",
+          "end_time": "01:31.00",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Catherine walking toward the fallen leather-bound book and kneeling gracefully to pick it up.",
+          "start_seconds": 86.5,
+          "end_seconds": 91.0
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:28.00",
+          "end_time": "01:31.00",
+          "character": null,
+          "emotion": null,
+          "content": "Catherine lifts the heavy herbarium, dusting off the cover before opening its aged parchment pages.",
+          "start_seconds": 88.0,
+          "end_seconds": 91.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:31.00",
+          "end_time": "01:33.80",
+          "character": null,
+          "emotion": null,
+          "content": "Tight close-up of Catherine reading the elegant cursive script inside the front cover.",
+          "start_seconds": 91.0,
+          "end_seconds": 93.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:31.20",
+          "end_time": "01:32.80",
+          "character": "CATHERINE",
+          "emotion": "Intrigued, Murmuring",
+          "content": "Juliana...",
+          "start_seconds": 91.2,
+          "end_seconds": 92.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:33.80",
+          "end_time": "01:35.00",
+          "character": null,
+          "emotion": null,
+          "content": "Extreme close-up on the handwritten inscription: 'Juliana Ashcroft'.",
+          "start_seconds": 93.8,
+          "end_seconds": 95.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:35.00",
+          "end_time": "01:37.40",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Juliana freezing in the doorway as she sees Catherine opening her mother's book.",
+          "start_seconds": 95.0,
+          "end_seconds": 97.4
+        },
+        {
+          "element_type": "ACTION",
+          "start_time": "01:35.20",
+          "end_time": "01:37.00",
+          "character": null,
+          "emotion": null,
+          "content": "Juliana gasps in horror, realizing her secret identity has been laid bare.",
+          "start_seconds": 95.2,
+          "end_seconds": 97.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:37.40",
+          "end_time": "01:41.20",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.",
+          "start_seconds": 97.4,
+          "end_seconds": 101.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:38.20",
+          "end_time": "01:40.80",
+          "character": "CATHERINE",
+          "emotion": "Triumphant, Venomous",
+          "content": "Lady Juliana Ashcroft.",
+          "start_seconds": 98.2,
+          "end_seconds": 100.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:41.20",
+          "end_time": "01:47.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot as Catherine steps deliberately up to Juliana, circling her like a predator savoring its prey.",
+          "start_seconds": 101.2,
+          "end_seconds": 107.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:41.50",
+          "end_time": "01:43.70",
+          "character": "CATHERINE",
+          "emotion": "Mocking, Reveling",
+          "content": "I knew I had seen those eyes before.",
+          "start_seconds": 101.5,
+          "end_seconds": 103.7
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:44.20",
+          "end_time": "01:45.60",
+          "character": "CATHERINE",
+          "emotion": "Cruel",
+          "content": "The disgraced daughter...",
+          "start_seconds": 104.2,
+          "end_seconds": 105.6
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:45.60",
+          "end_time": "01:47.80",
+          "character": "CATHERINE",
+          "emotion": "Scornful",
+          "content": "...the girl thrown out of her own family home.",
+          "start_seconds": 105.6,
+          "end_seconds": 107.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:47.80",
+          "end_time": "01:53.00",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up two-shot of Catherine leaning inches from Juliana's face, whispering her humiliating past.",
+          "start_seconds": 107.8,
+          "end_seconds": 113.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:48.10",
+          "end_time": "01:51.00",
+          "character": "CATHERINE",
+          "emotion": "Taunting",
+          "content": "The bride who married a penniless war veteran...",
+          "start_seconds": 108.1,
+          "end_seconds": 111.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:51.10",
+          "end_time": "01:53.00",
+          "character": "CATHERINE",
+          "emotion": "Vicious",
+          "content": "...because no respectable man would have her.",
+          "start_seconds": 111.1,
+          "end_seconds": 113.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:53.00",
+          "end_time": "01:56.40",
+          "character": null,
+          "emotion": null,
+          "content": "Tight close-up of Juliana's eyes blazing with explosive fury and defensive loyalty.",
+          "start_seconds": 113.0,
+          "end_seconds": 116.4
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:53.30",
+          "end_time": "01:55.80",
+          "character": "JULIANA",
+          "emotion": "Screaming, Wildly Defiant",
+          "content": "Do not speak about my husband!",
+          "start_seconds": 113.3,
+          "end_seconds": 115.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "01:56.40",
+          "end_time": "02:02.00",
+          "character": null,
+          "emotion": null,
+          "content": "Medium two-shot as Catherine throws her head back in derisive laughter, brandishing the herbarium book.",
+          "start_seconds": 116.4,
+          "end_seconds": 122.0
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:56.40",
+          "end_time": "01:59.10",
+          "character": "CATHERINE",
+          "emotion": "Laughing, Scornful",
+          "content": "And look at you now. Scrubbing fireplaces in my house.",
+          "start_seconds": 116.4,
+          "end_seconds": 119.1
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "01:59.20",
+          "end_time": "02:01.80",
+          "character": "CATHERINE",
+          "emotion": "Mocking",
+          "content": "What a magnificent fall, Lady Juliana.",
+          "start_seconds": 119.2,
+          "end_seconds": 121.8
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "02:02.00",
+          "end_time": "02:04.90",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Rupert gesturing toward the exit with an outstretched arm.",
+          "start_seconds": 122.0,
+          "end_seconds": 124.9
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "02:02.00",
+          "end_time": "02:04.70",
+          "character": "BLOND NOBLEMAN",
+          "emotion": "Harsh, Authoritative",
+          "content": "Drag her to the wet cells beneath the south tower.",
+          "start_seconds": 122.0,
+          "end_seconds": 124.7
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "02:04.90",
+          "end_time": "02:08.80",
+          "character": null,
+          "emotion": null,
+          "content": "Close-up of Catherine fanning open the illustrated botanical pages of the herbarium with gloved fingers.",
+          "start_seconds": 124.9,
+          "end_seconds": 128.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "02:05.00",
+          "end_time": "02:05.70",
+          "character": "CATHERINE",
+          "emotion": "Smug",
+          "content": "And this?",
+          "start_seconds": 125.0,
+          "end_seconds": 125.7
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "02:05.90",
+          "end_time": "02:08.70",
+          "character": "CATHERINE",
+          "emotion": "Gleeful",
+          "content": "This book of weeds will hang her before the magistrate.",
+          "start_seconds": 125.9,
+          "end_seconds": 128.7
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "02:08.80",
+          "end_time": "02:11.20",
+          "character": null,
+          "emotion": null,
+          "content": "Medium shot of Juliana thrashing frantically against the guard's grip, her arm reaching out toward the book.",
+          "start_seconds": 128.8,
+          "end_seconds": 131.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "02:09.10",
+          "end_time": "02:11.00",
+          "character": "JULIANA",
+          "emotion": "Screaming, Desperate",
+          "content": "That book is my mother's life's work!",
+          "start_seconds": 129.1,
+          "end_seconds": 131.0
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "02:11.20",
+          "end_time": "02:16.80",
+          "character": null,
+          "emotion": null,
+          "content": "Medium close-up of Catherine smiling coldly, clutching the closed book against her bodice.",
+          "start_seconds": 131.2,
+          "end_seconds": 136.8
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "02:11.40",
+          "end_time": "02:14.20",
+          "character": "CATHERINE",
+          "emotion": "Icy, Threatening",
+          "content": "Then perhaps you can explain every page to the magistrate...",
+          "start_seconds": 131.4,
+          "end_seconds": 134.2
+        },
+        {
+          "element_type": "DIALOGUE",
+          "start_time": "02:14.60",
+          "end_time": "02:16.70",
+          "character": "CATHERINE",
+          "emotion": "Fateful, Vengeful",
+          "content": "...before he sends you to the gallows.",
+          "start_seconds": 134.6,
+          "end_seconds": 136.7
+        },
+        {
+          "element_type": "CAMERA",
+          "start_time": "02:16.80",
+          "end_time": "02:18.50",
+          "character": null,
+          "emotion": null,
+          "content": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.",
+          "start_seconds": 136.8,
+          "end_seconds": 138.5
+        }
+      ]
+    }
+  ],
+  "total_duration_sec": 138.5,
+  "total_elements": 96,
+  "total_dialogue_lines": 50
+}

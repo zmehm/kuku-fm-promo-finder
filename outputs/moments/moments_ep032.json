@@ -1,0 +1,111 @@
+{
+  "episode_number": 32,
+  "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+  "moments": [
+    {
+      "episode_number": 32,
+      "moment_type": "hook_visual",
+      "intensity_score": 9,
+      "start_time": "00:00.00",
+      "end_time": "00:04.50",
+      "start_seconds": 0.0,
+      "end_seconds": 4.5,
+      "description": "The glowing red branding tip sizzles against the ledger while Juliana trembles in tears against the dungeon wall.",
+      "key_dialogue": null,
+      "characters_involved": [],
+      "emotion_labels": []
+    },
+    {
+      "episode_number": 32,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:18.80",
+      "end_time": "00:22.00",
+      "start_seconds": 18.8,
+      "end_seconds": 22.0,
+      "description": "Juliana's despair solidifies into cold conviction as she looks at Catherine and tells her to burn it.",
+      "key_dialogue": "Burn it.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Defiant, Unbroken"
+      ]
+    },
+    {
+      "episode_number": 32,
+      "moment_type": "emotional_peak",
+      "intensity_score": 8,
+      "start_time": "00:54.40",
+      "end_time": "01:01.00",
+      "start_seconds": 54.4,
+      "end_seconds": 61.0,
+      "description": "Juliana calmly states that Gerald leaving her was the best thing he ever did.",
+      "key_dialogue": "Gerald leaving me was the best thing he ever did for me.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Measured, Emphatic",
+        "Contemplative, Scathing"
+      ]
+    },
+    {
+      "episode_number": 32,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "01:13.40",
+      "end_time": "01:22.00",
+      "start_seconds": 73.4,
+      "end_seconds": 82.0,
+      "description": "Juliana reveals she was freed from her toxic marriage and found a true husband who loves her.",
+      "key_dialogue": "I was freed. And I found a man who never asked me what I was worth.",
+      "characters_involved": [
+        "JULIANA",
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Grounded, Powerful",
+        "Disdainful",
+        "Tender, Certain"
+      ]
+    },
+    {
+      "episode_number": 32,
+      "moment_type": "betrayal",
+      "intensity_score": 9,
+      "start_time": "01:49.50",
+      "end_time": "01:59.50",
+      "start_seconds": 109.5,
+      "end_seconds": 119.5,
+      "description": "Juliana completely strips Catherine bare by telling her she has collected power but never learned how to be loved.",
+      "key_dialogue": "...but you have never learned how to make anyone love you.",
+      "characters_involved": [
+        "JULIANA"
+      ],
+      "emotion_labels": [
+        "Gentle, Penetrating",
+        "Unrelenting",
+        "Piercing"
+      ]
+    },
+    {
+      "episode_number": 32,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "02:28.00",
+      "end_time": "02:34.38",
+      "start_seconds": 148.0,
+      "end_seconds": 154.38,
+      "description": "Catherine screams and plunges the glowing orange poker straight toward Juliana's face, stopping mere millimeters from her eye.",
+      "key_dialogue": "Then let's see how brave you are when it touches your skin!",
+      "characters_involved": [
+        "CATHERINE"
+      ],
+      "emotion_labels": [
+        "Screaming, Maniacal"
+      ]
+    }
+  ],
+  "total_duration_sec": 154.38
+}

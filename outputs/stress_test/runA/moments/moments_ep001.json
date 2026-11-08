@@ -1,0 +1,126 @@
+{
+  "episode_number": 1,
+  "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+  "moments": [
+    {
+      "episode_number": 1,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:11.00",
+      "end_time": "00:19.40",
+      "start_seconds": 11.0,
+      "end_seconds": 19.4,
+      "description": "Lady Juliana walks down the aisle expecting her wedding, but the haughty Matriarch cruelly tells her she should turn around.",
+      "key_dialogue": "Not anymore.",
+      "characters_involved": [
+        "MATRIARCH",
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Cold, Commanding",
+        "Confused, Breathless",
+        "Desperate, Unbelieving",
+        "Blunt, Unforgiving"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "reveal",
+      "intensity_score": 9,
+      "start_time": "00:32.80",
+      "end_time": "00:41.20",
+      "start_seconds": 32.8,
+      "end_seconds": 41.2,
+      "description": "Lady Juliana discovers her fiancé Gerald holding hands with another woman at the altar, who smugly announces she is marrying him.",
+      "key_dialogue": "Because he is marrying me.",
+      "characters_involved": [
+        "LADY JULIANA",
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Shaken, Whispering",
+        "Heartbroken",
+        "Gloating, Smug"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:46.80",
+      "end_time": "01:00.00",
+      "start_seconds": 46.8,
+      "end_seconds": 60.0,
+      "description": "Lady Juliana confronts Gerald and her family with burning outrage for letting her walk down the aisle in her mother's gown under false pretenses.",
+      "key_dialogue": "You let me believe I was walking toward my husband!",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Outraged, Accusing",
+        "Choking on Tears",
+        "Crushed, Shaking",
+        "Crying Out"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "betrayal",
+      "intensity_score": 8,
+      "start_time": "01:19.00",
+      "end_time": "01:30.80",
+      "start_seconds": 79.0,
+      "end_seconds": 90.8,
+      "description": "Lady Juliana begs her seated father for help, but he coldly refuses to meet her gaze or defend her.",
+      "key_dialogue": "Tell them this is a mistake.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate",
+        "Begging",
+        "Choking, Broken"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "01:47.40",
+      "end_time": "01:53.00",
+      "start_seconds": 107.4,
+      "end_seconds": 113.0,
+      "description": "The Lady in Gold Gown cruelly mocks Lady Juliana as a person merely tolerated, while she is the daughter people choose.",
+      "key_dialogue": "I am the daughter they choose.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN"
+      ],
+      "emotion_labels": [
+        "Viciously Calm",
+        "Gloating"
+      ]
+    },
+    {
+      "episode_number": 1,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:57.00",
+      "end_time": "02:18.00",
+      "start_seconds": 117.0,
+      "end_seconds": 138.0,
+      "description": "Gerald publicly discards Lady Juliana for her plainness, but instead of breaking down, her tearful eyes harden into cold, resolute defiance as a string drone swells.",
+      "key_dialogue": "You have nothing to offer me anymore.",
+      "characters_involved": [
+        "LADY JULIANA",
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Trembling, Dignified",
+        "Scornful, Hard",
+        "Arrogant, Dismissive",
+        "Reverent toward Clarissa"
+      ]
+    }
+  ],
+  "total_duration_sec": 138.0
+}

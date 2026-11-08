@@ -1,0 +1,137 @@
+{
+  "episode_number": 2,
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "moments": [
+    {
+      "episode_number": 2,
+      "moment_type": "hook_dialogue",
+      "intensity_score": 9,
+      "start_time": "00:00.00",
+      "end_time": "00:02.80",
+      "start_seconds": 0.0,
+      "end_seconds": 2.8,
+      "description": "The former groom publicly humiles Juliana at the altar by cold-heartedly rejecting her in front of everyone.",
+      "key_dialogue": "I cannot marry you, Juliana.",
+      "characters_involved": [
+        "THE FORMER GROOM"
+      ],
+      "emotion_labels": [
+        "Cold, Callous"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "betrayal",
+      "intensity_score": 7,
+      "start_time": "00:12.00",
+      "end_time": "00:20.60",
+      "start_seconds": 12.0,
+      "end_seconds": 20.6,
+      "description": "Juliana desperately appeals to Gerald while clutching her heirloom pendant, but he remains completely merciless.",
+      "key_dialogue": "You gave me your word before both our families.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Desperate, Pleading",
+        "Trembling, Betrayed"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "confrontation",
+      "intensity_score": 8,
+      "start_time": "00:34.20",
+      "end_time": "00:44.70",
+      "start_seconds": 34.2,
+      "end_seconds": 44.7,
+      "description": "Juliana begs her own father for support against the public humiliation, but he cruelly tells her to accept it and not disgrace the family.",
+      "key_dialogue": "Gerald has made his choice. Accept it, Juliana.",
+      "characters_involved": [
+        "LADY JULIANA",
+        "BLOND NOBLEMAN"
+      ],
+      "emotion_labels": [
+        "Choked with Tears",
+        "Stern, Cold",
+        "Severely, Harsh"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "confrontation",
+      "intensity_score": 7,
+      "start_time": "00:47.60",
+      "end_time": "00:58.20",
+      "start_seconds": 47.6,
+      "end_seconds": 58.2,
+      "description": "Clarissa gloats smugly and taunts Juliana about her plain gown and old-fashioned appearance.",
+      "key_dialogue": "You look like a kitchen maid who wandered into the wrong wedding.",
+      "characters_involved": [
+        "LADY IN GOLD GOWN",
+        "LADY IN GOLD GOWN (Off-screen)"
+      ],
+      "emotion_labels": [
+        "Mocking, Spiteful",
+        "Scornful",
+        "Taunting, Giggling",
+        "Snide"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "01:12.80",
+      "end_time": "01:19.00",
+      "start_seconds": 72.8,
+      "end_seconds": 79.0,
+      "description": "After Gerald tells her to leave quietly with dignity, Juliana sheds her tears and transforms into a steely, defiant woman.",
+      "key_dialogue": "Dignity?",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Bitter, Defiant",
+        "Clear, Accusing"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "emotional_peak",
+      "intensity_score": 9,
+      "start_time": "01:26.70",
+      "end_time": "01:36.60",
+      "start_seconds": 86.7,
+      "end_seconds": 96.6,
+      "description": "Juliana delivers a powerful, scathing rebuke to Gerald, exposing the true worth of his word to the entire cathedral.",
+      "key_dialogue": "You have shown them exactly what your word is worth.",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Powerful, Unyielding",
+        "Decisive, Scathing"
+      ]
+    },
+    {
+      "episode_number": 2,
+      "moment_type": "cliffhanger",
+      "intensity_score": 9,
+      "start_time": "01:38.20",
+      "end_time": "01:50.00",
+      "start_seconds": 98.2,
+      "end_seconds": 110.0,
+      "description": "Juliana stands tall in the center of the cathedral with unassailable pride, leaving the guests and Gerald stunned as the orchestral score swells.",
+      "key_dialogue": "I may leave this chapel without a husband...",
+      "characters_involved": [
+        "LADY JULIANA"
+      ],
+      "emotion_labels": [
+        "Resolute, Proud",
+        "Defiant, Triumphant in Spirit"
+      ]
+    }
+  ],
+  "total_duration_sec": 110.0
+}

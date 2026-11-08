@@ -1,0 +1,81 @@
+{
+  "episode_number": 39,
+  "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+  "moments": [
+    {
+      "episode_number": 39,
+      "moment_type": "hook_visual",
+      "intensity_score": 9,
+      "start_time": "00:32.40",
+      "end_time": "00:42.20",
+      "start_seconds": 32.4,
+      "end_seconds": 42.2,
+      "description": "The disguised cart driver suddenly attacks the royal sentry, tackling him while a second loyalist puts another guard into a chokehold.",
+      "key_dialogue": "Sleep.",
+      "characters_involved": [
+        "LOYALIST FIGHTER"
+      ],
+      "emotion_labels": [
+        "Whispering, Cold"
+      ]
+    },
+    {
+      "episode_number": 39,
+      "moment_type": "reveal",
+      "intensity_score": 8,
+      "start_time": "00:50.00",
+      "end_time": "01:06.90",
+      "start_seconds": 50.0,
+      "end_seconds": 66.9,
+      "description": "Alexander cuts away his long unkempt hair and beard in front of the mirror, shedding his exile to reveal his scarred, fierce features.",
+      "key_dialogue": "They buried Alexander Ashwin three years ago.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Deep, Steely Resolve",
+        "Dark, Unforgiving",
+        "Fierce, Commanding"
+      ]
+    },
+    {
+      "episode_number": 39,
+      "moment_type": "confrontation",
+      "intensity_score": 9,
+      "start_time": "01:08.50",
+      "end_time": "01:22.20",
+      "start_seconds": 68.5,
+      "end_seconds": 82.2,
+      "description": "Alexander steps out into the snow in full ducal regalia as a loyalist soldier drops to one knee before him.",
+      "key_dialogue": "Your Grace.",
+      "characters_involved": [
+        "LOYALIST",
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Reverent, Submissive",
+        "Authoritative, Command"
+      ]
+    },
+    {
+      "episode_number": 39,
+      "moment_type": "cliffhanger",
+      "intensity_score": 10,
+      "start_time": "01:25.20",
+      "end_time": "01:38.41",
+      "start_seconds": 85.2,
+      "end_seconds": 98.41,
+      "description": "Alexander marches purposefully through the snow toward the chapel, vowing to reclaim his house and rescue his wife as the screen cuts to black.",
+      "key_dialogue": "And I am bringing my wife home.",
+      "characters_involved": [
+        "ALEXANDER"
+      ],
+      "emotion_labels": [
+        "Powerful, Roaring Defiance",
+        "Fierce, Unyielding",
+        "Passionate, Unstoppable Vow"
+      ]
+    }
+  ],
+  "total_duration_sec": 98.41
+}
