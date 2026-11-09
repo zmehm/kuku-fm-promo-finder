@@ -1,0 +1,1 @@
+Optional historical reviewer scaffolding. It is outside the required Problem 1 deliverables and does not imply completed human evaluation. Original evidence also remains in the private output archive.

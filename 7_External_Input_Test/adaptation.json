@@ -1,0 +1,186 @@
+{
+  "source_sha256": "5a2037a19e60cccb67b3f5fc93a12cb65c58694ce6a1dc61d0d67d0d2502b3b4",
+  "source_scene_sha256": "b973a72b0ccea234ac7f9c3ebfb82e61bbe4945eda347dfcd8bdcde60ed3799a",
+  "input_sha256": "782bc8a04e81a59292a4c1bf3fffef4638e83d4d1ad92ae526149dcf4a1013ba",
+  "adapted_duration_sec": 120.0,
+  "elements": [
+    {
+      "type": "ACTION",
+      "speaker": null,
+      "content": "Enter Sampson and Gregory armed with swords and bucklers.",
+      "start": 0.0,
+      "end": 2.0
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "Gregory, on my word, we\u2019ll not carry coals.",
+      "start": 2.0,
+      "end": 5.2
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "No, for then we should be colliers.",
+      "start": 5.2,
+      "end": 8.0
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "I mean, if we be in choler, we\u2019ll draw.",
+      "start": 8.0,
+      "end": 11.6
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "Ay, while you live, draw your neck out o\u2019 the collar.",
+      "start": 11.6,
+      "end": 16.0
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "I strike quickly, being moved.",
+      "start": 16.0,
+      "end": 18.0
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "But thou art not quickly moved to strike.",
+      "start": 18.0,
+      "end": 21.2
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "A dog of the house of Montague moves me.",
+      "start": 21.2,
+      "end": 24.8
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "To move is to stir; and to be valiant is to stand: therefore, if thou art moved, thou runn\u2019st away.",
+      "start": 24.8,
+      "end": 32.8
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "A dog of that house shall move me to stand. I will take the wall of any man or maid of Montague\u2019s.",
+      "start": 32.8,
+      "end": 41.6
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "That shows thee a weak slave, for the weakest goes to the wall.",
+      "start": 41.6,
+      "end": 46.8
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "True, and therefore women, being the weaker vessels, are ever thrust to the wall: therefore I will push Montague\u2019s men from the wall, and thrust his maids to the wall.",
+      "start": 46.8,
+      "end": 58.8
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "The quarrel is between our masters and us their men.",
+      "start": 58.8,
+      "end": 62.8
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "\u2019Tis all one, I will show myself a tyrant: when I have fought with the men I will be civil with the maids, I will cut off their heads.",
+      "start": 62.8,
+      "end": 74.4
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "The heads of the maids?",
+      "start": 74.4,
+      "end": 76.4
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "Ay, the heads of the maids, or their maidenheads; take it in what sense thou wilt.",
+      "start": 76.4,
+      "end": 82.8
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "They must take it in sense that feel it.",
+      "start": 82.8,
+      "end": 86.4
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "Me they shall feel while I am able to stand: and \u2019tis known I am a pretty piece of flesh.",
+      "start": 86.4,
+      "end": 94.4
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "\u2019Tis well thou art not fish; if thou hadst, thou hadst been poor John. Draw thy tool; here comes of the house of Montagues.",
+      "start": 94.4,
+      "end": 104.0
+    },
+    {
+      "type": "ACTION",
+      "speaker": null,
+      "content": "Enter Abram and Balthasar.",
+      "start": 104.0,
+      "end": 106.0
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "My naked weapon is out: quarrel, I will back thee.",
+      "start": 106.0,
+      "end": 110.0
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "How? Turn thy back and run?",
+      "start": 110.0,
+      "end": 112.4
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "Fear me not.",
+      "start": 112.4,
+      "end": 113.6
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "GREGORY",
+      "content": "No, marry; I fear thee!",
+      "start": 113.6,
+      "end": 115.6
+    },
+    {
+      "type": "DIALOGUE",
+      "speaker": "SAMPSON",
+      "content": "Let us take the law of our sides; let them begin.",
+      "start": 115.6,
+      "end": 120.0
+    }
+  ],
+  "parsed_elements": 25,
+  "emotion_annotations": "Unspecified only",
+  "warning": "Speech rate and stage durations are fixed assumptions; timestamp validity is internal to this adapter, not evidence of video-cut accuracy."
+}

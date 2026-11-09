@@ -1,0 +1,12 @@
+{
+  "registered_at_utc": "2026-11-08T21:44:41.829131+00:00",
+  "source_url": "https://www.gutenberg.org/cache/epub/1513/pg1513.txt",
+  "author": "William Shakespeare",
+  "work": "Romeo and Juliet",
+  "selection": "First complete scene in Act I; use its earliest contiguous prefix not exceeding 120 estimated seconds, ending at a complete speaker-turn or stage-direction boundary. Do not choose based on model output.",
+  "adaptation": "Preserve dialogue words and order; normalize whitespace; separate source stage directions; attach Unspecified emotion, never inferred emotion. Speech duration assumes 150 words/minute; stage directions assume 2 seconds. These are synthetic timing coordinates, not measured footage.",
+  "first_attempt_policy": "One registered uncached AI extraction; retain abstention, unavailable audits and failure. No retuning against the result and no switching excerpts to obtain a pass.",
+  "independence_scope": "Independent authorship and external to this project development corpus. Public classic may be present in model pretraining; not a novel privately supplied contemporary microdrama or authenticated independent evaluator input.",
+  "adapter_sha256": "87af32304ebf7667082cc05be6ad7cda20528751f35dde6aa8af99b94f1d06c3",
+  "status": "protocol_frozen_before_source_fetch"
+}

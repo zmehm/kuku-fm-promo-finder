@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "source_segments_preserved": 25,
+  "parsed_elements": 25,
+  "timing_assumption": "150 words/minute speech, 2 seconds per source stage direction; no footage validation",
+  "no_cached_responses": true,
+  "no_heuristic_fallback": true,
+  "recommendations": 2,
+  "durations_seconds": [
+    41.6,
+    33.6
+  ],
+  "mechanical_evidence_validation": "passed for both",
+  "semantic_review": "Not independently human-verified; one unsupported delivery description observed after the frozen run."
+}

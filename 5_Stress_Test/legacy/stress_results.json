@@ -1,0 +1,111 @@
+{
+  "parser": {
+    "cases": [
+      {
+        "case": "empty_file",
+        "result": "PASS",
+        "note": "raised ValueError: No script elements parsed from episode-001-Episode 1671703.txt: check the timestamp/format"
+      },
+      {
+        "case": "header_only",
+        "result": "PASS",
+        "note": "raised ValueError: No script elements parsed from episode-001-Episode 1671703.txt: check the timestamp/format"
+      },
+      {
+        "case": "truncated_half",
+        "result": "PASS",
+        "note": "parsed 44 elements"
+      },
+      {
+        "case": "duplicated_content",
+        "result": "PASS",
+        "note": "raised ValueError: Multiple episode headers in one file; split concatenated or duplicated episodes first."
+      },
+      {
+        "case": "shuffled_lines",
+        "result": "PASS",
+        "note": "raised ValueError: Missing or malformed timestamp after element header at line 77: **LADY IN GOLD GOWN (Gloat"
+      },
+      {
+        "case": "renamed_characters",
+        "result": "PASS",
+        "note": "parsed 95 elements"
+      },
+      {
+        "case": "timestamp_trailing_zero_dropped",
+        "result": "PASS",
+        "note": "parsed 95 elements"
+      },
+      {
+        "case": "timestamp_comma_decimal",
+        "result": "PASS",
+        "note": "parsed 95 elements"
+      },
+      {
+        "case": "latin1_encoding",
+        "result": "PASS",
+        "note": "raised UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 52: invalid continuation byte"
+      }
+    ],
+    "passed": 9,
+    "total": 9
+  },
+  "integrity": {
+    "promos_checked": 104,
+    "valid": 104,
+    "violations": [],
+    "micro_segments": 1
+  },
+  "adversarial": {
+    "caught": 4,
+    "expected": 4,
+    "cases": [
+      {
+        "case": "slow_hook",
+        "expected": "flag weak_hook",
+        "found": [
+          "weak_hook"
+        ],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "hallucinated_claim",
+        "expected": "flag hallucinated_claim",
+        "found": [
+          "hallucinated_claim",
+          "weak_hook"
+        ],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "strong_hook",
+        "expected": "NO weak_hook",
+        "found": [],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "stale_cliffhanger_claim",
+        "expected": "flag hallucinated_claim",
+        "found": [
+          "hallucinated_claim",
+          "weak_hook"
+        ],
+        "result": "PASS",
+        "errors": []
+      },
+      {
+        "case": "ad_policy",
+        "expected": "flag ad_policy_risk",
+        "found": [
+          "ad_policy_risk"
+        ],
+        "result": "PASS",
+        "errors": []
+      }
+    ],
+    "could_not_build": []
+  }
+}

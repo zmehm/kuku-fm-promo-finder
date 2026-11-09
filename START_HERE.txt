@@ -1,0 +1,13 @@
+KUKU FM - FIND THE PROMOS | Zeeshan Mehmood
+
+1. Read 1_Solution_Doc/Kuku_FM_Solution_Doc.pdf (current two-page solution).
+2. Open 2_Outputs/RANKED_PROMOS.md for all 15 ranked promos, every ordered segment, hook, cliffhanger, why it works and posting priority. CSV and JSON contain the same recommendations.
+3. Read 2_Outputs/QUALITY_REVIEW.md for specific bad picks and limitations.
+4. Extract 3_Prototype_and_Code/source_code.zip; pip install -r requirements.txt; streamlit run app.py. Saved results need no API key. New AI extraction needs Gemini credentials and quota.
+5. Current artifact checks are in 6_Quality_Checking/submission_revision_verification.json. Original stress reports are historical.
+
+Human evaluation and recordings are optional, not pending required deliverables. Optional historical review scaffolding is separated in 8_Optional_Historical. Original evidence remains preserved in outputs.zip.
+
+Scores and cut boundaries are historical and unchanged. Source descriptions and posting rationales were corrected without new model scoring. Cached catalog results cover all 50 episodes; the fresh full-catalog attempt stopped at quota. No audience or conversion lift is claimed.
+
+Private packages contain Kuku-derived content; use only the designated review channel. Public source excludes outputs and credentials.

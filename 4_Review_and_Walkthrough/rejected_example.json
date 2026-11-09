@@ -1,0 +1,10 @@
+{
+  "status": "Automated rejection evidence; not a fabricated human decision",
+  "finding": {
+    "promo_id": "PR-021",
+    "failure_type": "ad_policy_risk",
+    "severity": "high",
+    "explanation": "Contains HARD ad-policy prohibited words: gallows (tier: hard).",
+    "suggested_fix": "Must trim or exclude from paid ad placements."
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "scope": "Offline stress tests and isolated packaged-app executions. No fresh API calls; unavailable API was simulated. No human quality or ad-conversion validation.",
+  "counts": {
+    "PASS": 47
+  },
+  "checks": [
+    {
+      "name": "regression_suite",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see regression_suite.log"
+    },
+    {
+      "name": "parser_valid_original",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_valid_crlf",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_valid_bom",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_valid_comma",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_valid_one_decimal",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_valid_three_decimals",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_valid_aliases",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "accepted 8 elements; nonpositive intervals=0; expected complete parse"
+    },
+    {
+      "name": "parser_empty",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: No script elements parsed from empty.txt: check the timestamp/format"
+    },
+    {
+      "name": "parser_prose",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: No script elements parsed from prose.txt: check the timestamp/format"
+    },
+    {
+      "name": "parser_header_only",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: No script elements parsed from header_only.txt: check the timestamp/format"
+    },
+    {
+      "name": "parser_unsupported_header",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Unsupported timed element header at line 8: **Captain [Mira]:**. Adapt the screenplay format before extraction."
+    },
+    {
+      "name": "parser_inverted_element",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Nonpositive element interval at line 8: 00:08.00-00:06.00"
+    },
+    {
+      "name": "parser_zero_length_element",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Nonpositive element interval at line 8: 00:00.00-00:00.00"
+    },
+    {
+      "name": "parser_seconds_out_of_range",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Invalid timestamp '00:99.00': seconds must be between 00 and 59."
+    },
+    {
+      "name": "parser_malformed_timed_block",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Missing or malformed timestamp after element header at line 8: **CAPTAIN (Mira) (Shocked):**"
+    },
+    {
+      "name": "parser_missing_timed_block",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Missing or malformed timestamp after element header at line 8: **CAPTAIN (Mira) (Shocked):**"
+    },
+    {
+      "name": "parser_duplicate_episode",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "ValueError: Multiple episode headers in one file; split concatenated or duplicated episodes first."
+    },
+    {
+      "name": "invalid_timestamp_00:60.00",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "Invalid timestamp '00:60.00': seconds must be between 00 and 59."
+    },
+    {
+      "name": "invalid_timestamp_00:99.00",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "Invalid timestamp '00:99.00': seconds must be between 00 and 59."
+    },
+    {
+      "name": "invalid_timestamp_99:99.99",
+      "status": "PASS",
+      "category": "parser",
+      "detail": "Invalid timestamp '99:99.99': seconds must be between 00 and 59."
+    },
+    {
+      "name": "timestamp_fuzz_1000",
+      "status": "PASS",
+      "category": "timing",
+      "detail": "1000/1000 valid centisecond strings preserved"
+    },
+    {
+      "name": "catalog_timestamp_integrity",
+      "status": "PASS",
+      "category": "timing",
+      "detail": "104 candidate/ranked entries checked; candidate issues=1, ranked issues=0"
+    },
+    {
+      "name": "ranked_dialogue_boundary_crossings",
+      "status": "PASS",
+      "category": "timing",
+      "detail": "0/15 shortlisted promos cross dialogue boundaries"
+    },
+    {
+      "name": "validator_string_numeric_consistency",
+      "status": "PASS",
+      "category": "timing",
+      "detail": "A numeric 0s start labelled 00:12.00 must be flagged"
+    },
+    {
+      "name": "validator_repeated_internal_segment",
+      "status": "PASS",
+      "category": "timing",
+      "detail": "Same 0-24s segment repeated twice should be detected, not treated as a novel 48s promo"
+    },
+    {
+      "name": "validator_unknown_episode",
+      "status": "PASS",
+      "category": "timing",
+      "detail": "Unknown episode 999 flagged"
+    },
+    {
+      "name": "long_dialogue_judge_visibility",
+      "status": "PASS",
+      "category": "quality",
+      "detail": "A critical reveal after 400 characters is visible"
+    },
+    {
+      "name": "explicit_closure_review_hint",
+      "status": "PASS",
+      "category": "quality",
+      "detail": "Explicit ending closure is flagged for editor review, not certified semantically resolved"
+    },
+    {
+      "name": "new_threat_not_false_closure",
+      "status": "PASS",
+      "category": "quality",
+      "detail": "A new threat after apparent closure is not flagged as resolved"
+    },
+    {
+      "name": "offline_catalog_workers_1",
+      "status": "PASS",
+      "category": "load",
+      "detail": "50 episodes; 114 candidates; 15 shortlisted; 0.197s"
+    },
+    {
+      "name": "offline_catalog_workers_4",
+      "status": "PASS",
+      "category": "load",
+      "detail": "50 episodes; 114 candidates; 15 shortlisted; 0.212s"
+    },
+    {
+      "name": "offline_concurrency_stability",
+      "status": "PASS",
+      "category": "load",
+      "detail": "1 vs 4 workers; timings={'1': 0.197, '4': 0.212}"
+    },
+    {
+      "name": "offline_repeat_stability_20",
+      "status": "PASS",
+      "category": "load",
+      "detail": "20 repeated offline runs compared"
+    },
+    {
+      "name": "unavailable_api_fallback",
+      "status": "PASS",
+      "category": "resilience",
+      "detail": "Shortlisted 1; fallbacks={'moments': [901], 'construction': [901], 'scoring': ['PR-001']}; critique failures=['PR-001']"
+    },
+    {
+      "name": "rule_adversarial_detection",
+      "status": "PASS",
+      "category": "quality",
+      "detail": "Caught 4/4 known bad cases; details in legacy_checks.log"
+    },
+    {
+      "name": "blind_review_content_integrity",
+      "status": "PASS",
+      "category": "evaluation",
+      "detail": "Exact pipeline source text verified in 3 handouts; pair counts=[10, 10, 10]"
+    },
+    {
+      "name": "packaged_private_hardening_parity",
+      "status": "PASS",
+      "category": "packaging",
+      "detail": "Archived hardening code and tests exactly match the verified workspace"
+    },
+    {
+      "name": "packaged_private_regressions",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see packaged_private_regressions.log"
+    },
+    {
+      "name": "packaged_private_dashboard",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see packaged_private_dashboard.log"
+    },
+    {
+      "name": "packaged_private_offline",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see packaged_private_offline.log"
+    },
+    {
+      "name": "packaged_public_hardening_parity",
+      "status": "PASS",
+      "category": "packaging",
+      "detail": "Archived hardening code and tests exactly match the verified workspace"
+    },
+    {
+      "name": "packaged_public_regressions",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see packaged_public_regressions.log"
+    },
+    {
+      "name": "packaged_public_dashboard",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see packaged_public_dashboard.log"
+    },
+    {
+      "name": "packaged_public_offline",
+      "status": "PASS",
+      "category": "functional",
+      "detail": "exit=0; see packaged_public_offline.log"
+    },
+    {
+      "name": "combined_zip_integrity",
+      "status": "PASS",
+      "category": "packaging",
+      "detail": "45 outer entries checked"
+    },
+    {
+      "name": "submission_evidence_unchanged",
+      "status": "PASS",
+      "category": "integrity",
+      "detail": "SHA-256 comparison of manifests, ranked output, reviewer ratings/results and combined ZIP"
+    }
+  ]
+}

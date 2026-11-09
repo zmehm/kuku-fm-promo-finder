@@ -1,0 +1,1 @@
+Required deliverables are mapped in README.md. Use the source-backed ranked output and quality review as the current submission. Human evaluation, footage validation and conversion experiments are optional future validation, not assignment requirements. Fresh API execution needs available quota; no new successful full-catalog run is claimed.

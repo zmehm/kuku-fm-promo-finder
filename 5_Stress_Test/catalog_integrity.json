@@ -1,0 +1,16 @@
+[
+  {
+    "source": "candidate",
+    "id": "PR-086",
+    "flags": [
+      {
+        "promo_id": "PR-086",
+        "failure_type": "timestamp_imprecision",
+        "severity": "high",
+        "explanation": "Segment in Ep 45 is only 1.6s (< 3.0s minimum). Visual micro-cuts under 3s confuse viewers.",
+        "suggested_fix": "Lengthen this sub-segment or merge it with adjacent scene context."
+      }
+    ],
+    "string_numeric_mismatch": false
+  }
+]

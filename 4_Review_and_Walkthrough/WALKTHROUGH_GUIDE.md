@@ -1,0 +1,1 @@
+Optional three-minute walkthrough: explain the editor problem; show ranked cuts and ordered timestamps; inspect PR-027 opening evidence; show weak PR-046 and reveal-based endings; demonstrate a synthetic offline input; disclose cached catalog scores and live API quota limits. A recording is not required by the supplied Problem 1 brief.

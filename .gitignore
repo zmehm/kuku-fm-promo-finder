@@ -5,22 +5,13 @@
 !*.example
 !.env.example
 
-# Python bytecode & virtual environments
+# Python bytecode & cache
 __pycache__/
 *.py[cod]
-*$py.class
+*.class
 .venv/
 venv/
 ENV/
-
-# Local cache & backups
-outputs/llm_cache/
-outputs_3ep_backup/
-
-# Confidential Screenplay Files
-*-script/
-*.txt
-!requirements.txt
 
 # OS / Editor files
 .DS_Store

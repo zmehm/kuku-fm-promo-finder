@@ -1,0 +1,13 @@
+{
+  "status": "blocked",
+  "reason": "Gemini quota blocked the fresh full-pack run and its source-evidence audit.",
+  "source_run": "outputs/final_version_run_v3",
+  "successful_uncached_calls": 15,
+  "request_attempts": 18,
+  "estimated_token_cost_usd": 0.007838,
+  "code_and_inputs_aligned_at_run": true,
+  "promotion_status": "not promoted; canonical recommendations remain historical",
+  "interpretation": "The 30 evidence checks were unavailable after quota failure, not 30 judgments that clips were bad. The attempt and exact code snapshot are retained; subsequent reporting fixes are not described as a completed fresh AI run.",
+  "independent_human_review": "pending",
+  "independent_new_script": "pending"
+}

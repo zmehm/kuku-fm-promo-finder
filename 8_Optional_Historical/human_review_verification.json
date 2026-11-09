@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "packages": [
+    {
+      "archive": "source_code.zip",
+      "result": "51 passed",
+      "checks": "Regression, adversarial hardening, rating assignment validation, backup preservation, pending/partial/complete summaries; test ratings were temporary."
+    },
+    {
+      "archive": "source_code_public.zip",
+      "result": "51 passed",
+      "checks": "Regression, adversarial hardening, rating assignment validation, backup preservation, pending/partial/complete summaries; test ratings were temporary."
+    }
+  ],
+  "real_ratings": "pending, 0/30; no test choices copied into real review sheets"
+}

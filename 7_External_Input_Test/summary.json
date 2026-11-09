@@ -1,0 +1,89 @@
+{
+  "status": "ai_completed",
+  "source_url": "https://www.gutenberg.org/cache/epub/1513/pg1513.txt",
+  "author": "William Shakespeare",
+  "selection_fixed_before_run": true,
+  "prompt_tuned_after_result": false,
+  "registered_fingerprint": "9c7bdcb1568c32a7b091aa7dd36a38e1f5e55cf3c615a94b78a1cecd513427d8",
+  "input_sha256": "782bc8a04e81a59292a4c1bf3fffef4638e83d4d1ad92ae526149dcf4a1013ba",
+  "adapted_duration_sec": 120.0,
+  "parsed_elements": 25,
+  "final_recommendations": 2,
+  "pre_evidence_recommendations": 2,
+  "evidence_checks": [
+    {
+      "version": "evidence-v1",
+      "promo_id": "PR-001",
+      "passed": true,
+      "errors": [],
+      "judgment": {
+        "hook_supported": true,
+        "ending_unresolved": true,
+        "standalone_clear": true,
+        "unresolved_question": "Will Sampson actually start a fight with a Montague man or maid?",
+        "hook_support": [
+          {
+            "element_id": "950.001",
+            "quote": "Enter Sampson and Gregory armed with swords and bucklers."
+          },
+          {
+            "element_id": "950.002",
+            "quote": "Gregory, on my word, we\u2019ll not carry coals."
+          }
+        ],
+        "ending_support": [
+          {
+            "element_id": "950.010",
+            "quote": "A dog of that house shall move me to stand. I will take the wall of any man or maid of Montague\u2019s."
+          }
+        ],
+        "reason": "The hook occurs within the first three seconds featuring the armed entrance and opening dialogue. The ending leaves the confrontation and future outcome unresolved as Sampson asserts his intent to provoke the Montagues."
+      },
+      "grounding_scope": "Source IDs, exact quote inclusion and element-level windows checked by code. Semantic quality and the unresolved question remain model judgments; word-level timing and footage are unverified."
+    },
+    {
+      "version": "evidence-v1",
+      "promo_id": "PR-002",
+      "passed": true,
+      "errors": [],
+      "judgment": {
+        "hook_supported": true,
+        "ending_unresolved": true,
+        "standalone_clear": true,
+        "unresolved_question": "Will Sampson and Gregory successfully provoke the Montagues into starting a fight while keeping the law on their side?",
+        "hook_support": [
+          {
+            "element_id": "950.018",
+            "quote": "Me they shall feel while I am able to stand: and \u2019tis known I am a pretty piece of flesh."
+          }
+        ],
+        "ending_support": [
+          {
+            "element_id": "950.025",
+            "quote": "Let us take the law of our sides; let them begin."
+          }
+        ],
+        "reason": "The hook occurs immediately at +0.00s with Sampson's boast supported by source ID 950.018. The promo ends with Sampson planning to let the rivals begin, leaving the immediate outcome of the confrontation completely unresolved."
+      },
+      "grounding_scope": "Source IDs, exact quote inclusion and element-level windows checked by code. Semantic quality and the unresolved question remain model judgments; word-level timing and footage are unverified."
+    }
+  ],
+  "main_api_usage": {
+    "total_input_tokens": 6585,
+    "total_output_tokens": 1141,
+    "total_api_calls": 6,
+    "total_retries": 0,
+    "estimated_cost_usd": 0.001115
+  },
+  "evidence_api_usage": {
+    "total_input_tokens": 1196,
+    "total_output_tokens": 484,
+    "total_api_calls": 2,
+    "total_retries": 0,
+    "estimated_cost_usd": 0.000313
+  },
+  "raw_result": "first_ai_attempt/result.json",
+  "limitation": "Independent authorship and external to this project development corpus. Public classic may be present in model pretraining; not a novel privately supplied contemporary microdrama or authenticated independent evaluator input.",
+  "timing_limitation": "Preserve dialogue words and order; normalize whitespace; separate source stage directions; attach Unspecified emotion, never inferred emotion. Speech duration assumes 150 words/minute; stage directions assume 2 seconds. These are synthetic timing coordinates, not measured footage.",
+  "interpretation": "First external-source execution result, not proof of independent human preference, model-training novelty, real footage timing, or unseen-show generalization."
+}

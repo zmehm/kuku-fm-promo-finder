@@ -1,0 +1,39 @@
+{
+  "seed": 2026,
+  "n_pairs_per_rater": 10,
+  "n_raters": 3,
+  "selected_episodes": [
+    5,
+    15,
+    28,
+    40,
+    50,
+    11,
+    24,
+    25,
+    13,
+    43
+  ],
+  "eligible_episodes": [
+    1,
+    5,
+    10,
+    11,
+    13,
+    15,
+    24,
+    25,
+    28,
+    36,
+    38,
+    40,
+    43,
+    50
+  ],
+  "sampling_scope": "Seeded sample of episodes with current single-episode shortlist recommendations and a duration-valid last-30s baseline. Not a random sample of all 50 episodes; conclusions apply to recommended episodes only.",
+  "comparison": "Highest-scoring current shortlisted promo for each sampled episode vs its own final approximately 30 seconds, snapped to source boundaries. Candidates can have different durations; preference evaluates the complete deliverable.",
+  "blinding": "Source, rank, score and hook/cliffhanger claims hidden. Side assignment and pair order randomized separately for each reviewer. Text content can still reveal a baseline ending.",
+  "analysis": "Descriptive vote totals and episode-majority counts. Ratings from different people on one episode are not independent episode samples. No significance or conversion claim.",
+  "human_ratings_status": "pending",
+  "manual_five_clip_status": "pending"
+}

@@ -1,0 +1,23 @@
+Baseline: episode-001-Episode 1671703.txt -> 95 elements
+
+  [PASS  ] empty_file                         raised ValueError: No script elements parsed from episode-001-Episode 1671703.txt: check the timestamp/format
+  [PASS  ] header_only                        raised ValueError: No script elements parsed from episode-001-Episode 1671703.txt: check the timestamp/format
+  [PASS  ] truncated_half                     parsed 44 elements
+  [PASS  ] duplicated_content                 raised ValueError: Multiple episode headers in one file; split concatenated or duplicated episodes first.
+  [PASS  ] shuffled_lines                     raised ValueError: Missing or malformed timestamp after element header at line 77: **LADY IN GOLD GOWN (Gloat
+  [PASS  ] renamed_characters                 parsed 95 elements
+  [PASS  ] timestamp_trailing_zero_dropped    parsed 95 elements
+  [PASS  ] timestamp_comma_decimal            parsed 95 elements
+  [PASS  ] latin1_encoding                    raised UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 52: invalid continuation byte
+
+Parser stress: 9/9 PASS. Write down every BREAKS/FAIL row: that is your 'where it breaks' answer.
+Checked 104 promos (candidates + ranked).
+Fully valid: 104/104. Micro-segments (<3s, warning only): 1
+  [PASS] slow_hook              expected flag weak_hook              found ['weak_hook']
+  [PASS] hallucinated_claim     expected flag hallucinated_claim     found ['hallucinated_claim', 'weak_hook']
+  [PASS] strong_hook            expected NO weak_hook              found []
+  [PASS] stale_cliffhanger_claim expected flag hallucinated_claim     found ['hallucinated_claim', 'weak_hook']
+  [PASS] ad_policy              expected flag ad_policy_risk         found ['ad_policy_risk']
+
+Known failures caught: 4/4. Checker functions called: ['validate_ad_policy', 'validate_character_count', 'validate_ending_claim', 'validate_hook_presence', 'validate_quoted_claims', 'validate_resolution_cues', 'validate_timestamps']
+Report misses honestly: 'missed X' is a better row than hiding it.

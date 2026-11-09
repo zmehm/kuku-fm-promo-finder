@@ -1,0 +1,86 @@
+{
+  "status": "offline_completed",
+  "mode": "offline",
+  "cached": false,
+  "input_origin": "User-supplied; independence from development data must be established by the reviewer, not inferred from a new filename.",
+  "audit_flags": [],
+  "candidate_promos": [
+    {
+      "promo_id": "PR-001",
+      "promo_type": "single_episode",
+      "episodes": [
+        902
+      ],
+      "segments": [
+        {
+          "episode": 902,
+          "start_time": "00:06.00",
+          "end_time": "00:36.00",
+          "start_seconds": 6.0,
+          "end_seconds": 36.0
+        }
+      ],
+      "total_duration_sec": 30.0,
+      "hook": "Opens on: BRIDE (Shocked): \"My sister? He promised this house to me.\"",
+      "cliffhanger": "Ends on: BRIDE (Defiant): \"Why are you afraid of a DNA report?\"",
+      "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+      "characters_in_clip": [
+        "BRIDE",
+        "LAWYER",
+        "SISTER"
+      ],
+      "creative_angle": "hidden_identity"
+    },
+    {
+      "promo_id": "PR-002",
+      "promo_type": "single_episode",
+      "episodes": [
+        902
+      ],
+      "segments": [
+        {
+          "episode": 902,
+          "start_time": "00:36.00",
+          "end_time": "01:00.00",
+          "start_seconds": 36.0,
+          "end_seconds": 60.0
+        }
+      ],
+      "total_duration_sec": 24.0,
+      "hook": "Opens on: SISTER (Trembling): \"You do not understand whose name is on it.\"",
+      "cliffhanger": "Ends on: ACTION: The office door handle slowly turns. The sister backs away before the door opens.",
+      "why_it_works": "Heuristic pick: high-intensity opening beat and a 25-45s window ending on an intense line.",
+      "characters_in_clip": [
+        "SISTER",
+        "LAWYER"
+      ],
+      "creative_angle": "hidden_identity"
+    }
+  ],
+  "quality_report": {
+    "total_candidates_generated": 2,
+    "total_passed_validation": 2,
+    "validation_pass_rate": 100.0,
+    "total_flagged": 0,
+    "flags": [],
+    "failure_breakdown": {},
+    "mean_composite_score": 6.22,
+    "score_std_dev": 1.03,
+    "episode_coverage": 1,
+    "baseline_comparison": {},
+    "honest_limitations": [
+      "Context dependency: later episodes reference earlier plot. The scorer is told to judge as a cold viewer, but an LLM can still over-credit context; a human skim of the shortlist is required.",
+      "Text != video: we work from screenplays, not footage. A 'silent stare' that is powerful on screen reads as nothing in text.",
+      "Cliffhanger over-inclusion: every episode ends on a designed cliffhanger, so the pipeline may over-weight episode endings.",
+      "Emotion labels come from the script's own annotations; a mislabelled line is a missed beat.",
+      "Timestamp precision: script timestamps mark line starts/ends, not video frames; an editor will fine-tune cuts by about 1-2s.",
+      "Scores are LLM-judged and the weights are product priors, not fitted to real ad performance. Validate with the blind human-rating sheet (human_eval.py) and, ultimately, with live A/B tests.",
+      "HEURISTIC MODE: no LLM was used; scores are rule-based approximations."
+    ]
+  },
+  "limitation": "Execution and boundaries checked; human marketing-quality assessment pending."
+}
+
+2026-11-09 03:03:28,087 | INFO     | src.parser | Parsing episode: synthetic_inheritance_example.txt
+2026-11-09 03:03:28,090 | INFO     | src.parser |   ✓ Episode 902: 1 scenes, 10 elements (7 dialogue), 60.0s total
+2026-11-09 03:03:28,096 | INFO     | src.quality_checker | Rule-based checks: 0 flags across 2 promos

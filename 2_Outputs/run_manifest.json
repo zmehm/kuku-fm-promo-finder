@@ -1,0 +1,166 @@
+{
+  "mode": "llm",
+  "model": "gemini-flash-lite-latest",
+  "judge_model": "gemini-flash-lite-latest",
+  "prompt_version": "v2-id-anchored",
+  "episodes_processed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "n_episodes": 50,
+  "fallback_to_heuristic": {
+    "moments": [
+      24,
+      45
+    ],
+    "construction": [],
+    "scoring": []
+  },
+  "scoring_failures": [],
+  "candidates_generated": 89,
+  "critique_failures": [],
+  "trim_reaudit_failures": [
+    "PR-018",
+    "PR-030",
+    "PR-054",
+    "PR-059",
+    "PR-073",
+    "PR-072",
+    "PR-025",
+    "PR-066",
+    "PR-069",
+    "PR-032",
+    "PR-071",
+    "PR-017"
+  ],
+  "auto_trimmed": [
+    {
+      "promo_id": "PR-078",
+      "fixes": [
+        "Auto-trimmed 6.4s from start of Ep 45 to remove hard ad-policy word 'You poisoned my mother. You to'"
+      ]
+    },
+    {
+      "promo_id": "PR-068",
+      "fixes": [
+        "Auto-trimmed 0.4s setup to ensure immediate hook at 00:32.80"
+      ]
+    }
+  ],
+  "dropped_in_selection": {
+    "hard_fail": [
+      "PR-018",
+      "PR-030",
+      "PR-054",
+      "PR-059",
+      "PR-073",
+      "PR-072",
+      "PR-025",
+      "PR-066",
+      "PR-069",
+      "PR-032",
+      "PR-071",
+      "PR-017",
+      "PR-006",
+      "PR-068"
+    ],
+    "duration": [],
+    "overlap": [],
+    "episode_quota": [],
+    "ad_policy_hard": [
+      "PR-021",
+      "PR-089",
+      "PR-052",
+      "PR-039",
+      "PR-053",
+      "PR-023",
+      "PR-048",
+      "PR-051",
+      "PR-047"
+    ]
+  },
+  "ad_policy": {
+    "hard_trimmed": 2,
+    "hard_excluded": 9,
+    "soft_kept_flagged": 7,
+    "soft_flagged_candidates": 15
+  },
+  "candidates_scored": 89,
+  "shortlist_size": 15,
+  "client_stats": {
+    "moments_rejected_too_long": 1,
+    "moments_rejected_bad_ids": 12,
+    "promos_rejected_duration": 20,
+    "promos_rejected_bad_ids": 2
+  },
+  "cost": {
+    "total_input_tokens": 634216,
+    "total_output_tokens": 75187,
+    "total_api_calls": 268,
+    "total_retries": 0,
+    "estimated_cost_usd": 0.093498
+  },
+  "cache_hits": 268,
+  "live_api_usage": {
+    "total_input_tokens": 0,
+    "total_output_tokens": 0,
+    "total_api_calls": 0,
+    "total_retries": 0,
+    "estimated_cost_usd": 0.0
+  },
+  "cost_note": "cost includes token usage represented by cached responses; live_api_usage excludes cache hits. Prices are configured estimates, not billing records.",
+  "wall_seconds": 0.8,
+  "validation_mode": "cache-only replay after Gemini 429 quota failure; missing responses use disclosed heuristics; trimmed candidates without cached re-audit are excluded",
+  "submission_revision": {
+    "scope": "Source-grounded description corrections and posting rationales; no cut-boundary changes, reranking, new API calls, or new model scores.",
+    "ranking_basis": "Historical composite, hook, cliffhanger and promo-ID tie-break; proposed posting order, not validated commercial preference."
+  }
+}

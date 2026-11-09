@@ -1,0 +1,31 @@
+{
+  "status": "pending",
+  "completed_ratings": 0,
+  "expected_ratings": 30,
+  "by_reviewer": {
+    "reviewer_1": {
+      "completed": 0,
+      "expected": 10,
+      "votes": {}
+    },
+    "reviewer_2": {
+      "completed": 0,
+      "expected": 10,
+      "votes": {}
+    },
+    "reviewer_3": {
+      "completed": 0,
+      "expected": 10,
+      "votes": {}
+    }
+  },
+  "dimension_votes": {
+    "hook_pick": {},
+    "cliffhanger_pick": {},
+    "coherence_pick": {},
+    "overall_pick": {}
+  },
+  "fully_rated_episodes": 0,
+  "episode_majority": {},
+  "caveat": "Descriptive, small-sample, conditional on recommended episodes. Multiple ratings on an episode are clustered. No test of ad conversion; pending ratings are never treated as losses or wins."
+}

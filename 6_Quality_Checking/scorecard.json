@@ -1,0 +1,243 @@
+{
+  "scope": "Authored development suite, not independent held-out data. Labels are authored expectations, not collected human ratings. Precision/recall measure the narrow heuristic, not general creative quality. Misses and false alarms are retained.",
+  "closure": {
+    "metrics": {
+      "true_positive": 4,
+      "false_positive": 1,
+      "false_negative": 2,
+      "true_negative": 5,
+      "precision": 0.8,
+      "recall": 0.667,
+      "false_positive_rate": 0.167,
+      "n": 12
+    },
+    "cases": [
+      {
+        "case": "explicit_safe",
+        "truth": true,
+        "detected": true,
+        "ending": "We are safe now.",
+        "flags": [
+          {
+            "promo_id": "CHECK",
+            "failure_type": "resolved_cliffhanger",
+            "severity": "medium",
+            "explanation": "The final spoken line contains explicit closure language; review whether a meaningful unresolved question remains. This is a lexical hint, not a semantic verdict.",
+            "suggested_fix": "Have an editor assess the ending; any changed cut must be rescored and re-audited."
+          }
+        ]
+      },
+      {
+        "case": "case_closed",
+        "truth": true,
+        "detected": true,
+        "ending": "The case is closed.",
+        "flags": [
+          {
+            "promo_id": "CHECK",
+            "failure_type": "resolved_cliffhanger",
+            "severity": "medium",
+            "explanation": "The final spoken line contains explicit closure language; review whether a meaningful unresolved question remains. This is a lexical hint, not a semantic verdict.",
+            "suggested_fix": "Have an editor assess the ending; any changed cut must be rescored and re-audited."
+          }
+        ]
+      },
+      {
+        "case": "settled",
+        "truth": true,
+        "detected": true,
+        "ending": "Everything is settled.",
+        "flags": [
+          {
+            "promo_id": "CHECK",
+            "failure_type": "resolved_cliffhanger",
+            "severity": "medium",
+            "explanation": "The final spoken line contains explicit closure language; review whether a meaningful unresolved question remains. This is a lexical hint, not a semantic verdict.",
+            "suggested_fix": "Have an editor assess the ending; any changed cut must be rescored and re-audited."
+          }
+        ]
+      },
+      {
+        "case": "forgiven",
+        "truth": true,
+        "detected": true,
+        "ending": "All is forgiven.",
+        "flags": [
+          {
+            "promo_id": "CHECK",
+            "failure_type": "resolved_cliffhanger",
+            "severity": "medium",
+            "explanation": "The final spoken line contains explicit closure language; review whether a meaningful unresolved question remains. This is a lexical hint, not a semantic verdict.",
+            "suggested_fix": "Have an editor assess the ending; any changed cut must be rescored and re-audited."
+          }
+        ]
+      },
+      {
+        "case": "implicit_ring",
+        "truth": true,
+        "detected": false,
+        "ending": "I found the missing ring under the chair.",
+        "flags": []
+      },
+      {
+        "case": "implicit_delivery",
+        "truth": true,
+        "detected": false,
+        "ending": "The parcel arrived. Everyone goes home.",
+        "flags": []
+      },
+      {
+        "case": "negation",
+        "truth": false,
+        "detected": false,
+        "ending": "We are not safe now.",
+        "flags": []
+      },
+      {
+        "case": "question",
+        "truth": false,
+        "detected": false,
+        "ending": "Is it over?",
+        "flags": []
+      },
+      {
+        "case": "new_threat",
+        "truth": false,
+        "detected": false,
+        "ending": "We are safe now. But look behind you!",
+        "flags": []
+      },
+      {
+        "case": "threatening_over",
+        "truth": false,
+        "detected": true,
+        "ending": "It's over for you.",
+        "flags": [
+          {
+            "promo_id": "CHECK",
+            "failure_type": "resolved_cliffhanger",
+            "severity": "medium",
+            "explanation": "The final spoken line contains explicit closure language; review whether a meaningful unresolved question remains. This is a lexical hint, not a semantic verdict.",
+            "suggested_fix": "Have an editor assess the ending; any changed cut must be rescored and re-audited."
+          }
+        ]
+      },
+      {
+        "case": "mystery",
+        "truth": false,
+        "detected": false,
+        "ending": "Who is knocking on that locked door?",
+        "flags": []
+      },
+      {
+        "case": "condition",
+        "truth": false,
+        "detected": false,
+        "ending": "Do not open the envelope until I return.",
+        "flags": []
+      }
+    ]
+  },
+  "delayed_hook": {
+    "metrics": {
+      "true_positive": 3,
+      "false_positive": 0,
+      "false_negative": 0,
+      "true_negative": 3,
+      "precision": 1.0,
+      "recall": 1.0,
+      "false_positive_rate": 0.0,
+      "n": 6
+    },
+    "cases": [
+      {
+        "case": "delay_0",
+        "truth": false,
+        "detected": false
+      },
+      {
+        "case": "delay_1",
+        "truth": false,
+        "detected": false
+      },
+      {
+        "case": "delay_2.99",
+        "truth": false,
+        "detected": false
+      },
+      {
+        "case": "delay_3",
+        "truth": true,
+        "detected": true
+      },
+      {
+        "case": "delay_3.2",
+        "truth": true,
+        "detected": true
+      },
+      {
+        "case": "delay_6",
+        "truth": true,
+        "detected": true
+      }
+    ]
+  },
+  "offline_abstention": {
+    "metrics": {
+      "true_positive": 2,
+      "false_positive": 0,
+      "false_negative": 1,
+      "true_negative": 3,
+      "precision": 1.0,
+      "recall": 0.667,
+      "false_positive_rate": 0.0,
+      "n": 6
+    },
+    "cases": [
+      {
+        "case": "quiet_neutral",
+        "truth": true,
+        "detected": true,
+        "shortlist_size": 0,
+        "status": "abstained_no_candidates"
+      },
+      {
+        "case": "quiet_misleading_emotions",
+        "truth": true,
+        "detected": false,
+        "shortlist_size": 1,
+        "status": "selected"
+      },
+      {
+        "case": "quiet_camera",
+        "truth": true,
+        "detected": true,
+        "shortlist_size": 0,
+        "status": "abstained_no_candidates"
+      },
+      {
+        "case": "strong_conflict",
+        "truth": false,
+        "detected": false,
+        "shortlist_size": 1,
+        "status": "selected"
+      },
+      {
+        "case": "strong_reveal",
+        "truth": false,
+        "detected": false,
+        "shortlist_size": 1,
+        "status": "selected"
+      },
+      {
+        "case": "strong_threat",
+        "truth": false,
+        "detected": false,
+        "shortlist_size": 1,
+        "status": "selected"
+      }
+    ]
+  },
+  "human_ratings_status": "pending",
+  "independent_input_status": "pending"
+}

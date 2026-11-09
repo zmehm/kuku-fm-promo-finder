@@ -1,0 +1,278 @@
+# Ranked promo recommendations
+
+Proposed posting order retains the saved historical model ranking; no new scores, changed cuts or measured audience results. Source descriptions and reasons were corrected by AI-assisted text review. Human evaluation is optional. Every segment below is played in the listed order.
+
+## #1 PR-016 - 36.80s
+
+1. Episode 10: 00:02.10 - 00:38.90
+
+**Hook:** A door bangs open at +0.0s; at +0.5s Alexander appears in the doorway clutching his blood-soaked chest.
+
+**Cliffhanger:** Juliana sees his scars and fresh wounds and whispers "Dear God." The cut leaves how he was injured and what happens when she treats him unresolved.
+
+**Why it works:** Lead with an immediate sound-and-image interruption and a simple two-person scene. Ranked above PR-008 by the historical model score; its ending is a mystery reveal rather than an imminent confrontation.
+
+**Why this posting priority:** Lead with an immediate sound-and-image interruption and a simple two-person scene. Ranked above PR-008 by the historical model score; its ending is a mystery reveal rather than an imminent confrontation.
+
+**Unresolved question:** How was Alexander injured, and what will happen when Juliana treats him?
+
+**Quality caveat:** The reveal provides visual payoff; the future-outcome cliffhanger is weaker than PR-008 or PR-027. Blood imagery needs placement review.
+
+Historical model score: 8.75/10 (not rescored).
+
+## #2 PR-008 - 30.30s
+
+1. Episode 5: 00:54.00 - 01:14.50
+2. Episode 5: 01:31.00 - 01:40.80
+
+**Hook:** Lady Ashcroft wrenches away the ledger at +0.0s and throws it at +0.5s while Juliana cries "Barbara, don't!" at +1.5s.
+
+**Cliffhanger:** After Gerald insults Juliana, the bearded man warns, "Choose your next words carefully." Cut before Gerald responds or the confrontation escalates.
+
+**Why it works:** a concrete act of cruelty establishes sympathy immediately, and the final threat leaves a clear next action unresolved
+
+**Why this posting priority:** Post second: a concrete act of cruelty establishes sympathy immediately, and the final threat leaves a clear next action unresolved. Below PR-016 in the saved model order; stronger confrontation ending, but more characters and two segments.
+
+**Unresolved question:** Will Gerald back down, or will the bearded man act on his warning?
+
+**Quality caveat:** Four speakers and a jump between moments increase cold-viewer comprehension risk.
+
+Historical model score: 8.20/10 (not rescored).
+
+## #3 PR-027 - 41.80s
+
+1. Episode 15: 00:44.20 - 01:26.00
+
+**Hook:** At +0.6s the thug orders "Get out of the way!"; Juliana answers "No." at +2.3s. The shove follows at +3.2s and is not the first-three-second hook.
+
+**Cliffhanger:** The thug challenges Alexander, "What? You want to fight us, veteran?" The cut ends on Juliana awaiting the confrontation, before any fight outcome.
+
+**Why it works:** the order and refusal establish conflict inside three seconds, followed by an assault and protector arrival. Tied with PR-008 on composite score; hook and cliffhanger scores also tie, so the stable promo-ID tie-break puts PR-008 first.
+
+**Why this posting priority:** Post third: the order and refusal establish conflict inside three seconds, followed by an assault and protector arrival. Tied with PR-008 on composite score; hook and cliffhanger scores also tie, so the stable promo-ID tie-break puts PR-008 first.
+
+**Unresolved question:** Will Alexander fight the thugs and protect Juliana?
+
+**Quality caveat:** The historical score reasoning incorrectly placed the shove inside three seconds. The corrected hook is verbal defiance; this is a text correction, not a fresh score.
+
+Historical model score: 8.20/10 (not rescored).
+
+## #4 PR-062 - 55.00s
+
+1. Episode 36: 01:36.50 - 02:31.50
+
+**Hook:** Alexander asks "Then where is she?" at +0.3s; his mother appears distressed at +2.5s. "They arrested her!" begins at +3.0s, outside the strict opening window.
+
+**Cliffhanger:** His mother identifies the wedding as "Rupert... and Catherine's." With Juliana condemned to die after it, the rescue remains unresolved.
+
+**Why it works:** an execution deadline supplies strong urgency, but the opening pronoun needs context and the 55-second setup is longer.
+
+**Why this posting priority:** Post after the first three: an execution deadline supplies strong urgency, but the opening pronoun needs context and the 55-second setup is longer.
+
+**Unresolved question:** Can Alexander reach Juliana before the wedding and her execution?
+
+**Quality caveat:** The opening question is context dependent. The old hook incorrectly compressed later revelations into the first three seconds.
+
+Historical model score: 8.15/10 (not rescored).
+
+## #5 PR-002 - 31.70s
+
+1. Episode 1: 00:46.80 - 01:18.50
+
+**Hook:** At +0.0s Juliana accuses the groom: "You knew this before I walked through those doors!"
+
+**Cliffhanger:** Asked "How long?", the woman replies, "Long enough to know he was never going to marry you." Cut before Juliana responds.
+
+**Why it works:** immediate accusation and clear humiliation
+
+**Why this posting priority:** Use as an early betrayal alternative: immediate accusation and clear humiliation. Below PR-062 because the ending explains the betrayal more than it creates an urgent next action.
+
+**Unresolved question:** How will Juliana respond to the groom and the woman who knew of the betrayal?
+
+**Quality caveat:** A reveal of an existing scheme is a payoff; anticipation of Juliana's response is a softer cliffhanger.
+
+Historical model score: 7.95/10 (not rescored).
+
+## #6 PR-041 - 24.60s
+
+1. Episode 25: 00:13.20 - 00:37.80
+
+**Hook:** At +0.0s Alexander grasps Juliana's shoulder and she recoils in pain; at +1.7s he says "You're hurt."
+
+**Cliffhanger:** Juliana answers his demand to identify her attacker: "Lady Catherine." Cut before Alexander reacts or confronts her.
+
+**Why it works:** Use next for a compact injury-to-accusation arc with only two central speakers. Lower priority because naming the attacker resolves the immediate question and leaves retaliation implied.
+
+**Why this posting priority:** Use next for a compact injury-to-accusation arc with only two central speakers. Lower priority because naming the attacker resolves the immediate question and leaves retaliation implied.
+
+**Unresolved question:** What will Alexander do when he learns Lady Catherine hurt Juliana?
+
+**Quality caveat:** The attacker reveal answers "Who?"; the next-action cliffhanger relies on Alexander's reaction, not an explicit new threat.
+
+Historical model score: 7.75/10 (not rescored).
+
+## #7 PR-022 - 30.10s
+
+1. Episode 13: 00:04.20 - 00:17.30
+2. Episode 13: 00:50.00 - 01:07.00
+
+**Hook:** Alexander grips Juliana's arm at +0.9s and pleads "Juliana, look at those thorns. You cannot do this." from +1.2s.
+
+**Cliffhanger:** Gerald taunts, "Keep searching, Juliana. Your husband's freedom is somewhere in that garden." Cut with the search and his freedom undecided.
+
+**Why it works:** the dangerous search and captive husband give a concrete unresolved objective. More characters and the opening geography increase setup burden.
+
+**Why this posting priority:** Rotate after simpler scenes: the dangerous search and captive husband give a concrete unresolved objective. More characters and the opening geography increase setup burden.
+
+**Unresolved question:** Can Juliana find what will secure her husband's freedom in the thorn garden?
+
+**Quality caveat:** The garden bargain may require viewers to infer its rules; character labels include aliases that can inflate speaker counts.
+
+Historical model score: 7.70/10 (not rescored).
+
+## #8 PR-019 - 23.10s
+
+1. Episode 11: 00:29.30 - 00:39.20
+2. Episode 11: 01:16.80 - 01:30.00
+
+**Hook:** Gerald opens at +0.0s: "Of course you would defend him. You married a beggar!"
+
+**Cliffhanger:** Alexander thinks "One blow would end this" and then "But one blow would destroy her life" while the constable restrains him. Cut before his decision.
+
+**Why it works:** the contempt is immediate and the withheld blow creates suspense
+
+**Why this posting priority:** Rotate for the insult-versus-restraint dilemma: the contempt is immediate and the withheld blow creates suspense. Below PR-022 because the consequences of retaliation are not explained.
+
+**Unresolved question:** Will Alexander retaliate or endure the insult to protect Juliana?
+
+**Quality caveat:** Voiceover references to "her life" depend on inferred relationships; the dilemma is clearer than the precise stakes.
+
+Historical model score: 7.65/10 (not rescored).
+
+## #9 PR-075 - 24.00s
+
+1. Episode 43: 00:00.00 - 00:24.00
+
+**Hook:** Rupert appears panicked; at +0.6s he cries "You're lying!" and lunges forward at +2.4s.
+
+**Cliffhanger:** The guard salutes Alexander and says "No. He is your Duke." Cut on the conspirators' reaction before they respond to his authority.
+
+**Why it works:** quick resistance leads to a satisfying status reversal. Lower priority because the identity reveal resolves much of the immediate dispute.
+
+**Why this posting priority:** Use for a hidden-identity rotation: quick resistance leads to a satisfying status reversal. Lower priority because the identity reveal resolves much of the immediate dispute.
+
+**Unresolved question:** How will Rupert and the conspirators respond now that the guard recognizes Alexander as Duke?
+
+**Quality caveat:** The reveal is a strong payoff but a softer unresolved ending; the opening accusation has no referent until the scene develops.
+
+Historical model score: 7.65/10 (not rescored).
+
+## #10 PR-085 - 40.70s
+
+1. Episode 50: 00:01.80 - 00:42.50
+
+**Hook:** Catherine lies beside the breathless Father Thomas and says from +0.0s, "A man in your collar isn't supposed to have that much left in him, Thomas."
+
+**Cliffhanger:** Catherine says "Unsupervised. In your hands alone." Father Thomas answers "For as long as it holds." Cut before the arrangement is tested.
+
+**Why it works:** the intimate opening and clerical relationship create intrigue
+
+**Why this posting priority:** Later niche rotation: the intimate opening and clerical relationship create intrigue. Below the clearer conflict scenes because the final agreement is vague to a new viewer.
+
+**Unresolved question:** Will the arrangement Catherine and Father Thomas discuss hold?
+
+**Quality caveat:** Sexual innuendo may restrict placement; the ending's referent and future stakes are unclear. Treat as a weak pick, not a proven cliffhanger.
+
+Historical model score: 7.55/10 (not rescored).
+
+## #11 PR-040 - 23.80s
+
+1. Episode 24: 01:06.00 - 01:29.80
+
+**Hook:** Prudence pleads at +0.2s; the noblewoman thrusts a riding crop toward her face at +1.5s and asks "Do you want the same punishment?" at +2.0s.
+
+**Cliffhanger:** With a remedy journal and vial concealed, Juliana vows in voiceover, "I will return. You cannot stop the healer." Cut before she carries out a plan.
+
+**Why it works:** a visible threat opens the clip and concealed remedies suggest a response. Lower priority because the closing vow promises action without a concrete imminent event.
+
+**Why this posting priority:** Later revenge rotation: a visible threat opens the clip and concealed remedies suggest a response. Lower priority because the closing vow promises action without a concrete imminent event.
+
+**Unresolved question:** How will Juliana use her concealed remedies to return and resist the noblewoman?
+
+**Quality caveat:** The ending is a resolve statement rather than a sharp interruption; the historical description overstated the exact final action.
+
+Historical model score: 7.45/10 (not rescored).
+
+## #12 PR-046 - 25.20s
+
+1. Episode 28: 00:22.80 - 00:48.00
+
+**Hook:** The weakened Duchess lifts her head at +0.0s and says "Rupert..." at +2.0s. "Stop this!" starts at +3.9s and is not the opening hook.
+
+**Cliffhanger:** After accusing Rupert and Catherine, she gasps "They have been—" and collapses coughing. Cut before the accusation is completed or her condition is resolved.
+
+**Why it works:** the interrupted accusation is a clear cliffhanger, but the actual first three seconds are subdued compared with higher-ranked openings.
+
+**Why this posting priority:** Lower-priority medical-betrayal alternative: the interrupted accusation is a clear cliffhanger, but the actual first three seconds are subdued compared with higher-ranked openings.
+
+**Unresolved question:** What were Rupert and Catherine doing, and will the Duchess survive long enough to expose them?
+
+**Quality caveat:** The old hook attributed a later command to the opening. Medical distress may create tension, but the first-three-second scroll-stop is weak.
+
+Historical model score: 7.45/10 (not rescored).
+
+## #13 PR-070 - 32.80s
+
+1. Episode 40: 00:23.00 - 00:34.20
+2. Episode 40: 00:55.80 - 01:17.40
+
+**Hook:** Lady Harrington is shown in profile and says "Imagine Juliana seeing this" at +0.2s; she does not address the camera.
+
+**Cliffhanger:** An elder nobleman promises new rulers by sunset and adds "And its witch will be dead." Cut before the planned death occurs.
+
+**Why it works:** the death threat creates a deadline
+
+**Why this posting priority:** Later conspiracy rotation: the death threat creates a deadline. Below more direct scenes because "this" and "its witch" require context and the multi-segment cut adds speakers.
+
+**Unresolved question:** Can Juliana survive the conspirators' planned execution by sunset?
+
+**Quality caveat:** The old hook invented a look into camera. The opening referent and victim identity may confuse a cold viewer.
+
+Historical model score: 7.10/10 (not rescored).
+
+## #14 PR-067 - 32.41s
+
+1. Episode 38: 00:55.50 - 01:27.91
+
+**Hook:** Juliana kneels upright and says "Let him live" at +0.0s, followed at +2.0s by "And if I have only one thing left to give..."
+
+**Cliffhanger:** From her cell Juliana hears the wedding bells, says "Then I suppose I'm next," and whispers "Alexander..." before the existing cut to black.
+
+**Why it works:** imprisonment and the wedding bells suggest danger, but the opening pronoun and execution connection need inference. Hook and cliffhanger scores also tie with PR-076; the stable promo-ID tie-break puts this first.
+
+**Why this posting priority:** Late loyalty rotation: imprisonment and the wedding bells suggest danger, but the opening pronoun and execution connection need inference. Hook and cliffhanger scores also tie with PR-076; the stable promo-ID tie-break puts this first.
+
+**Unresolved question:** Will Alexander reach Juliana before the wedding leads to her execution?
+
+**Quality caveat:** She is kneeling, not standing, at the opening. A hopeful smile and existing fade can feel like an episode ending rather than an interrupted action.
+
+Historical model score: 7.05/10 (not rescored).
+
+## #15 PR-076 - 20.60s
+
+1. Episode 43: 00:57.00 - 01:17.60
+
+**Hook:** Alexander thrusts a dossier forward at +0.0s and orders "Read the names" at +1.5s.
+
+**Cliffhanger:** After accusing Rupert of selling his men to the enemy, Alexander says "You took my title." Cut before Rupert answers or faces consequences.
+
+**Why it works:** 20.6 seconds delivers a compact revenge accusation, but names and prior political history create more context burden than the leading scenes.
+
+**Why this posting priority:** Final reserve: 20.6 seconds delivers a compact revenge accusation, but names and prior political history create more context burden than the leading scenes.
+
+**Unresolved question:** How will Rupert answer the accusations, and will Alexander reclaim his title?
+
+**Quality caveat:** The source labels the final line "Venomous," not whispered. Naming offenses provides payoff; the next consequence is implied rather than sharply interrupted.
+
+Historical model score: 7.05/10 (not rescored).
+

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "episodes": 50,
+  "elements": 3727,
+  "promos": 15,
+  "pdf_pages": 2,
+  "checks": [
+    "JSON/CSV parity",
+    "all segment timestamps and durations",
+    "zero dialogue crossings",
+    "scores and cut boundaries preserved",
+    "corrected PR-027 and PR-046 source windows",
+    "source descriptions and per-promo caveats",
+    "human evaluation optional"
+  ],
+  "scope": "Offline artifact checks; no fresh full-catalog AI run or audience evaluation."
+}

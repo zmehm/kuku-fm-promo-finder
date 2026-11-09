@@ -1,0 +1,10 @@
+{
+  "tests_per_package": 67,
+  "private_package": "passed",
+  "public_package": "passed",
+  "offline_stress_checks": "47/47",
+  "source_report": "outputs/stress_audit_20261109_030252/report.json",
+  "human_ratings": "pending, 0/30",
+  "fresh_full_pack": "blocked by API quota; not promoted",
+  "scorecard": "authored development cases with retained errors; not independent human evidence"
+}

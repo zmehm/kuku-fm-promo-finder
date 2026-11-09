@@ -1,0 +1,6 @@
+{
+  "regression_suite": "67 passed",
+  "dashboard_smoke": "passed; no Streamlit exceptions",
+  "fresh_api_calls": 0,
+  "scope": "Current corrections verified offline; original stress reports remain historical."
+}

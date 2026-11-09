@@ -1,0 +1,721 @@
+[
+  {
+    "rank": 1,
+    "promo": {
+      "promo_id": "PR-016",
+      "promo_type": "single_episode",
+      "episodes": [
+        10
+      ],
+      "segments": [
+        {
+          "episode": 10,
+          "start_time": "00:02.10",
+          "end_time": "00:38.90",
+          "start_seconds": 2.1,
+          "end_seconds": 38.9
+        }
+      ],
+      "total_duration_sec": 36.8,
+      "hook": "A door bangs open at +0.0s; at +0.5s Alexander appears in the doorway clutching his blood-soaked chest.",
+      "cliffhanger": "Juliana sees his scars and fresh wounds and whispers \"Dear God.\" The cut leaves how he was injured and what happens when she treats him unresolved.",
+      "why_it_works": "Lead with an immediate sound-and-image interruption and a simple two-person scene. Ranked above PR-008 by the historical model score; its ending is a mystery reveal rather than an imminent confrontation.",
+      "characters_in_clip": [
+        "JULIANA",
+        "ALEXANDER"
+      ],
+      "creative_angle": "survival_thriller"
+    },
+    "scores": {
+      "hook_strength": 9,
+      "cliffhanger_quality": 9,
+      "standalone_coherence": 8,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 8.75
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The reveal provides visual payoff; the future-outcome cliffhanger is weaker than PR-008 or PR-027. Blood imagery needs placement review.",
+    "posting_rationale": "Lead with an immediate sound-and-image interruption and a simple two-person scene. Ranked above PR-008 by the historical model score; its ending is a mystery reveal rather than an imminent confrontation.",
+    "historical_score_reasoning": "The clip opens with a strong visual hook of a blood-soaked man suddenly bursting through a door, instantly grabbing attention within the first three seconds. The standalone coherence is solid because their dynamic and immediate concern over his injury are clear without prior context. The emotional impact builds effectively through the escalating tension of treating a hidden, severe wound. Finally, the cliffhanger cuts off right as his horrific scars and fresh lacerations are fully revealed, leaving a compelling sense of shock and unanswered questions.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "How was Alexander injured, and what will happen when Juliana treats him?",
+      "caveat": "The reveal provides visual payoff; the future-outcome cliffhanger is weaker than PR-008 or PR-027. Blood imagery needs placement review.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 2,
+    "promo": {
+      "promo_id": "PR-008",
+      "promo_type": "multi_segment",
+      "episodes": [
+        5
+      ],
+      "segments": [
+        {
+          "episode": 5,
+          "start_time": "00:54.00",
+          "end_time": "01:14.50",
+          "start_seconds": 54.0,
+          "end_seconds": 74.5
+        },
+        {
+          "episode": 5,
+          "start_time": "01:31.00",
+          "end_time": "01:40.80",
+          "start_seconds": 91.0,
+          "end_seconds": 100.8
+        }
+      ],
+      "total_duration_sec": 30.299999999999997,
+      "hook": "Lady Ashcroft wrenches away the ledger at +0.0s and throws it at +0.5s while Juliana cries \"Barbara, don't!\" at +1.5s.",
+      "cliffhanger": "After Gerald insults Juliana, the bearded man warns, \"Choose your next words carefully.\" Cut before Gerald responds or the confrontation escalates.",
+      "why_it_works": "a concrete act of cruelty establishes sympathy immediately, and the final threat leaves a clear next action unresolved",
+      "characters_in_clip": [
+        "JULIANA",
+        "CLARISSA",
+        "GERALD",
+        "MYSTERIOUS BEARDED MAN"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 8.2
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. Four speakers and a jump between moments increase cold-viewer comprehension risk.",
+    "posting_rationale": "Post second: a concrete act of cruelty establishes sympathy immediately, and the final threat leaves a clear next action unresolved. Below PR-016 in the saved model order; stronger confrontation ending, but more characters and two segments.",
+    "historical_score_reasoning": "The clip immediately grabs attention in the first three seconds with Lady Ashcroft violently wrenching a ledger away and hurling it into the rain, eliciting a desperate scream from Juliana. The roles and stakes are instantly clear: Juliana is a distressed bride being humiliated by her peers while her mother's legacy is ruined. Emotional impact is high as Juliana falls to her knees in her white bridal gown, invoking strong sympathy. Finally, the clip cuts off right after a lethal threat from the mysterious bearded man, leaving the conflict completely unresolved.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Will Gerald back down, or will the bearded man act on his warning?",
+      "caveat": "Four speakers and a jump between moments increase cold-viewer comprehension risk.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 3,
+    "promo": {
+      "promo_id": "PR-027",
+      "promo_type": "single_episode",
+      "episodes": [
+        15
+      ],
+      "segments": [
+        {
+          "episode": 15,
+          "start_time": "00:44.20",
+          "end_time": "01:26.00",
+          "start_seconds": 44.2,
+          "end_seconds": 86.0
+        }
+      ],
+      "total_duration_sec": 41.8,
+      "hook": "At +0.6s the thug orders \"Get out of the way!\"; Juliana answers \"No.\" at +2.3s. The shove follows at +3.2s and is not the first-three-second hook.",
+      "cliffhanger": "The thug challenges Alexander, \"What? You want to fight us, veteran?\" The cut ends on Juliana awaiting the confrontation, before any fight outcome.",
+      "why_it_works": "the order and refusal establish conflict inside three seconds, followed by an assault and protector arrival. Tied with PR-008 on composite score; the historical hook-score tie-break favors PR-008.",
+      "characters_in_clip": [
+        "THUG WITH CAP",
+        "JULIANA",
+        "BALD THUG"
+      ],
+      "creative_angle": "protective_romance"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 8.2
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The historical score reasoning incorrectly placed the shove inside three seconds. The corrected hook is verbal defiance; this is a text correction, not a fresh score.",
+    "posting_rationale": "Post third: the order and refusal establish conflict inside three seconds, followed by an assault and protector arrival. Tied with PR-008 on composite score; hook and cliffhanger scores also tie, so the stable promo-ID tie-break puts PR-008 first.",
+    "historical_score_reasoning": "The clip opens with a strong physical confrontation and a shove within the first three seconds, creating an effective hook. The standalone coherence is quite high because the stakes are instantly clear: thugs are destroying a vulnerable woman's sentimental flowers. Emotional impact is well-delivered through Juliana's bloody hands and crying over her mother's plants, followed by the arrival of a heroic protector. Finally, the clip cuts off abruptly right before a confrontation between the newcomer and the thugs, providing a solid cliffhanger.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Will Alexander fight the thugs and protect Juliana?",
+      "caveat": "The historical score reasoning incorrectly placed the shove inside three seconds. The corrected hook is verbal defiance; this is a text correction, not a fresh score.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 4,
+    "promo": {
+      "promo_id": "PR-062",
+      "promo_type": "single_episode",
+      "episodes": [
+        36
+      ],
+      "segments": [
+        {
+          "episode": 36,
+          "start_time": "01:36.50",
+          "end_time": "02:31.50",
+          "start_seconds": 96.5,
+          "end_seconds": 151.5
+        }
+      ],
+      "total_duration_sec": 55.0,
+      "hook": "Alexander asks \"Then where is she?\" at +0.3s; his mother appears distressed at +2.5s. \"They arrested her!\" begins at +3.0s, outside the strict opening window.",
+      "cliffhanger": "His mother identifies the wedding as \"Rupert... and Catherine's.\" With Juliana condemned to die after it, the rescue remains unresolved.",
+      "why_it_works": "an execution deadline supplies strong urgency, but the opening pronoun needs context and the 55-second setup is longer.",
+      "characters_in_clip": [
+        "ALEXANDER",
+        "ALEXANDER'S MOTHER",
+        "ALEXANDER (O.S.)"
+      ],
+      "creative_angle": "survival_thriller"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 9,
+      "standalone_coherence": 8,
+      "emotional_impact": 8,
+      "duration_fitness": 7,
+      "composite": 8.15
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The opening question is context dependent. The old hook incorrectly compressed later revelations into the first three seconds.",
+    "posting_rationale": "Post after the first three: an execution deadline supplies strong urgency, but the opening pronoun needs context and the 55-second setup is longer.",
+    "historical_score_reasoning": "The clip opens with an immediate emotional outburst from the mother crying out that 'They arrested her!', which serves as a decent hook to grab attention. The standalone coherence is quite clear as we quickly learn that Juliana, who saved the mother, has been falsely accused of poisoning and sentenced to death by Rupert and Catherine. The emotional impact builds steadily through the mother's weeping and Alexander's escalating fury and horror. Finally, the cliffhanger drops a chilling reveal that the execution is set for Rupert and Catherine's wedding, leaving the outcome and Alexander's next move completely unresolved.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Can Alexander reach Juliana before the wedding and her execution?",
+      "caveat": "The opening question is context dependent. The old hook incorrectly compressed later revelations into the first three seconds.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 5,
+    "promo": {
+      "promo_id": "PR-002",
+      "promo_type": "single_episode",
+      "episodes": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_time": "00:46.80",
+          "end_time": "01:18.50",
+          "start_seconds": 46.8,
+          "end_seconds": 78.5
+        }
+      ],
+      "total_duration_sec": 31.700000000000003,
+      "hook": "At +0.0s Juliana accuses the groom: \"You knew this before I walked through those doors!\"",
+      "cliffhanger": "Asked \"How long?\", the woman replies, \"Long enough to know he was never going to marry you.\" Cut before Juliana responds.",
+      "why_it_works": "immediate accusation and clear humiliation",
+      "characters_in_clip": [
+        "LADY JULIANA",
+        "THE FORMER GROOM",
+        "LADY IN GOLD GOWN"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 7,
+      "standalone_coherence": 8,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 7.95
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. A reveal of an existing scheme is a payoff; anticipation of Juliana's response is a softer cliffhanger.",
+    "posting_rationale": "Use as an early betrayal alternative: immediate accusation and clear humiliation. Below PR-062 because the ending explains the betrayal more than it creates an urgent next action.",
+    "historical_score_reasoning": "The clip opens with Juliana yelling 'You knew this before I walked through those doors!', which provides an immediate and emotionally charged hook for anyone scrolling. The conflict is quickly established within the first few seconds: Juliana was humiliated at her wedding by her groom Gerald and her own sister, the Lady in Gold Gown, who conspired against her. Standalone coherence is high because the roles, betrayal, and stakes are clearly explained through dialogue and emotional reactions. The ending leaves a lingering sense of cruelty as the sister admits the scheme, though it cuts off just as the devastating realization sinks in, leaving a solid cliffhanger.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "How will Juliana respond to the groom and the woman who knew of the betrayal?",
+      "caveat": "A reveal of an existing scheme is a payoff; anticipation of Juliana's response is a softer cliffhanger.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 6,
+    "promo": {
+      "promo_id": "PR-041",
+      "promo_type": "single_episode",
+      "episodes": [
+        25
+      ],
+      "segments": [
+        {
+          "episode": 25,
+          "start_time": "00:13.20",
+          "end_time": "00:37.80",
+          "start_seconds": 13.2,
+          "end_seconds": 37.8
+        }
+      ],
+      "total_duration_sec": 24.599999999999998,
+      "hook": "At +0.0s Alexander grasps Juliana's shoulder and she recoils in pain; at +1.7s he says \"You're hurt.\"",
+      "cliffhanger": "Juliana answers his demand to identify her attacker: \"Lady Catherine.\" Cut before Alexander reacts or confronts her.",
+      "why_it_works": "Use next for a compact injury-to-accusation arc with only two central speakers. Lower priority because naming the attacker resolves the immediate question and leaves retaliation implied.",
+      "characters_in_clip": [
+        "ALEXANDER",
+        "JULIANA"
+      ],
+      "creative_angle": "protective_romance"
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.75
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The attacker reveal answers \"Who?\"; the next-action cliffhanger relies on Alexander's reaction, not an explicit new threat.",
+    "posting_rationale": "Use next for a compact injury-to-accusation arc with only two central speakers. Lower priority because naming the attacker resolves the immediate question and leaves retaliation implied.",
+    "historical_score_reasoning": "The clip starts with an immediate physical wince and injury reveal at 0.0s, offering a decent hook that grabs attention. The standalone coherence is strong because the characters' interaction and the physical evidence of abuse make the stakes clear without prior context. The emotional impact builds steadily around the concealed injury and the abuser's identity. Finally, ending right on the drop of the name 'Lady Catherine' leaves an unresolved tension that prompts the viewer to want more.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "What will Alexander do when he learns Lady Catherine hurt Juliana?",
+      "caveat": "The attacker reveal answers \"Who?\"; the next-action cliffhanger relies on Alexander's reaction, not an explicit new threat.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 7,
+    "promo": {
+      "promo_id": "PR-022",
+      "promo_type": "multi_segment",
+      "episodes": [
+        13
+      ],
+      "segments": [
+        {
+          "episode": 13,
+          "start_time": "00:04.20",
+          "end_time": "00:17.30",
+          "start_seconds": 4.2,
+          "end_seconds": 17.3
+        },
+        {
+          "episode": 13,
+          "start_time": "00:50.00",
+          "end_time": "01:07.00",
+          "start_seconds": 50.0,
+          "end_seconds": 67.0
+        }
+      ],
+      "total_duration_sec": 30.1,
+      "hook": "Alexander grips Juliana's arm at +0.9s and pleads \"Juliana, look at those thorns. You cannot do this.\" from +1.2s.",
+      "cliffhanger": "Gerald taunts, \"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\" Cut with the search and his freedom undecided.",
+      "why_it_works": "the dangerous search and captive husband give a concrete unresolved objective. More characters and the opening geography increase setup burden.",
+      "characters_in_clip": [
+        "ALEXANDER",
+        "JULIANA",
+        "CLARISSA (O.S.)",
+        "CLARISSA",
+        "GERALD"
+      ],
+      "creative_angle": "protective_romance"
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 7,
+      "emotional_impact": 8,
+      "duration_fitness": 10,
+      "composite": 7.7
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The garden bargain may require viewers to infer its rules; character labels include aliases that can inflate speaker counts.",
+    "posting_rationale": "Rotate after simpler scenes: the dangerous search and captive husband give a concrete unresolved objective. More characters and the opening geography increase setup burden.",
+    "historical_score_reasoning": "The clip starts with an immediate dramatic plea about dangerous thorns, which grabs attention quickly despite lacking prior context. The emotional and physical stakes become clear as Juliana crawls through briars to earn her handcuffed husband's freedom while villains mock her from above. The ending reveals the cruel game being played, leaving the immediate physical punishment ongoing and the success of her search entirely unresolved. The roles of the suffering couple versus the gleeful tormentors are easily understood by a scrolling viewer.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Can Juliana find what will secure her husband's freedom in the thorn garden?",
+      "caveat": "The garden bargain may require viewers to infer its rules; character labels include aliases that can inflate speaker counts.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 8,
+    "promo": {
+      "promo_id": "PR-019",
+      "promo_type": "multi_segment",
+      "episodes": [
+        11
+      ],
+      "segments": [
+        {
+          "episode": 11,
+          "start_time": "00:29.30",
+          "end_time": "00:39.20",
+          "start_seconds": 29.3,
+          "end_seconds": 39.2
+        },
+        {
+          "episode": 11,
+          "start_time": "01:16.80",
+          "end_time": "01:30.00",
+          "start_seconds": 76.8,
+          "end_seconds": 90.0
+        }
+      ],
+      "total_duration_sec": 23.100000000000005,
+      "hook": "Gerald opens at +0.0s: \"Of course you would defend him. You married a beggar!\"",
+      "cliffhanger": "Alexander thinks \"One blow would end this\" and then \"But one blow would destroy her life\" while the constable restrains him. Cut before his decision.",
+      "why_it_works": "the contempt is immediate and the withheld blow creates suspense",
+      "characters_in_clip": [
+        "GERALD",
+        "ALEXANDER",
+        "CONSTABLE",
+        "JULIANA",
+        "ALEXANDER (V.O.)"
+      ],
+      "creative_angle": "protective_romance"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 7,
+      "emotional_impact": 7,
+      "duration_fitness": 8,
+      "composite": 7.65
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. Voiceover references to \"her life\" depend on inferred relationships; the dilemma is clearer than the precise stakes.",
+    "posting_rationale": "Rotate for the insult-versus-restraint dilemma: the contempt is immediate and the withheld blow creates suspense. Below PR-022 because the consequences of retaliation are not explained.",
+    "historical_score_reasoning": "The clip opens with a strong mocking insult about marrying a beggar, immediately followed by a tense physical threat that hooks the viewer within the first three seconds. The roles and interpersonal conflict are relatively clear despite the lack of backstory, as Gerald acts as the provoking antagonist and Alexander plays the restrained protector. The narrative jumps via a hard cut, maintaining high tension through Gerald's taunting and Juliana's terror. It ends on a pained internal voiceover as Alexander is physically restrained, leaving the immediate confrontation unresolved and creating strong emotional sympathy and frustration.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Will Alexander retaliate or endure the insult to protect Juliana?",
+      "caveat": "Voiceover references to \"her life\" depend on inferred relationships; the dilemma is clearer than the precise stakes.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 9,
+    "promo": {
+      "promo_id": "PR-075",
+      "promo_type": "single_episode",
+      "episodes": [
+        43
+      ],
+      "segments": [
+        {
+          "episode": 43,
+          "start_time": "00:00.00",
+          "end_time": "00:24.00",
+          "start_seconds": 0.0,
+          "end_seconds": 24.0
+        }
+      ],
+      "total_duration_sec": 24.0,
+      "hook": "Rupert appears panicked; at +0.6s he cries \"You're lying!\" and lunges forward at +2.4s.",
+      "cliffhanger": "The guard salutes Alexander and says \"No. He is your Duke.\" Cut on the conspirators' reaction before they respond to his authority.",
+      "why_it_works": "quick resistance leads to a satisfying status reversal. Lower priority because the identity reveal resolves much of the immediate dispute.",
+      "characters_in_clip": [
+        "BLOND NOBLEMAN",
+        "ROYAL GUARD"
+      ],
+      "creative_angle": "hidden_identity"
+    },
+    "scores": {
+      "hook_strength": 7,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 9,
+      "composite": 7.65
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The reveal is a strong payoff but a softer unresolved ending; the opening accusation has no referent until the scene develops.",
+    "posting_rationale": "Use for a hidden-identity rotation: quick resistance leads to a satisfying status reversal. Lower priority because the identity reveal resolves much of the immediate dispute.",
+    "historical_score_reasoning": "The clip opens with an immediate hysterical outburst from Rupert shouting 'You're lying!', providing a decent initial hook that grabs attention. The standalone coherence is solid as it quickly establishes a dramatic impostor conflict in a cathedral setting with clear character dynamics. The cliffhanger lands well as the guards defy Lord Rupert and salute Alexander, revealing the true duke just as the wedding attendees freeze in shock. Emotional impact is moderately strong due to the public humiliation and high-stakes power shift.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "How will Rupert and the conspirators respond now that the guard recognizes Alexander as Duke?",
+      "caveat": "The reveal is a strong payoff but a softer unresolved ending; the opening accusation has no referent until the scene develops.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 10,
+    "promo": {
+      "promo_id": "PR-085",
+      "promo_type": "single_episode",
+      "episodes": [
+        50
+      ],
+      "segments": [
+        {
+          "episode": 50,
+          "start_time": "00:01.80",
+          "end_time": "00:42.50",
+          "start_seconds": 1.8,
+          "end_seconds": 42.5
+        }
+      ],
+      "total_duration_sec": 40.7,
+      "hook": "Catherine lies beside the breathless Father Thomas and says from +0.0s, \"A man in your collar isn't supposed to have that much left in him, Thomas.\"",
+      "cliffhanger": "Catherine says \"Unsupervised. In your hands alone.\" Father Thomas answers \"For as long as it holds.\" Cut before the arrangement is tested.",
+      "why_it_works": "the intimate opening and clerical relationship create intrigue",
+      "characters_in_clip": [
+        "CATHERINE",
+        "FATHER THOMAS"
+      ],
+      "creative_angle": "hidden_identity"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.55
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. Sexual innuendo may restrict placement; the ending's referent and future stakes are unclear. Treat as a weak pick, not a proven cliffhanger.",
+    "posting_rationale": "Later niche rotation: the intimate opening and clerical relationship create intrigue. Below the clearer conflict scenes because the final agreement is vague to a new viewer.",
+    "historical_score_reasoning": "The clip opens with an instantly attention-grabbing illicit dynamic between a woman and a priest, scoring well on the hook as Catherine teases Thomas about his collar. The standalone coherence is strong because the dialogue immediately establishes the transactional, taboo nature of their relationship and the massive political stakes involving territory and tax collection. However, the cliffhanger is somewhat muted as the dialogue trails off into a thematic statement rather than cutting off at a high-tension plot twist. It generates moderate intrigue and emotional impact due to the taboo pairing and corporate corruption elements, but stops short of being truly shocking.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Will the arrangement Catherine and Father Thomas discuss hold?",
+      "caveat": "Sexual innuendo may restrict placement; the ending's referent and future stakes are unclear. Treat as a weak pick, not a proven cliffhanger.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 11,
+    "promo": {
+      "promo_id": "PR-040",
+      "promo_type": "single_episode",
+      "episodes": [
+        24
+      ],
+      "segments": [
+        {
+          "episode": 24,
+          "start_time": "01:06.00",
+          "end_time": "01:29.80",
+          "start_seconds": 66.0,
+          "end_seconds": 89.8
+        }
+      ],
+      "total_duration_sec": 23.799999999999997,
+      "hook": "Prudence pleads at +0.2s; the noblewoman thrusts a riding crop toward her face at +1.5s and asks \"Do you want the same punishment?\" at +2.0s.",
+      "cliffhanger": "With a remedy journal and vial concealed, Juliana vows in voiceover, \"I will return. You cannot stop the healer.\" Cut before she carries out a plan.",
+      "why_it_works": "a visible threat opens the clip and concealed remedies suggest a response. Lower priority because the closing vow promises action without a concrete imminent event.",
+      "characters_in_clip": [
+        "PRUDENCE",
+        "NOBLEWOMAN",
+        "LADY JULIANA (V.O.)"
+      ],
+      "creative_angle": "hidden_identity"
+    },
+    "scores": {
+      "hook_strength": 8,
+      "cliffhanger_quality": 6,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 9,
+      "composite": 7.45
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The ending is a resolve statement rather than a sharp interruption; the historical description overstated the exact final action.",
+    "posting_rationale": "Later revenge rotation: a visible threat opens the clip and concealed remedies suggest a response. Lower priority because the closing vow promises action without a concrete imminent event.",
+    "historical_score_reasoning": "The clip grabs attention immediately in the first two seconds with a sudden threat involving a riding crop to the face, establishing a strong hook. The stakes and character dynamics between the abusive noblewoman and the disguised servant Juliana are very clear and easy to follow. The cliffhanger relies on a voiceover promising retribution ('You cannot stop the healer'), which provides moderate tension but lacks a sharp plot-twist cut. Overall, it delivers a clear underdog revenge premise that effectively hooks a scrolling viewer.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "How will Juliana use her concealed remedies to return and resist the noblewoman?",
+      "caveat": "The ending is a resolve statement rather than a sharp interruption; the historical description overstated the exact final action.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 12,
+    "promo": {
+      "promo_id": "PR-046",
+      "promo_type": "single_episode",
+      "episodes": [
+        28
+      ],
+      "segments": [
+        {
+          "episode": 28,
+          "start_time": "00:22.80",
+          "end_time": "00:48.00",
+          "start_seconds": 22.8,
+          "end_seconds": 48.0
+        }
+      ],
+      "total_duration_sec": 25.2,
+      "hook": "The weakened Duchess lifts her head at +0.0s and says \"Rupert...\" at +2.0s. \"Stop this!\" starts at +3.9s and is not the opening hook.",
+      "cliffhanger": "After accusing Rupert and Catherine, she gasps \"They have been—\" and collapses coughing. Cut before the accusation is completed or her condition is resolved.",
+      "why_it_works": "the interrupted accusation is a clear cliffhanger, but the actual first three seconds are subdued compared with higher-ranked openings.",
+      "characters_in_clip": [
+        "DOWAGER DUCHESS",
+        "DOWAGER DUCHESS (O.S.)",
+        "JULIANA"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.45
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The old hook attributed a later command to the opening. Medical distress may create tension, but the first-three-second scroll-stop is weak.",
+    "posting_rationale": "Lower-priority medical-betrayal alternative: the interrupted accusation is a clear cliffhanger, but the actual first three seconds are subdued compared with higher-ranked openings.",
+    "historical_score_reasoning": "The clip begins slowly with the Dowager Duchess stirring and calling out, which provides an okay hook but lacks an immediate visual explosion or shocking reveal in the first three seconds. However, the standalone coherence is strong because the dialogue quickly establishes the core conflict: the Duchess wakes up, defends Juliana by claiming 'she saved me,' and accuses Rupert and Catherine of knowing about her poisoning. The emotional impact builds effectively through the betrayal and accusation. Finally, the cliffhanger is high quality as the Duchess collapses mid-sentence right before revealing the full plot ('They have been—'), leaving the viewer hanging on the outcome.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "What were Rupert and Catherine doing, and will the Duchess survive long enough to expose them?",
+      "caveat": "The old hook attributed a later command to the opening. Medical distress may create tension, but the first-three-second scroll-stop is weak.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 13,
+    "promo": {
+      "promo_id": "PR-070",
+      "promo_type": "multi_segment",
+      "episodes": [
+        40
+      ],
+      "segments": [
+        {
+          "episode": 40,
+          "start_time": "00:23.00",
+          "end_time": "00:34.20",
+          "start_seconds": 23.0,
+          "end_seconds": 34.2
+        },
+        {
+          "episode": 40,
+          "start_time": "00:55.80",
+          "end_time": "01:17.40",
+          "start_seconds": 55.8,
+          "end_seconds": 77.4
+        }
+      ],
+      "total_duration_sec": 32.80000000000001,
+      "hook": "Lady Harrington is shown in profile and says \"Imagine Juliana seeing this\" at +0.2s; she does not address the camera.",
+      "cliffhanger": "An elder nobleman promises new rulers by sunset and adds \"And its witch will be dead.\" Cut before the planned death occurs.",
+      "why_it_works": "the death threat creates a deadline",
+      "characters_in_clip": [
+        "LADY HARRINGTON",
+        "LORD HARRINGTON",
+        "ELDER NOBLEMAN",
+        "ROYAL GUARD"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 7,
+      "emotional_impact": 6,
+      "duration_fitness": 10,
+      "composite": 7.1
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The old hook invented a look into camera. The opening referent and victim identity may confuse a cold viewer.",
+    "posting_rationale": "Later conspiracy rotation: the death threat creates a deadline. Below more direct scenes because \"this\" and \"its witch\" require context and the multi-segment cut adds speakers.",
+    "historical_score_reasoning": "The clip starts with Lady Harrington gloating about Juliana 'not seeing anything for long,' which provides an intriguing and slightly sinister hook, though it leans heavily on dialogue setup. The coherence is aided by the clear villainous plotting and the subsequent scene setting up a trap at a cathedral with royal guards securing the exits. The cliffhanger lands on a strong, dramatic threat ('And its witch will be dead'), leaving the ultimate fate of Juliana entirely unresolved. Overall, it generates moderate sympathy and outrage against the conspirators, fitting well within the standard tropes of historical microdramas.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Can Juliana survive the conspirators' planned execution by sunset?",
+      "caveat": "The old hook invented a look into camera. The opening referent and victim identity may confuse a cold viewer.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 14,
+    "promo": {
+      "promo_id": "PR-067",
+      "promo_type": "single_episode",
+      "episodes": [
+        38
+      ],
+      "segments": [
+        {
+          "episode": 38,
+          "start_time": "00:55.50",
+          "end_time": "01:27.91",
+          "start_seconds": 55.5,
+          "end_seconds": 87.91
+        }
+      ],
+      "total_duration_sec": 32.41,
+      "hook": "Juliana kneels upright and says \"Let him live\" at +0.0s, followed at +2.0s by \"And if I have only one thing left to give...\"",
+      "cliffhanger": "From her cell Juliana hears the wedding bells, says \"Then I suppose I'm next,\" and whispers \"Alexander...\" before the existing cut to black.",
+      "why_it_works": "imprisonment and the wedding bells suggest danger, but the opening pronoun and execution connection need inference. The historical cliffhanger tie-break puts it before PR-076.",
+      "characters_in_clip": [
+        "JULIANA"
+      ],
+      "creative_angle": "protective_romance"
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 6,
+      "emotional_impact": 7,
+      "duration_fitness": 10,
+      "composite": 7.05
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. She is kneeling, not standing, at the opening. A hopeful smile and existing fade can feel like an episode ending rather than an interrupted action.",
+    "posting_rationale": "Late loyalty rotation: imprisonment and the wedding bells suggest danger, but the opening pronoun and execution connection need inference. Hook and cliffhanger scores also tie with PR-076; the stable promo-ID tie-break puts this first.",
+    "historical_score_reasoning": "The clip begins with dramatic dialogue and a kneeling posture at 000.0s, which establishes a moderate hook though it relies heavily on character action rather than an immediate explosion or slap. The standalone coherence is decent as we understand Juliana is imprisoned and refusing to betray her husband Alexander, but the background stakes regarding 'the wedding' are vague. The emotional impact is driven by her sudden shift to a brave smile, making us care about her fate. Finally, the cliffhanger cuts sharply to black on a high-tension musical swell just as she whispers her husband's name, leaving her immediate fate entirely unresolved.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "Will Alexander reach Juliana before the wedding leads to her execution?",
+      "caveat": "She is kneeling, not standing, at the opening. A hopeful smile and existing fade can feel like an episode ending rather than an interrupted action.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  },
+  {
+    "rank": 15,
+    "promo": {
+      "promo_id": "PR-076",
+      "promo_type": "single_episode",
+      "episodes": [
+        43
+      ],
+      "segments": [
+        {
+          "episode": 43,
+          "start_time": "00:57.00",
+          "end_time": "01:17.60",
+          "start_seconds": 57.0,
+          "end_seconds": 77.6
+        }
+      ],
+      "total_duration_sec": 20.599999999999994,
+      "hook": "Alexander thrusts a dossier forward at +0.0s and orders \"Read the names\" at +1.5s.",
+      "cliffhanger": "After accusing Rupert of selling his men to the enemy, Alexander says \"You took my title.\" Cut before Rupert answers or faces consequences.",
+      "why_it_works": "20.6 seconds delivers a compact revenge accusation, but names and prior political history create more context burden than the leading scenes.",
+      "characters_in_clip": [
+        "ALEXANDER",
+        "CROWN OFFICIAL",
+        "DOWAGER DUCHESS",
+        "BLOND NOBLEMAN"
+      ],
+      "creative_angle": "betrayal_revenge"
+    },
+    "scores": {
+      "hook_strength": 6,
+      "cliffhanger_quality": 8,
+      "standalone_coherence": 8,
+      "emotional_impact": 7,
+      "duration_fitness": 6,
+      "composite": 7.05
+    },
+    "score_reasoning": "Historical model score retained; source descriptions corrected without rescoring. The source labels the final line \"Venomous,\" not whispered. Naming offenses provides payoff; the next consequence is implied rather than sharply interrupted.",
+    "posting_rationale": "Final reserve: 20.6 seconds delivers a compact revenge accusation, but names and prior political history create more context burden than the leading scenes.",
+    "historical_score_reasoning": "The clip starts with Alexander demanding someone read names from a dossier, which immediately creates a dramatic, high-stakes atmosphere but lacks a truly explosive hook for a scrolling stranger. The coherence is solid as the dialogue quickly establishes betrayal and treason by Lord Henry, Rupert, and others. The emotional impact is moderate, driven by gasps of horror and accusations of selling men to the enemy. Finally, the cliffhanger ending abruptly with the revelation that they took his title leaves enough tension unresolved to encourage watching the next part.",
+    "quality_review": {
+      "method": "AI-assisted source-text review; no new API calls or human evaluation",
+      "unresolved_question": "How will Rupert answer the accusations, and will Alexander reclaim his title?",
+      "caveat": "The source labels the final line \"Venomous,\" not whispered. Naming offenses provides payoff; the next consequence is implied rather than sharply interrupted.",
+      "score_status": "historical; not recomputed after description correction"
+    }
+  }
+]
